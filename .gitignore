@@ -1,6 +1,11 @@
 # Temporary Word files
 ~$*
 
+# Course submission files (kept locally, not tracked)
+*.docx
+Claude Suggestions/
+Diagrams/
+
 # macOS
 .DS_Store
 
