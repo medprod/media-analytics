@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="n0doL5EsGd5DmijZrWw8">
+    <mxGraphModel dx="1753" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-1" parent="1" style="shape=document;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="streaming_service.csv" vertex="1">
+          <mxGeometry height="60" width="160" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-2" parent="1" style="shape=document;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="platform_summary.csv" vertex="1">
+          <mxGeometry height="60" width="160" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-3" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Python (pd.read_csv)" vertex="1">
+          <mxGeometry height="60" width="160" x="240" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-4" parent="1" style="shape=table;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="StreamingServiceDistinct_df (Staging)" vertex="1">
+          <mxGeometry height="60" width="200" x="440" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-5" parent="1" style="shape=table;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="PlatformSummaryDistinct_df (Staging)" vertex="1">
+          <mxGeometry height="60" width="200" x="430" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-6" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Python pandas Transformations&#xa;(T1: Date | T2: Year | T3: Price Tier&#xa;T4: MoM Change | T5: Cumulative Increase&#xa;T6: Derived Cols | T7: Name Mapping)" vertex="1">
+          <mxGeometry height="80" width="220" x="730" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-7" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Python&#xa;(pd.merge + pd.concat)" vertex="1">
+          <mxGeometry height="60" width="180" x="750" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-8" parent="1" style="shape=table;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="DimPlatform (Python DataFrame)" vertex="1">
+          <mxGeometry height="60" width="200" x="640" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-9" parent="1" style="shape=table;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="DimSubscriptionPlan (Python DataFrame)" vertex="1">
+          <mxGeometry height="60" width="200" x="850" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-10" parent="1" style="shape=table;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="FactSubscriptionPricing (Python DataFrame)" vertex="1">
+          <mxGeometry height="60" width="200" x="970" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-11" edge="1" parent="1" source="ODGoC0jKvzFidFxbOZOD-1" target="ODGoC0jKvzFidFxbOZOD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-12" edge="1" parent="1" source="ODGoC0jKvzFidFxbOZOD-2" target="ODGoC0jKvzFidFxbOZOD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-13" edge="1" parent="1" source="ODGoC0jKvzFidFxbOZOD-3" target="ODGoC0jKvzFidFxbOZOD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-14" edge="1" parent="1" source="ODGoC0jKvzFidFxbOZOD-3" target="ODGoC0jKvzFidFxbOZOD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-15" edge="1" parent="1" source="ODGoC0jKvzFidFxbOZOD-4" target="ODGoC0jKvzFidFxbOZOD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-16" edge="1" parent="1" source="ODGoC0jKvzFidFxbOZOD-5" target="ODGoC0jKvzFidFxbOZOD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-17" edge="1" parent="1" source="ODGoC0jKvzFidFxbOZOD-6" target="ODGoC0jKvzFidFxbOZOD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-18" edge="1" parent="1" source="ODGoC0jKvzFidFxbOZOD-7" target="ODGoC0jKvzFidFxbOZOD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-19" edge="1" parent="1" source="ODGoC0jKvzFidFxbOZOD-7" target="ODGoC0jKvzFidFxbOZOD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ODGoC0jKvzFidFxbOZOD-20" edge="1" parent="1" source="ODGoC0jKvzFidFxbOZOD-7" target="ODGoC0jKvzFidFxbOZOD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
