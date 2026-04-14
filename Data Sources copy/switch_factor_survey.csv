@@ -1,0 +1,2026 @@
+survey_year,respondent_id,switched_from,switched_to,primary_switch_reason,secondary_switch_reason,age_group,region,household_income_bracket,satisfaction_score
+2015,10228,Broadcast TV,YouTube,Convenience,,18-24,Midwest,$75K-$150K,6.89
+2015,10051,Broadcast TV,Spotify,Content Selection,Recommendation,55+,South,$75K-$150K,8.0
+2015,11518,newspaper,Amazon Prime Video,Device Availability,Device Availability,35-44,West,>$150K,8.0
+2015,10563,Cable,Netflix,Price,,18-24,South,<$35K,8.0
+2015,10501,Cable,Max,Device Availability,,55+,South,>$150K,6.89
+2015,10457,broadcast tv,Peacock,Recommendation,,18-24,Northeast,<$35K,9.0
+2015,10285,Satellite radio,Amazon Prime Video,Content Selection,,25-34,West,$35K-$75K,7.0
+2015,11508,Satellite Radio,Netflix,Device Availability,,18-24,Northeast,$35K-$75K,8.0
+2015,10209,Cable television,Netflix,Content Selection,Recommendation,35-44,West,$75K-$150K,3.0
+2015,11385,Broadcast,Amazon Prime Video,Convenience,Price,55+,Northeast,$75K-$150K,
+2015,11516,Broadcast,Netflix,Bundling,Content Selection,18-24,Northeast,$35K-$75K,3.0
+2015,11827,Cable TV,Peacock,Device Availability,,55+,Midwest,$75K-$150K,9.0
+2015,11116,Cable television,Disney+,Device Availability,,45-54,Midwest,<$35K,9.3
+2015,10178,broadcast tv,Disney+,Convenience,,25-34,Midwest,$75K-$150K,7.0
+2015,11209,Broadcast TV,Spotify,Convenience,,18-24,South,$75K-$150K,7.44
+2015,10864,broadcast tv,Amazon Prime Video,Device Availability,,35-44,West,$75K-$150K,7.0
+2015,10065,Cable television,Max,Price,Content Selection,35-44,South,>$150K,
+2015,10061,Cable,Spotify,Price,,55+,South,>$150K,6.0
+2015,10191,Satellite Radio,Apple TV+,Content Selection,,18-24,Midwest,>$150K,9.75
+2015,10447,Cable,Peacock,Price,Convenience,45-54,South,$75K-$150K,6.0
+2015,10476,Cable TV,Paramount+,Content Selection,Recommendation,35-44,Midwest,$35K-$75K,7.25
+2015,11034,cable tv,Apple TV+,Device Availability,,55+,Midwest,<$35K,9.0
+2015,11232,cable tv,Netflix,Price,,35-44,Midwest,>$150K,5.0
+2015,10054,Cable television,Netflix,Bundling,,55+,South,$75K-$150K,5.0
+2015,11149,newspaper,Apple TV+,Device Availability,,35-44,Midwest,>$150K,5.52
+2015,10407,Network TV,Disney+,Bundling,,45-54,Northeast,$75K-$150K,9.0
+2015,11466,broadcast tv,Paramount+,Recommendation,Content Selection,55+,West,$35K-$75K,6.0
+2015,11330,Cable,Max,Content Selection,,25-34,Northeast,<$35K,6.0
+2015,11436,Satellite Radio,Paramount+,Recommendation,,55+,South,>$150K,5.45
+2015,10859,Satellite Radio,Peacock,Content Selection,Device Availability,55+,West,<$35K,7.0
+2015,10451,Cable,Paramount+,Device Availability,,55+,Midwest,>$150K,5.0
+2015,10919,Broadcast,Paramount+,Recommendation,Content Selection,35-44,West,$35K-$75K,4.93
+2015,11206,cable tv,Apple TV+,Convenience,,18-24,South,$35K-$75K,7.13
+2015,10569,Network TV,Peacock,Price,Recommendation,45-54,Northeast,>$150K,10.0
+2015,11657,Cable television,Peacock,Bundling,,55+,South,>$150K,
+2015,11780,Cable television,Disney+,Recommendation,,55+,Northeast,>$150K,9.0
+2015,10013,Cable television,Disney+,Recommendation,Convenience,45-54,Midwest,$35K-$75K,5.23
+2015,11554,Newspaper,Max,Price,,55+,Northeast,$75K-$150K,7.26
+2015,11650,Print,Netflix,Content Selection,Price,55+,South,$35K-$75K,8.68
+2015,10326,broadcast tv,Disney+,Bundling,,18-24,South,$75K-$150K,8.71
+2015,11429,Cable television,Peacock,Device Availability,Bundling,25-34,Northeast,$75K-$150K,8.0
+2015,10865,satellite radio,Spotify,Recommendation,,18-24,Midwest,<$35K,5.0
+2015,10696,cable tv,Paramount+,Device Availability,Content Selection,55+,Midwest,>$150K,4.0
+2015,10318,Cable TV,Max,Recommendation,Recommendation,55+,West,$75K-$150K,
+2015,10440,Satellite radio,Paramount+,Content Selection,Convenience,35-44,Midwest,$75K-$150K,4.76
+2015,11960,Broadcast,Paramount+,Device Availability,,45-54,Northeast,<$35K,6.0
+2015,11563,CABLE TV,Apple TV+,Recommendation,,35-44,West,$75K-$150K,5.62
+2015,10689,broadcast tv,Hulu,Device Availability,,25-34,South,$35K-$75K,8.39
+2015,10189,broadcast tv,Hulu,Content Selection,Convenience,25-34,Midwest,<$35K,
+2015,10778,cable tv,Disney+,Device Availability,,45-54,Northeast,<$35K,6.0
+2015,10198,Broadcast,Netflix,Convenience,,45-54,Northeast,<$35K,6.23
+2015,10735,CABLE TV,Max,Price,,18-24,West,$35K-$75K,7.0
+2015,11735,Print Media,YouTube,Recommendation,Bundling,18-24,Northeast,$35K-$75K,5.81
+2015,10704,Broadcast,Netflix,Recommendation,,55+,West,$75K-$150K,
+2015,11236,cable tv,Paramount+,Price,,35-44,South,>$150K,7.76
+2015,10541,Cable TV,Disney+,Convenience,,55+,Midwest,>$150K,8.0
+2015,11652,broadcast tv,Spotify,Bundling,,18-24,Northeast,>$150K,
+2015,10088,CABLE TV,YouTube,Price,,35-44,Northeast,$35K-$75K,4.0
+2015,11494,print media,YouTube,Recommendation,,45-54,Northeast,>$150K,6.0
+2015,10940,Cable television,Max,Device Availability,,55+,Northeast,>$150K,8.12
+2015,11098,Cable television,Spotify,Price,,55+,West,>$150K,9.0
+2015,10255,Broadcast TV,Amazon Prime Video,Convenience,,35-44,West,>$150K,8.0
+2015,11992,Broadcast,Disney+,Convenience,,55+,West,<$35K,7.0
+2015,11888,Broadcast,Paramount+,Device Availability,Device Availability,35-44,West,>$150K,10.21
+2015,10775,Network TV,Amazon Prime Video,Bundling,,25-34,Northeast,$75K-$150K,7.0
+2015,10161,Cable TV,Max,Device Availability,Bundling,55+,West,$35K-$75K,3.0
+2015,11130,CABLE TV,Peacock,Recommendation,,25-34,South,>$150K,
+2015,10600,Network TV,Peacock,Device Availability,,25-34,West,<$35K,10.0
+2015,11698,Cable TV,Paramount+,Price,,45-54,Northeast,$35K-$75K,5.0
+2015,11287,Print Media,YouTube,Device Availability,Price,35-44,West,$75K-$150K,8.0
+2015,11266,Broadcast TV,YouTube,Price,Device Availability,35-44,South,<$35K,6.0
+2015,11813,broadcast tv,Netflix,Price,Price,35-44,Midwest,$75K-$150K,7.13
+2015,11764,Broadcast,Disney+,Content Selection,Recommendation,55+,South,>$150K,7.65
+2015,10740,Cable TV,Paramount+,Convenience,,25-34,Northeast,>$150K,6.0
+2015,11182,Cable television,Max,Recommendation,,25-34,West,>$150K,8.18
+2015,10393,Broadcast TV,Peacock,Convenience,Device Availability,18-24,West,$75K-$150K,7.9
+2015,11442,Satellite radio,Amazon Prime Video,Bundling,Device Availability,25-34,Northeast,<$35K,6.0
+2015,10142,cable tv,Apple TV+,Device Availability,Content Selection,25-34,Midwest,$75K-$150K,8.61
+2015,10093,SiriusXM,Max,Device Availability,,18-24,West,<$35K,10.0
+2015,11354,newspaper,Apple TV+,Price,,18-24,Midwest,<$35K,10.0
+2015,10466,Network TV,Apple TV+,Price,,45-54,Northeast,$75K-$150K,
+2015,11583,satellite radio,Peacock,Price,Price,35-44,West,<$35K,6.0
+2015,10592,Cable television,Apple TV+,Device Availability,,55+,West,$35K-$75K,9.0
+2015,10163,Print Media,Netflix,Device Availability,Recommendation,45-54,South,$75K-$150K,5.0
+2015,11751,broadcast tv,Netflix,Recommendation,Price,45-54,Northeast,$35K-$75K,
+2015,11774,Satellite radio,Disney+,Bundling,Bundling,25-34,South,$35K-$75K,4.91
+2015,10206,Print,Max,Content Selection,,55+,Midwest,$35K-$75K,10.0
+2015,10928,satellite radio,Netflix,Content Selection,Content Selection,45-54,Northeast,<$35K,9.0
+2015,11301,Broadcast TV,Paramount+,Bundling,Bundling,18-24,Midwest,>$150K,7.0
+2015,11708,Broadcast TV,Paramount+,Device Availability,,18-24,Northeast,$75K-$150K,6.45
+2015,10747,CABLE TV,Spotify,Device Availability,Bundling,55+,Midwest,>$150K,4.89
+2015,10333,Broadcast,Peacock,Recommendation,,45-54,Midwest,>$150K,7.0
+2015,10758,cable tv,Max,Convenience,,45-54,Northeast,<$35K,7.0
+2015,10727,Satellite Radio,YouTube,Bundling,,18-24,West,$75K-$150K,6.0
+2015,10429,Broadcast TV,Max,Bundling,Price,55+,South,$35K-$75K,6.0
+2015,11372,cable tv,YouTube,Content Selection,,55+,Northeast,$75K-$150K,
+2015,10546,cable tv,Apple TV+,Convenience,Content Selection,55+,West,<$35K,
+2015,11437,Broadcast,Peacock,Recommendation,,25-34,Midwest,$75K-$150K,9.0
+2015,11918,Broadcast TV,Netflix,Content Selection,Bundling,18-24,Northeast,$75K-$150K,5.0
+2015,11399,CABLE TV,Hulu,Convenience,Convenience,55+,West,$75K-$150K,
+2015,11327,CABLE TV,Netflix,Price,Content Selection,25-34,Midwest,$75K-$150K,6.69
+2015,10146,Cable,Spotify,Bundling,,35-44,Northeast,>$150K,7.0
+2015,11247,Cable TV,Apple TV+,Bundling,Recommendation,45-54,Midwest,<$35K,3.0
+2015,11300,broadcast tv,Hulu,Recommendation,,25-34,West,>$150K,9.0
+2015,10350,cable tv,Amazon Prime Video,Convenience,,18-24,Northeast,$35K-$75K,8.0
+2015,11093,Satellite radio,Hulu,Content Selection,Content Selection,55+,South,<$35K,6.0
+2015,11493,Network TV,YouTube,Device Availability,,55+,Midwest,$75K-$150K,7.0
+2015,10334,Cable TV,Apple TV+,Bundling,Recommendation,45-54,Northeast,<$35K,7.35
+2015,10946,Broadcast TV,YouTube,Bundling,,45-54,Northeast,>$150K,9.0
+2015,10777,Broadcast TV,Paramount+,Price,,35-44,Northeast,$35K-$75K,
+2015,10552,Network TV,Spotify,Bundling,,35-44,Midwest,$75K-$150K,4.44
+2015,11895,broadcast tv,Hulu,Convenience,Device Availability,45-54,Midwest,$75K-$150K,9.0
+2015,11310,print media,Apple TV+,Price,,25-34,Midwest,$75K-$150K,10.0
+2015,11409,Print Media,Spotify,Recommendation,,35-44,South,<$35K,6.0
+2015,11140,cable tv,Max,Content Selection,,35-44,West,$35K-$75K,
+2015,10449,Satellite Radio,Spotify,Bundling,,55+,Northeast,$75K-$150K,8.0
+2015,11402,Broadcast,Disney+,Content Selection,,55+,South,>$150K,8.0
+2015,10664,Network TV,Amazon Prime Video,Bundling,Recommendation,25-34,Midwest,>$150K,7.26
+2015,11726,CABLE TV,Peacock,Content Selection,,55+,South,$75K-$150K,9.0
+2015,11573,Broadcast TV,Max,Price,,35-44,West,$35K-$75K,7.46
+2015,11589,Newspaper,Apple TV+,Price,Recommendation,55+,Midwest,$35K-$75K,6.0
+2015,10114,cable tv,Disney+,Content Selection,Recommendation,25-34,West,>$150K,7.0
+2015,10469,Cable,Disney+,Bundling,,55+,West,<$35K,7.02
+2015,11683,Network TV,Hulu,Price,,45-54,Northeast,$35K-$75K,5.49
+2015,11648,cable tv,Amazon Prime Video,Bundling,Device Availability,18-24,Midwest,<$35K,9.0
+2015,10646,Cable television,Netflix,Device Availability,Convenience,35-44,Northeast,$75K-$150K,6.0
+2015,10821,Broadcast TV,YouTube,Device Availability,,25-34,Northeast,$75K-$150K,4.0
+2015,10548,Network TV,Disney+,Content Selection,Recommendation,18-24,Midwest,$35K-$75K,
+2015,10135,Cable TV,Apple TV+,Convenience,,55+,West,$75K-$150K,9.0
+2015,10432,cable tv,Max,Price,,45-54,West,>$150K,7.0
+2015,11870,Newspaper,Paramount+,Convenience,,55+,Midwest,<$35K,7.0
+2015,11931,broadcast tv,Hulu,Price,Convenience,35-44,West,>$150K,6.0
+2015,11161,broadcast tv,YouTube,Recommendation,Price,18-24,West,$75K-$150K,3.81
+2015,11794,SiriusXM,Netflix,Content Selection,Device Availability,35-44,Midwest,>$150K,6.55
+2015,11470,Cable television,Apple TV+,Convenience,Price,55+,South,$75K-$150K,4.71
+2015,10644,Network TV,Spotify,Recommendation,,18-24,Midwest,$75K-$150K,8.36
+2015,10435,Network TV,Amazon Prime Video,Price,Price,45-54,South,>$150K,10.0
+2015,11342,Broadcast TV,Spotify,Bundling,Convenience,25-34,South,$75K-$150K,6.74
+2015,11022,Cable,Amazon Prime Video,Recommendation,Bundling,55+,Midwest,>$150K,7.55
+2015,10810,Cable television,Spotify,Recommendation,,55+,Northeast,$35K-$75K,5.0
+2015,11811,broadcast tv,Disney+,Bundling,,25-34,South,>$150K,3.0
+2015,11872,Cable,Apple TV+,Device Availability,Bundling,35-44,Northeast,$75K-$150K,7.0
+2015,11316,cable tv,YouTube,Bundling,Device Availability,25-34,South,$35K-$75K,5.0
+2015,10939,Broadcast TV,Hulu,Price,,55+,Midwest,$35K-$75K,4.0
+2015,10292,Network TV,Spotify,Convenience,,35-44,West,$35K-$75K,7.72
+2015,10542,Cable television,Peacock,Recommendation,,35-44,South,$75K-$150K,4.0
+2015,10505,Print Media,Peacock,Content Selection,,55+,Northeast,$75K-$150K,6.85
+2015,11525,Cable television,YouTube,Recommendation,Content Selection,35-44,Midwest,$35K-$75K,8.0
+2015,11103,Network TV,Max,Recommendation,Recommendation,55+,West,$35K-$75K,
+2015,10538,Network TV,Max,Bundling,Price,45-54,South,$75K-$150K,8.0
+2015,11529,Cable television,Netflix,Bundling,,35-44,Midwest,<$35K,5.0
+2015,11197,Broadcast TV,Disney+,Price,Convenience,55+,Midwest,$35K-$75K,8.0
+2015,10877,Broadcast TV,Netflix,Content Selection,,45-54,West,$35K-$75K,5.0
+2015,11838,CABLE TV,Max,Bundling,Bundling,55+,West,$75K-$150K,5.46
+2015,11195,Cable TV,Peacock,Bundling,Device Availability,18-24,West,$75K-$150K,10.0
+2015,10817,Network TV,Disney+,Bundling,,55+,West,$35K-$75K,6.15
+2015,10741,Broadcast TV,Amazon Prime Video,Price,Recommendation,25-34,West,$35K-$75K,4.0
+2015,10283,Broadcast TV,Disney+,Bundling,Convenience,45-54,West,$75K-$150K,8.0
+2015,11043,broadcast tv,Max,Bundling,,25-34,Midwest,$75K-$150K,7.56
+2015,11010,Cable television,Apple TV+,Recommendation,Device Availability,35-44,Midwest,<$35K,10.0
+2015,10186,SiriusXM,Apple TV+,Content Selection,Convenience,18-24,Midwest,>$150K,5.0
+2015,11547,CABLE TV,Max,Content Selection,Device Availability,55+,South,$35K-$75K,
+2015,10096,print media,Amazon Prime Video,Price,Convenience,45-54,Northeast,$35K-$75K,9.0
+2015,11763,Newspaper,Paramount+,Device Availability,Convenience,35-44,Midwest,<$35K,6.87
+2015,10224,Broadcast TV,Disney+,Recommendation,,25-34,Northeast,>$150K,7.0
+2015,10313,Cable TV,Netflix,Convenience,,18-24,Midwest,$75K-$150K,6.0
+2015,11285,Broadcast,Spotify,Recommendation,Price,35-44,South,>$150K,
+2015,10327,cable tv,YouTube,Device Availability,,25-34,West,>$150K,4.5
+2015,11622,Broadcast,Disney+,Recommendation,Content Selection,18-24,Midwest,>$150K,7.0
+2015,11393,Broadcast TV,Max,Device Availability,Content Selection,18-24,Northeast,>$150K,10.0
+2015,11221,broadcast tv,Hulu,Device Availability,,35-44,Midwest,$35K-$75K,7.0
+2015,10130,Network TV,Spotify,Recommendation,,25-34,South,<$35K,8.0
+2015,10788,CABLE TV,Hulu,Price,,55+,South,$35K-$75K,9.0
+2015,10781,Network TV,Hulu,Bundling,Price,45-54,South,>$150K,9.84
+2015,11220,broadcast tv,Netflix,Recommendation,Price,25-34,Northeast,<$35K,4.32
+2015,10958,SiriusXM,Netflix,Convenience,Content Selection,45-54,Midwest,>$150K,8.0
+2015,11083,Cable TV,Spotify,Content Selection,,35-44,Northeast,$35K-$75K,9.0
+2015,10514,Satellite Radio,Max,Recommendation,,55+,West,>$150K,6.72
+2015,11988,cable tv,Amazon Prime Video,Device Availability,,18-24,West,<$35K,7.0
+2015,11133,Broadcast TV,Amazon Prime Video,Device Availability,Recommendation,25-34,South,<$35K,7.0
+2015,11762,CABLE TV,Apple TV+,Bundling,,35-44,South,$75K-$150K,10.0
+2015,11930,CABLE TV,YouTube,Device Availability,,45-54,West,<$35K,3.0
+2015,10023,broadcast tv,Peacock,Recommendation,Recommendation,25-34,West,$35K-$75K,8.0
+2015,11476,newspaper,Peacock,Recommendation,,25-34,West,$35K-$75K,6.0
+2015,10234,Cable television,Apple TV+,Price,,25-34,Northeast,$75K-$150K,
+2015,11396,CABLE TV,Spotify,Content Selection,,35-44,Midwest,<$35K,8.51
+2015,11812,Network TV,Amazon Prime Video,Device Availability,,25-34,West,$35K-$75K,4.0
+2015,11099,cable tv,Apple TV+,Bundling,,45-54,Northeast,>$150K,6.0
+2015,11537,cable tv,Peacock,Price,,25-34,South,<$35K,7.0
+2015,11574,cable tv,Amazon Prime Video,Recommendation,,25-34,West,$75K-$150K,10.0
+2015,11312,Newspaper,Paramount+,Content Selection,,35-44,South,$35K-$75K,6.0
+2015,10601,Broadcast TV,Spotify,Price,,18-24,Northeast,<$35K,5.0
+2015,10890,Cable,Netflix,Content Selection,,35-44,Northeast,>$150K,7.0
+2015,10323,cable tv,Spotify,Convenience,Device Availability,45-54,South,<$35K,7.0
+2015,10929,CABLE TV,Spotify,Convenience,,35-44,West,<$35K,6.0
+2015,10006,Cable TV,Netflix,Price,Recommendation,55+,West,<$35K,8.0
+2015,11953,Cable television,Apple TV+,Bundling,,18-24,Northeast,$35K-$75K,8.0
+2015,11478,Cable TV,Max,Bundling,,18-24,South,$75K-$150K,
+2015,11793,Cable,Peacock,Price,Bundling,25-34,West,$75K-$150K,5.0
+2015,11473,cable tv,Netflix,Price,Price,35-44,West,$75K-$150K,
+2015,10539,Cable television,Paramount+,Content Selection,Recommendation,45-54,South,>$150K,9.0
+2015,11990,Cable,Peacock,Device Availability,,25-34,West,$75K-$150K,8.08
+2015,11025,Newspaper,Apple TV+,Convenience,Price,25-34,West,>$150K,4.78
+2015,11560,broadcast tv,Peacock,Price,Recommendation,18-24,South,$35K-$75K,6.04
+2015,10365,cable tv,Paramount+,Content Selection,Recommendation,35-44,West,$75K-$150K,6.08
+2015,11039,Broadcast,Paramount+,Price,Price,45-54,Midwest,>$150K,7.0
+2015,11869,CABLE TV,Disney+,Convenience,Device Availability,25-34,West,$75K-$150K,8.0
+2015,10217,Broadcast,Apple TV+,Recommendation,Recommendation,35-44,Northeast,$35K-$75K,8.0
+2015,11782,Broadcast TV,Paramount+,Device Availability,Convenience,18-24,West,>$150K,7.78
+2015,11280,Network TV,Hulu,Recommendation,,45-54,West,>$150K,8.0
+2015,10611,CABLE TV,YouTube,Device Availability,,18-24,South,$75K-$150K,8.0
+2015,11723,broadcast tv,Peacock,Price,Convenience,25-34,South,>$150K,9.0
+2015,11308,Broadcast,Apple TV+,Price,,35-44,West,<$35K,10.0
+2015,10765,Broadcast,Spotify,Recommendation,Price,45-54,West,$75K-$150K,
+2015,11561,Cable TV,Netflix,Convenience,,25-34,South,$35K-$75K,5.0
+2015,10330,Satellite radio,Disney+,Device Availability,,45-54,Northeast,$35K-$75K,6.0
+2015,11104,Cable,Amazon Prime Video,Convenience,,18-24,Northeast,$35K-$75K,6.0
+2015,11952,broadcast tv,YouTube,Recommendation,,55+,Northeast,$75K-$150K,8.0
+2015,11594,cable tv,YouTube,Bundling,Content Selection,35-44,Northeast,$35K-$75K,6.0
+2015,11889,Broadcast,YouTube,Recommendation,Recommendation,55+,South,$35K-$75K,7.88
+2016,11648,Broadcast TV,Peacock,Content Selection,,25-34,Midwest,$35K-$75K,9.0
+2016,11990,Cable,Netflix,Recommendation,,25-34,West,<$35K,4.19
+2016,10928,Broadcast,YouTube,Content Selection,,45-54,Northeast,<$35K,6.0
+2016,11220,Cable TV,Amazon Prime Video,Recommendation,Price,18-24,Midwest,$75K-$150K,3.67
+2016,10006,Satellite radio,Disney+,Price,,18-24,South,>$150K,6.0
+2016,11116,Network TV,Amazon Prime Video,Price,,25-34,Northeast,>$150K,8.0
+2016,11827,Satellite radio,Max,Device Availability,Bundling,55+,Midwest,<$35K,8.0
+2016,10407,Network TV,Max,Device Availability,Content Selection,45-54,West,<$35K,5.0
+2016,10186,Cable TV,Apple TV+,Convenience,Bundling,45-54,Midwest,$35K-$75K,7.16
+2016,10539,cable tv,Amazon Prime Video,Price,,45-54,Midwest,>$150K,2.0
+2016,11561,Broadcast,Max,Price,Bundling,25-34,South,$75K-$150K,5.0
+2016,10664,Cable television,Amazon Prime Video,Price,Recommendation,18-24,West,<$35K,8.0
+2016,10501,Broadcast TV,Netflix,Device Availability,Price,25-34,West,$75K-$150K,3.69
+2016,10919,cable tv,Hulu,Price,Recommendation,35-44,Northeast,$75K-$150K,6.0
+2016,11889,Cable television,Spotify,Convenience,Bundling,25-34,Midwest,$35K-$75K,7.0
+2016,11429,CABLE TV,Netflix,Price,,18-24,South,<$35K,8.0
+2016,11337,Cable TV,Spotify,Device Availability,,45-54,South,$75K-$150K,7.0
+2016,11013,Broadcast TV,Spotify,Device Availability,,25-34,South,<$35K,10.8
+2016,10837,broadcast tv,Max,Convenience,Recommendation,18-24,Midwest,$35K-$75K,5.99
+2016,11402,Cable television,Amazon Prime Video,Device Availability,,25-34,South,<$35K,9.85
+2016,11007,Broadcast TV,Apple TV+,Price,,45-54,Midwest,<$35K,8.0
+2016,10851,print media,Max,Price,Content Selection,55+,West,$75K-$150K,10.0
+2016,11454,Broadcast,Peacock,Price,,18-24,West,$35K-$75K,7.0
+2016,11720,broadcast tv,Apple TV+,Recommendation,Price,25-34,South,<$35K,8.2
+2016,10909,Network TV,Hulu,Bundling,Content Selection,45-54,Midwest,>$150K,7.0
+2016,11000,Satellite Radio,Amazon Prime Video,Convenience,Device Availability,25-34,Midwest,>$150K,8.0
+2016,10342,Cable,Netflix,Recommendation,,55+,South,<$35K,3.64
+2016,10169,Satellite radio,Disney+,Content Selection,,35-44,Northeast,$75K-$150K,7.57
+2016,11157,print media,Paramount+,Content Selection,Convenience,18-24,Northeast,>$150K,10.0
+2016,10063,Network TV,Peacock,Content Selection,Content Selection,35-44,Midwest,>$150K,8.08
+2016,11629,Broadcast,Max,Recommendation,Bundling,45-54,Northeast,<$35K,7.0
+2016,11558,Broadcast TV,Peacock,Device Availability,Bundling,45-54,Midwest,$75K-$150K,7.76
+2016,10451,Cable,Netflix,Convenience,Recommendation,55+,Midwest,$35K-$75K,7.62
+2016,10598,Satellite Radio,Amazon Prime Video,Bundling,,45-54,Midwest,$35K-$75K,7.0
+2016,10066,satellite radio,YouTube,Price,,35-44,South,$35K-$75K,9.0
+2016,10562,Cable TV,Hulu,Price,Content Selection,18-24,West,<$35K,4.0
+2016,10460,satellite radio,Disney+,Convenience,Content Selection,55+,South,<$35K,9.0
+2016,11101,Newspaper,YouTube,Price,Convenience,25-34,South,>$150K,4.0
+2016,10591,Broadcast,Spotify,Device Availability,,55+,Midwest,$35K-$75K,5.0
+2016,10344,Cable,Netflix,Device Availability,,45-54,Northeast,$35K-$75K,4.0
+2016,11598,print media,YouTube,Price,,25-34,Midwest,<$35K,7.0
+2016,10936,cable tv,Paramount+,Price,Content Selection,18-24,Midwest,$75K-$150K,10.0
+2016,11158,Cable television,Peacock,Content Selection,,45-54,West,$75K-$150K,6.0
+2016,11520,Broadcast,Disney+,Recommendation,Price,35-44,Northeast,$75K-$150K,6.56
+2016,11582,Cable television,Disney+,Device Availability,Price,35-44,West,<$35K,4.0
+2016,11568,cable tv,Amazon Prime Video,Content Selection,Bundling,55+,Midwest,$75K-$150K,7.9
+2016,11014,CABLE TV,Paramount+,Content Selection,Price,45-54,Northeast,$75K-$150K,7.93
+2016,11125,cable tv,Hulu,Recommendation,,35-44,West,>$150K,5.0
+2016,11046,CABLE TV,Peacock,Content Selection,Recommendation,35-44,South,>$150K,9.0
+2016,10231,Broadcast,Hulu,Price,,55+,West,$35K-$75K,7.0
+2016,11172,SiriusXM,Spotify,Device Availability,,45-54,South,>$150K,6.25
+2016,10233,Broadcast,Hulu,Recommendation,Content Selection,25-34,South,$35K-$75K,
+2016,10548,Cable television,Amazon Prime Video,Device Availability,Bundling,35-44,Midwest,<$35K,9.0
+2016,11587,Broadcast TV,YouTube,Bundling,,45-54,Northeast,>$150K,8.0
+2016,11112,Broadcast TV,Hulu,Bundling,,35-44,Midwest,>$150K,7.0
+2016,11686,Cable television,Disney+,Bundling,,45-54,Northeast,>$150K,9.0
+2016,10751,Cable television,Max,Convenience,Convenience,35-44,Midwest,>$150K,8.52
+2016,11110,Cable television,Apple TV+,Convenience,,55+,Northeast,$35K-$75K,5.0
+2016,11684,Network TV,Spotify,Convenience,,55+,South,<$35K,6.0
+2016,11549,Satellite Radio,Disney+,Content Selection,,25-34,Northeast,$35K-$75K,
+2016,10085,cable tv,Amazon Prime Video,Convenience,Recommendation,55+,West,<$35K,6.0
+2016,11556,Newspaper,YouTube,Bundling,Content Selection,35-44,Northeast,$75K-$150K,
+2016,11472,CABLE TV,Amazon Prime Video,Content Selection,,25-34,Midwest,>$150K,3.0
+2016,10903,Broadcast,Disney+,Bundling,,25-34,Midwest,$75K-$150K,6.0
+2016,11118,Cable television,Apple TV+,Recommendation,Recommendation,35-44,West,<$35K,10.0
+2016,10447,broadcast tv,Max,Device Availability,Price,35-44,Midwest,$75K-$150K,7.12
+2016,10870,broadcast tv,Amazon Prime Video,Content Selection,,25-34,Northeast,>$150K,5.0
+2016,10209,Print Media,Peacock,Recommendation,Price,55+,South,$75K-$150K,4.5
+2016,11507,Network TV,Apple TV+,Bundling,Content Selection,55+,South,$75K-$150K,8.0
+2016,11699,Satellite radio,Apple TV+,Device Availability,Convenience,25-34,Midwest,>$150K,7.0
+2016,11338,cable tv,Paramount+,Price,,55+,Northeast,>$150K,8.0
+2016,11538,Cable TV,Disney+,Content Selection,,35-44,West,>$150K,5.0
+2016,10506,Cable TV,Paramount+,Convenience,,25-34,Midwest,<$35K,8.24
+2016,10609,SiriusXM,Hulu,Content Selection,,45-54,West,>$150K,7.0
+2016,11791,Cable,Apple TV+,Price,,55+,South,<$35K,6.0
+2016,10921,Cable,Hulu,Recommendation,,35-44,South,<$35K,4.54
+2016,10538,CABLE TV,YouTube,Bundling,Device Availability,25-34,Midwest,>$150K,6.0
+2016,10713,Broadcast,Amazon Prime Video,Device Availability,,25-34,Northeast,$35K-$75K,8.0
+2016,11765,SiriusXM,Max,Bundling,,55+,Northeast,<$35K,7.0
+2016,11672,CABLE TV,Max,Recommendation,,25-34,Northeast,$75K-$150K,6.5
+2016,10178,Broadcast,Peacock,Price,,55+,Northeast,$75K-$150K,7.44
+2016,10899,CABLE TV,Amazon Prime Video,Convenience,,35-44,South,<$35K,7.0
+2016,10240,Network TV,Apple TV+,Content Selection,Device Availability,18-24,Northeast,>$150K,7.0
+2016,11588,cable tv,Amazon Prime Video,Recommendation,,35-44,Midwest,>$150K,
+2016,11662,Satellite Radio,Max,Convenience,,35-44,West,<$35K,
+2016,10485,Satellite radio,Apple TV+,Convenience,,55+,Midwest,<$35K,9.0
+2016,10429,Cable television,Paramount+,Convenience,,45-54,West,$35K-$75K,
+2016,11660,print media,Hulu,Recommendation,,45-54,West,$35K-$75K,9.0
+2016,11510,Broadcast,Paramount+,Recommendation,Recommendation,45-54,Northeast,<$35K,7.0
+2016,11204,Satellite radio,Apple TV+,Bundling,,55+,Northeast,>$150K,8.36
+2016,11411,Cable television,Disney+,Bundling,,55+,Northeast,<$35K,6.0
+2016,10718,Satellite Radio,Paramount+,Convenience,Convenience,18-24,South,>$150K,5.98
+2016,11763,Network TV,Hulu,Recommendation,Price,45-54,Northeast,<$35K,6.0
+2016,11455,satellite radio,Spotify,Bundling,Device Availability,45-54,Midwest,$75K-$150K,7.0
+2016,11249,satellite radio,Spotify,Bundling,,35-44,West,<$35K,
+2016,11295,cable tv,Spotify,Bundling,Price,18-24,South,>$150K,8.0
+2016,10876,Broadcast TV,Max,Bundling,Price,45-54,South,>$150K,7.0
+2016,10339,CABLE TV,Hulu,Recommendation,,55+,South,>$150K,
+2016,11261,Network TV,YouTube,Recommendation,,25-34,South,$35K-$75K,9.0
+2016,10285,SiriusXM,YouTube,Device Availability,,35-44,West,$75K-$150K,8.0
+2016,11607,Cable television,YouTube,Device Availability,,55+,Midwest,$75K-$150K,5.8
+2016,10423,broadcast tv,Apple TV+,Device Availability,Device Availability,25-34,Midwest,<$35K,3.0
+2016,11666,Network TV,Spotify,Convenience,,45-54,Northeast,<$35K,7.8
+2016,11649,Satellite radio,Max,Device Availability,Price,35-44,South,<$35K,7.0
+2016,10121,Broadcast,Spotify,Recommendation,Device Availability,35-44,Northeast,>$150K,3.0
+2016,11167,Broadcast TV,Max,Content Selection,,45-54,South,$75K-$150K,10.0
+2016,11090,Broadcast,Max,Recommendation,Device Availability,18-24,South,$35K-$75K,
+2016,10575,cable tv,Disney+,Content Selection,,35-44,Northeast,$75K-$150K,6.0
+2016,11222,cable tv,YouTube,Price,,55+,Midwest,>$150K,
+2016,11103,Broadcast,Disney+,Bundling,Bundling,25-34,West,>$150K,4.6
+2016,10662,cable tv,Apple TV+,Convenience,Bundling,55+,West,<$35K,8.0
+2016,11441,print media,Netflix,Device Availability,,45-54,Northeast,>$150K,8.0
+2016,10599,CABLE TV,Apple TV+,Bundling,,45-54,West,<$35K,6.05
+2016,10592,CABLE TV,Spotify,Price,,25-34,South,>$150K,9.3
+2016,10547,SiriusXM,Hulu,Device Availability,,18-24,West,$75K-$150K,7.48
+2016,11950,Cable,Max,Recommendation,Device Availability,45-54,West,$75K-$150K,
+2016,11757,Broadcast TV,YouTube,Price,,55+,Northeast,<$35K,5.0
+2016,11053,broadcast tv,Paramount+,Recommendation,Device Availability,18-24,West,$35K-$75K,8.46
+2016,11843,CABLE TV,Max,Device Availability,Device Availability,35-44,Northeast,$35K-$75K,7.0
+2016,11391,Print Media,Amazon Prime Video,Device Availability,,35-44,South,>$150K,7.0
+2016,10195,Cable,Amazon Prime Video,Bundling,,25-34,Northeast,$35K-$75K,
+2016,10277,SiriusXM,Spotify,Price,Price,35-44,Northeast,$35K-$75K,5.0
+2016,11971,Cable,Amazon Prime Video,Price,Price,25-34,Midwest,>$150K,4.0
+2016,11536,broadcast tv,Apple TV+,Recommendation,Convenience,25-34,South,>$150K,8.0
+2016,11609,broadcast tv,Paramount+,Recommendation,Convenience,45-54,Northeast,$35K-$75K,6.0
+2016,10842,Satellite radio,Max,Device Availability,,18-24,Northeast,<$35K,6.0
+2016,11881,SiriusXM,YouTube,Content Selection,,55+,Midwest,>$150K,6.0
+2016,10567,broadcast tv,Disney+,Recommendation,,18-24,West,$75K-$150K,6.0
+2016,11775,Satellite radio,Spotify,Content Selection,Content Selection,55+,South,>$150K,7.28
+2016,11343,Cable,Netflix,Device Availability,Convenience,45-54,West,>$150K,6.61
+2016,10259,Broadcast TV,Spotify,Device Availability,,35-44,South,>$150K,6.0
+2016,11436,Network TV,Amazon Prime Video,Bundling,Convenience,45-54,West,<$35K,5.39
+2016,11773,Cable TV,Spotify,Device Availability,Content Selection,25-34,South,$75K-$150K,4.0
+2016,10271,Cable TV,Paramount+,Device Availability,,25-34,South,>$150K,
+2016,10511,CABLE TV,YouTube,Content Selection,Bundling,18-24,South,<$35K,9.0
+2016,10299,Print,Max,Price,Bundling,45-54,West,$35K-$75K,10.0
+2016,11456,CABLE TV,Disney+,Bundling,,35-44,South,$75K-$150K,
+2016,10659,Cable,Hulu,Price,Bundling,45-54,South,<$35K,6.0
+2016,11696,Broadcast TV,Hulu,Recommendation,,55+,Northeast,>$150K,
+2016,11559,Broadcast,Paramount+,Recommendation,Device Availability,55+,Northeast,>$150K,7.0
+2016,11727,Cable TV,Max,Bundling,,45-54,Midwest,$35K-$75K,
+2016,11384,Broadcast TV,Peacock,Device Availability,Convenience,45-54,Midwest,<$35K,7.0
+2016,10804,CABLE TV,Peacock,Bundling,Convenience,45-54,South,>$150K,5.0
+2016,11002,broadcast tv,YouTube,Convenience,,45-54,South,<$35K,6.0
+2016,10291,Broadcast,Hulu,Content Selection,,35-44,Northeast,$35K-$75K,5.0
+2016,11182,Network TV,Hulu,Price,Convenience,18-24,Northeast,>$150K,8.0
+2016,10550,broadcast tv,YouTube,Price,,25-34,West,>$150K,10.0
+2016,11285,CABLE TV,Spotify,Bundling,,55+,South,<$35K,7.0
+2016,10848,Print,Max,Recommendation,Recommendation,45-54,South,<$35K,6.74
+2016,10768,satellite radio,Apple TV+,Convenience,Content Selection,45-54,West,<$35K,6.0
+2016,10925,Cable TV,Spotify,Convenience,Price,55+,Midwest,$75K-$150K,5.0
+2016,10154,SiriusXM,Paramount+,Bundling,,45-54,Northeast,$75K-$150K,
+2016,11297,Broadcast,Amazon Prime Video,Convenience,Convenience,55+,Northeast,$75K-$150K,7.0
+2016,11627,Cable,Paramount+,Convenience,Bundling,35-44,South,$35K-$75K,7.6
+2016,11802,broadcast tv,Amazon Prime Video,Content Selection,Content Selection,55+,Midwest,$35K-$75K,
+2016,11574,Newspaper,YouTube,Price,,55+,Northeast,>$150K,6.0
+2016,10190,satellite radio,Paramount+,Content Selection,,55+,Midwest,>$150K,
+2016,10825,SiriusXM,Spotify,Price,,45-54,South,>$150K,9.0
+2016,11055,Broadcast TV,Netflix,Device Availability,Bundling,18-24,Midwest,$75K-$150K,5.74
+2016,11535,broadcast tv,Apple TV+,Content Selection,,25-34,West,$75K-$150K,6.0
+2016,10569,Broadcast,YouTube,Device Availability,Price,35-44,South,>$150K,8.0
+2016,11422,Broadcast TV,Disney+,Recommendation,,55+,Midwest,>$150K,6.0
+2016,11917,Network TV,Hulu,Device Availability,Content Selection,35-44,West,<$35K,5.0
+2016,11796,Print Media,Apple TV+,Price,Convenience,55+,South,$35K-$75K,7.3
+2016,10755,CABLE TV,Paramount+,Device Availability,Price,45-54,Midwest,>$150K,6.0
+2016,10931,CABLE TV,YouTube,Recommendation,,18-24,Northeast,$35K-$75K,6.0
+2016,11946,broadcast tv,YouTube,Device Availability,Recommendation,35-44,West,>$150K,8.55
+2016,10999,Cable TV,Amazon Prime Video,Content Selection,Price,18-24,West,<$35K,
+2016,10670,Cable TV,Hulu,Convenience,,18-24,West,$75K-$150K,7.18
+2016,11191,Broadcast,Netflix,Price,,35-44,West,>$150K,10.0
+2016,10005,Cable television,Disney+,Device Availability,,55+,West,>$150K,4.0
+2016,11779,Broadcast TV,Paramount+,Convenience,Convenience,25-34,Midwest,<$35K,
+2016,11585,Satellite radio,Apple TV+,Convenience,,18-24,West,>$150K,6.0
+2016,11734,satellite radio,Amazon Prime Video,Recommendation,,45-54,West,$35K-$75K,10.0
+2016,11500,Cable television,Amazon Prime Video,Convenience,Device Availability,25-34,Midwest,$75K-$150K,5.48
+2016,11496,Cable,Max,Price,,55+,West,$75K-$150K,5.0
+2016,11990,Cable,Netflix,Bundling,Price,35-44,Midwest,$35K-$75K,6.17
+2016,10938,broadcast tv,Peacock,Convenience,,45-54,Midwest,>$150K,3.97
+2016,11300,Cable,Netflix,Convenience,,18-24,West,$35K-$75K,8.0
+2016,11360,Cable,Peacock,Recommendation,Price,25-34,West,<$35K,10.0
+2016,11428,broadcast tv,Apple TV+,Content Selection,,18-24,Northeast,$75K-$150K,5.29
+2016,10733,Broadcast TV,Amazon Prime Video,Device Availability,Price,25-34,Midwest,<$35K,6.98
+2016,11741,newspaper,Paramount+,Device Availability,,35-44,Northeast,$35K-$75K,7.0
+2016,10129,Print,Netflix,Convenience,,55+,Northeast,$35K-$75K,7.0
+2016,11094,broadcast tv,Paramount+,Device Availability,Device Availability,45-54,Midwest,$35K-$75K,7.0
+2016,10814,Network TV,Amazon Prime Video,Bundling,Convenience,35-44,West,$75K-$150K,7.0
+2016,10446,Satellite radio,Hulu,Bundling,Convenience,35-44,Midwest,>$150K,9.37
+2016,11982,cable tv,YouTube,Content Selection,Price,55+,West,$35K-$75K,7.0
+2016,10879,broadcast tv,Apple TV+,Recommendation,,18-24,Northeast,<$35K,10.88
+2016,11689,Cable,Hulu,Price,,45-54,West,$75K-$150K,
+2016,10433,Cable TV,Netflix,Content Selection,,18-24,West,<$35K,5.0
+2016,10549,Satellite Radio,YouTube,Convenience,,18-24,Midwest,<$35K,9.0
+2016,10661,Cable,Spotify,Recommendation,Bundling,25-34,South,>$150K,7.0
+2016,10580,Network TV,Hulu,Content Selection,,55+,West,$75K-$150K,4.0
+2016,10691,broadcast tv,Apple TV+,Bundling,,35-44,Midwest,>$150K,7.0
+2016,11120,Broadcast,Peacock,Bundling,,35-44,Midwest,>$150K,5.0
+2016,11183,broadcast tv,YouTube,Price,,35-44,Northeast,$75K-$150K,8.0
+2016,10267,Print Media,Spotify,Bundling,,55+,South,<$35K,
+2016,11159,Cable,Max,Convenience,,25-34,South,$75K-$150K,7.0
+2016,11745,broadcast tv,Paramount+,Content Selection,,55+,Northeast,$75K-$150K,
+2017,10146,broadcast tv,Max,Content Selection,,55+,Midwest,<$35K,4.0
+2017,10460,CABLE TV,Max,Content Selection,Recommendation,25-34,Northeast,>$150K,4.0
+2017,11889,Satellite radio,Peacock,Content Selection,,45-54,Midwest,$75K-$150K,6.0
+2017,10209,Broadcast,Disney+,Convenience,,55+,South,>$150K,7.0
+2017,10291,CABLE TV,Disney+,Convenience,Bundling,18-24,South,$75K-$150K,
+2017,11827,Cable television,Peacock,Convenience,Device Availability,35-44,South,$35K-$75K,5.95
+2017,10476,satellite radio,YouTube,Bundling,,55+,South,$35K-$75K,6.0
+2017,10821,Network TV,Apple TV+,Content Selection,,45-54,West,$35K-$75K,5.23
+2017,10233,Broadcast TV,Max,Recommendation,Device Availability,25-34,South,<$35K,9.0
+2017,10741,Network TV,Amazon Prime Video,Recommendation,Price,55+,West,$75K-$150K,10.0
+2017,11221,Broadcast TV,Spotify,Price,,18-24,South,>$150K,7.0
+2017,11629,print media,Max,Recommendation,Convenience,35-44,West,$35K-$75K,7.0
+2017,11990,CABLE TV,Disney+,Recommendation,,45-54,Northeast,<$35K,8.0
+2017,11422,cable tv,Paramount+,Price,Bundling,25-34,West,<$35K,9.0
+2017,10466,print media,Hulu,Price,Recommendation,35-44,Northeast,>$150K,6.09
+2017,11385,Broadcast TV,Disney+,Convenience,,25-34,South,$35K-$75K,2.0
+2017,10514,broadcast tv,Paramount+,Convenience,,18-24,South,$35K-$75K,
+2017,10464,Network TV,Spotify,Price,,45-54,South,$35K-$75K,7.0
+2017,11531,Broadcast TV,YouTube,Bundling,Bundling,35-44,South,<$35K,7.04
+2017,11336,CABLE TV,YouTube,Convenience,Price,18-24,Northeast,>$150K,7.36
+2017,11739,CABLE TV,YouTube,Bundling,Recommendation,55+,Midwest,<$35K,8.0
+2017,11233,Cable television,Spotify,Price,Content Selection,18-24,Midwest,$75K-$150K,8.0
+2017,11901,Broadcast TV,Hulu,Bundling,,55+,Northeast,>$150K,6.0
+2017,10023,broadcast tv,Max,Bundling,,55+,Midwest,$35K-$75K,4.0
+2017,11298,Network TV,Paramount+,Content Selection,,25-34,Midwest,$35K-$75K,7.2
+2017,11592,SiriusXM,Peacock,Price,Bundling,25-34,Northeast,$35K-$75K,6.8
+2017,11294,cable tv,Spotify,Bundling,Price,18-24,Midwest,$75K-$150K,5.0
+2017,10783,cable tv,Paramount+,Recommendation,,25-34,West,$35K-$75K,8.0
+2017,10110,broadcast tv,Paramount+,Recommendation,,18-24,Midwest,$75K-$150K,6.0
+2017,10624,Print Media,Hulu,Content Selection,Price,35-44,West,$35K-$75K,7.0
+2017,11073,broadcast tv,Apple TV+,Device Availability,Recommendation,18-24,West,$35K-$75K,4.0
+2017,10084,cable tv,Netflix,Content Selection,,45-54,Northeast,>$150K,9.24
+2017,10653,Cable television,Spotify,Convenience,,25-34,Northeast,$35K-$75K,7.0
+2017,11105,cable tv,Netflix,Device Availability,,18-24,Midwest,>$150K,7.27
+2017,11156,satellite radio,Netflix,Bundling,,25-34,Midwest,$35K-$75K,7.0
+2017,10306,Cable,Disney+,Convenience,Bundling,55+,Northeast,$35K-$75K,8.0
+2017,10669,cable tv,YouTube,Content Selection,Convenience,55+,Midwest,>$150K,7.21
+2017,11028,Cable TV,Peacock,Recommendation,Bundling,55+,West,$75K-$150K,7.0
+2017,11429,Broadcast TV,Paramount+,Bundling,Device Availability,45-54,Northeast,>$150K,6.0
+2017,10452,print media,YouTube,Convenience,,45-54,South,$75K-$150K,9.0
+2017,10313,Broadcast TV,Hulu,Recommendation,Recommendation,45-54,South,$75K-$150K,7.08
+2017,10103,Satellite Radio,Apple TV+,Bundling,,35-44,West,>$150K,4.36
+2017,11379,Cable,Paramount+,Recommendation,Content Selection,55+,West,>$150K,5.3
+2017,11498,Network TV,Hulu,Bundling,,35-44,Northeast,>$150K,6.0
+2017,10804,Cable TV,YouTube,Recommendation,Device Availability,18-24,Northeast,$35K-$75K,8.0
+2017,11988,Cable,Disney+,Recommendation,,45-54,West,$35K-$75K,3.0
+2017,10912,cable tv,Peacock,Device Availability,,35-44,Northeast,<$35K,5.0
+2017,11541,CABLE TV,Netflix,Price,,35-44,Northeast,$75K-$150K,5.41
+2017,11218,Network TV,Apple TV+,Device Availability,Recommendation,45-54,South,$35K-$75K,6.0
+2017,11178,Satellite radio,Max,Device Availability,Price,18-24,Northeast,$35K-$75K,7.0
+2017,11033,Broadcast,Hulu,Content Selection,,45-54,West,>$150K,5.0
+2017,10184,Cable,Disney+,Recommendation,,55+,West,$35K-$75K,5.41
+2017,10454,newspaper,Apple TV+,Price,,55+,West,$75K-$150K,8.36
+2017,10884,broadcast tv,Paramount+,Bundling,Bundling,18-24,South,>$150K,8.0
+2017,10593,broadcast tv,YouTube,Price,,55+,Northeast,>$150K,3.0
+2017,11610,cable tv,Max,Content Selection,Bundling,35-44,Midwest,<$35K,8.0
+2017,10807,broadcast tv,YouTube,Price,Price,25-34,Northeast,$75K-$150K,6.77
+2017,10303,Broadcast,YouTube,Device Availability,Recommendation,35-44,South,$75K-$150K,9.29
+2017,10270,CABLE TV,Netflix,Convenience,,25-34,South,>$150K,7.0
+2017,10688,Broadcast,Amazon Prime Video,Bundling,,35-44,Northeast,$75K-$150K,4.94
+2017,10169,Cable television,Paramount+,Convenience,,55+,South,>$150K,6.0
+2017,10974,broadcast tv,Paramount+,Recommendation,,55+,Northeast,<$35K,5.0
+2017,11170,Newspaper,YouTube,Device Availability,,35-44,Midwest,$75K-$150K,7.0
+2017,11526,Broadcast,YouTube,Content Selection,,25-34,Midwest,<$35K,5.0
+2017,10100,Cable TV,Spotify,Price,,35-44,South,$75K-$150K,6.79
+2017,11122,Broadcast,YouTube,Device Availability,Price,18-24,South,>$150K,7.0
+2017,10817,Broadcast,Hulu,Device Availability,Convenience,45-54,Northeast,>$150K,8.0
+2017,10537,satellite radio,Max,Content Selection,,35-44,Northeast,>$150K,6.0
+2017,10174,cable tv,Disney+,Recommendation,Content Selection,55+,West,$35K-$75K,6.0
+2017,10816,Broadcast TV,Paramount+,Device Availability,Price,18-24,Northeast,$75K-$150K,6.12
+2017,11027,Broadcast TV,Netflix,Device Availability,Content Selection,35-44,West,<$35K,3.0
+2017,11584,Satellite Radio,Spotify,Content Selection,Device Availability,45-54,Northeast,$75K-$150K,6.0
+2017,10267,Cable TV,Apple TV+,Bundling,,35-44,Northeast,>$150K,7.0
+2017,11560,print media,Max,Device Availability,Price,35-44,West,<$35K,5.0
+2017,10276,Cable TV,Amazon Prime Video,Price,,55+,South,>$150K,4.0
+2017,10984,Newspaper,Netflix,Price,Convenience,18-24,West,<$35K,9.0
+2017,11145,Broadcast,YouTube,Content Selection,,18-24,South,>$150K,5.65
+2017,10405,Broadcast,Netflix,Content Selection,,35-44,Northeast,>$150K,5.0
+2017,10999,Cable TV,Hulu,Recommendation,,55+,South,<$35K,7.0
+2017,10809,broadcast tv,Hulu,Device Availability,,25-34,Midwest,$35K-$75K,5.0
+2017,11335,Cable TV,Max,Content Selection,,25-34,Midwest,$35K-$75K,
+2017,10401,CABLE TV,Peacock,Content Selection,Recommendation,18-24,Northeast,<$35K,8.34
+2017,11149,broadcast tv,Peacock,Device Availability,,45-54,South,$35K-$75K,7.69
+2017,11261,Cable TV,YouTube,Content Selection,,55+,Northeast,$75K-$150K,7.92
+2017,11506,Cable TV,Spotify,Price,,55+,South,>$150K,7.14
+2017,10504,SiriusXM,Paramount+,Content Selection,Price,18-24,Midwest,$75K-$150K,4.18
+2017,10496,Network TV,Netflix,Price,,55+,South,$35K-$75K,7.0
+2017,10146,broadcast tv,Peacock,Content Selection,,35-44,South,<$35K,4.78
+2017,10545,Broadcast,Peacock,Content Selection,Bundling,45-54,Northeast,>$150K,9.0
+2017,11590,Cable,Apple TV+,Convenience,Content Selection,18-24,Northeast,$75K-$150K,10.0
+2017,10880,Broadcast,Apple TV+,Content Selection,,55+,South,$35K-$75K,5.0
+2017,10662,Broadcast,YouTube,Recommendation,,35-44,Northeast,>$150K,5.72
+2017,11402,CABLE TV,Amazon Prime Video,Bundling,,55+,Northeast,>$150K,7.0
+2017,11892,CABLE TV,Peacock,Recommendation,,18-24,West,>$150K,7.0
+2017,11179,Cable television,Amazon Prime Video,Content Selection,Content Selection,18-24,Northeast,>$150K,6.0
+2017,10183,Network TV,Paramount+,Content Selection,,45-54,South,$75K-$150K,6.0
+2017,10230,Cable TV,Peacock,Device Availability,Price,35-44,West,$75K-$150K,6.01
+2017,11375,broadcast tv,Netflix,Bundling,,35-44,Northeast,<$35K,4.0
+2017,10847,cable tv,Disney+,Device Availability,,18-24,South,$35K-$75K,8.0
+2017,10867,newspaper,Amazon Prime Video,Device Availability,,35-44,Midwest,$75K-$150K,7.0
+2017,10748,cable tv,Apple TV+,Recommendation,,55+,Northeast,>$150K,6.12
+2017,10713,Broadcast TV,Amazon Prime Video,Recommendation,Recommendation,25-34,Midwest,<$35K,4.17
+2017,10390,Network TV,Disney+,Content Selection,,18-24,Midwest,>$150K,9.0
+2017,10656,Broadcast TV,Max,Content Selection,Content Selection,55+,Midwest,>$150K,6.0
+2017,10705,SiriusXM,YouTube,Device Availability,,55+,West,>$150K,6.48
+2017,11216,Cable television,Apple TV+,Convenience,,18-24,South,$75K-$150K,8.0
+2017,11342,Broadcast,Spotify,Convenience,Content Selection,25-34,South,$35K-$75K,10.0
+2017,10049,Cable,Spotify,Device Availability,Convenience,35-44,South,$75K-$150K,10.0
+2017,11576,Broadcast TV,Netflix,Recommendation,,25-34,West,$75K-$150K,9.0
+2017,10346,broadcast tv,Paramount+,Convenience,,55+,South,>$150K,10.76
+2017,10716,Broadcast TV,Disney+,Device Availability,,35-44,Northeast,>$150K,6.0
+2017,11262,Broadcast,YouTube,Bundling,Convenience,25-34,Northeast,<$35K,6.0
+2017,11682,Broadcast TV,Spotify,Recommendation,Convenience,55+,Northeast,$75K-$150K,5.0
+2017,11644,cable tv,Apple TV+,Convenience,,55+,Northeast,$35K-$75K,9.0
+2017,10905,Newspaper,Max,Content Selection,,45-54,West,$35K-$75K,8.0
+2017,11276,newspaper,Apple TV+,Price,,55+,West,<$35K,
+2017,10298,broadcast tv,Peacock,Content Selection,,55+,South,$35K-$75K,7.49
+2017,10902,satellite radio,Paramount+,Bundling,,25-34,Northeast,<$35K,8.0
+2017,10091,Network TV,Hulu,Device Availability,,35-44,West,$35K-$75K,4.06
+2017,11675,Cable TV,YouTube,Device Availability,Recommendation,55+,West,$75K-$150K,7.0
+2017,10478,Broadcast TV,Apple TV+,Bundling,,18-24,Midwest,$35K-$75K,6.0
+2017,10408,Cable TV,Max,Convenience,Convenience,18-24,Midwest,$75K-$150K,6.0
+2017,11403,Broadcast,Hulu,Bundling,,55+,Midwest,$75K-$150K,8.0
+2017,10765,Broadcast TV,Spotify,Bundling,Content Selection,18-24,South,$75K-$150K,4.0
+2017,10319,Cable,Hulu,Content Selection,Content Selection,25-34,Northeast,>$150K,6.0
+2017,11551,broadcast tv,Apple TV+,Content Selection,,55+,Midwest,$35K-$75K,6.98
+2017,11491,Satellite radio,Disney+,Device Availability,Content Selection,35-44,South,$35K-$75K,7.0
+2017,11746,Cable television,Peacock,Price,Price,55+,Northeast,>$150K,7.33
+2017,10175,Cable TV,Hulu,Price,,25-34,South,$35K-$75K,7.0
+2017,11514,CABLE TV,Apple TV+,Convenience,Bundling,55+,South,<$35K,6.0
+2017,10111,Cable,Amazon Prime Video,Convenience,Bundling,18-24,Northeast,$35K-$75K,10.0
+2017,10497,Cable TV,Disney+,Convenience,,45-54,South,$35K-$75K,5.0
+2017,11943,Cable television,Hulu,Bundling,Convenience,35-44,Northeast,<$35K,6.0
+2017,11271,Cable television,Amazon Prime Video,Bundling,Recommendation,25-34,Northeast,>$150K,8.0
+2017,11897,Cable television,Hulu,Recommendation,Device Availability,18-24,Northeast,$35K-$75K,5.0
+2017,10302,Satellite radio,Hulu,Convenience,,35-44,South,>$150K,9.0
+2017,11779,broadcast tv,YouTube,Bundling,Device Availability,45-54,Midwest,>$150K,5.0
+2017,11704,Cable television,Hulu,Price,Recommendation,25-34,South,<$35K,2.98
+2017,11679,Cable TV,Disney+,Recommendation,,35-44,South,$75K-$150K,
+2017,10589,SiriusXM,Paramount+,Content Selection,Recommendation,45-54,Midwest,$75K-$150K,6.0
+2017,10028,Cable TV,Peacock,Price,Convenience,45-54,West,>$150K,8.0
+2017,10703,Satellite radio,Paramount+,Recommendation,Device Availability,45-54,West,<$35K,7.0
+2017,11420,Network TV,Paramount+,Bundling,,55+,Northeast,>$150K,7.0
+2017,11647,satellite radio,Apple TV+,Price,Price,25-34,Midwest,$75K-$150K,9.0
+2017,10227,satellite radio,Peacock,Price,Convenience,45-54,Midwest,<$35K,6.0
+2017,10921,Print,Max,Price,Price,55+,Midwest,<$35K,6.0
+2017,10964,Network TV,Max,Price,,55+,Northeast,$75K-$150K,6.0
+2017,10046,Cable,Apple TV+,Recommendation,,35-44,South,$75K-$150K,8.0
+2017,10679,Broadcast TV,Spotify,Content Selection,Price,35-44,West,$35K-$75K,4.0
+2017,10428,broadcast tv,Hulu,Bundling,,45-54,West,$35K-$75K,3.6
+2017,11515,satellite radio,Peacock,Device Availability,,25-34,West,>$150K,7.0
+2017,11101,Satellite radio,YouTube,Recommendation,Device Availability,45-54,Midwest,>$150K,9.0
+2017,10433,Cable,Apple TV+,Recommendation,Content Selection,35-44,West,>$150K,
+2017,10417,Cable television,Max,Convenience,,35-44,South,>$150K,9.88
+2017,11119,cable tv,Paramount+,Recommendation,,45-54,West,<$35K,
+2017,11071,satellite radio,Spotify,Content Selection,,18-24,West,<$35K,
+2017,11536,satellite radio,YouTube,Convenience,,45-54,Midwest,<$35K,4.05
+2017,10529,Broadcast TV,Spotify,Device Availability,,55+,Midwest,>$150K,8.88
+2017,11123,cable tv,Apple TV+,Bundling,,25-34,West,$35K-$75K,7.0
+2017,10989,CABLE TV,Netflix,Recommendation,,18-24,Midwest,>$150K,7.68
+2017,11275,Cable,Apple TV+,Recommendation,,35-44,Northeast,<$35K,8.0
+2017,11494,Satellite radio,Max,Bundling,Device Availability,35-44,Northeast,$35K-$75K,5.0
+2017,10289,Newspaper,Max,Convenience,Content Selection,35-44,South,$35K-$75K,9.0
+2017,11423,Broadcast TV,Max,Price,,45-54,West,>$150K,6.0
+2017,11431,Broadcast TV,Disney+,Device Availability,Price,35-44,West,$75K-$150K,
+2017,11368,Network TV,Disney+,Price,Device Availability,35-44,Midwest,<$35K,6.92
+2017,10037,Broadcast,YouTube,Device Availability,Convenience,45-54,West,$35K-$75K,7.0
+2017,10771,Cable television,Apple TV+,Content Selection,Recommendation,55+,South,<$35K,10.0
+2017,11193,Broadcast,Hulu,Recommendation,Device Availability,25-34,Northeast,>$150K,5.0
+2017,11855,CABLE TV,Hulu,Price,,45-54,West,>$150K,5.0
+2017,11358,cable tv,Max,Device Availability,,25-34,West,$35K-$75K,2.0
+2017,11078,Network TV,Disney+,Price,Convenience,25-34,West,$35K-$75K,3.0
+2017,10089,Broadcast TV,Paramount+,Content Selection,,45-54,South,>$150K,6.04
+2017,10523,cable tv,Amazon Prime Video,Recommendation,,55+,Northeast,<$35K,4.0
+2017,10348,Cable television,Apple TV+,Content Selection,,55+,Northeast,$35K-$75K,7.0
+2017,10123,cable tv,Spotify,Recommendation,Price,35-44,Northeast,$35K-$75K,9.0
+2017,10581,cable tv,Peacock,Convenience,,35-44,Midwest,$75K-$150K,6.0
+2017,10411,newspaper,Paramount+,Price,Price,25-34,South,<$35K,7.22
+2017,11616,Broadcast TV,Paramount+,Price,Device Availability,55+,West,>$150K,3.32
+2017,11426,cable tv,Disney+,Content Selection,,35-44,South,<$35K,7.0
+2017,11265,Broadcast TV,Amazon Prime Video,Recommendation,,35-44,Northeast,$75K-$150K,6.0
+2017,10555,Print Media,Disney+,Price,Device Availability,45-54,West,$75K-$150K,4.33
+2017,10108,newspaper,Paramount+,Convenience,,55+,South,$35K-$75K,9.0
+2017,10952,Network TV,Hulu,Recommendation,Content Selection,45-54,Northeast,<$35K,4.35
+2017,11340,satellite radio,Disney+,Price,Recommendation,35-44,South,$75K-$150K,5.0
+2017,11935,SiriusXM,Max,Bundling,,18-24,West,$75K-$150K,4.0
+2017,10017,Broadcast TV,Spotify,Convenience,,25-34,South,>$150K,4.0
+2017,10136,Cable television,Max,Content Selection,,35-44,South,>$150K,6.36
+2017,10795,Cable TV,Spotify,Price,,45-54,Northeast,>$150K,5.56
+2017,11352,CABLE TV,Netflix,Price,,45-54,South,$35K-$75K,4.82
+2017,11357,broadcast tv,Apple TV+,Bundling,,45-54,Midwest,$75K-$150K,10.37
+2017,11745,broadcast tv,Hulu,Recommendation,,18-24,West,<$35K,
+2017,11869,Network TV,Peacock,Device Availability,,55+,West,$75K-$150K,3.0
+2017,11351,Network TV,Max,Price,Price,25-34,Northeast,<$35K,3.51
+2017,10737,Cable television,Disney+,Device Availability,Device Availability,55+,South,<$35K,6.17
+2017,11770,Cable,Paramount+,Recommendation,,45-54,South,$35K-$75K,9.0
+2017,10220,cable tv,Netflix,Price,,45-54,West,>$150K,6.6
+2017,10039,Network TV,Spotify,Bundling,,45-54,South,<$35K,4.0
+2017,10599,Cable TV,Max,Device Availability,Recommendation,18-24,West,$75K-$150K,5.0
+2017,11776,Network TV,Amazon Prime Video,Bundling,Device Availability,35-44,West,$35K-$75K,7.0
+2017,11809,Cable television,Apple TV+,Recommendation,,25-34,South,$75K-$150K,6.52
+2017,11329,Cable television,Hulu,Recommendation,,45-54,Midwest,$35K-$75K,6.09
+2017,10791,cable tv,Apple TV+,Device Availability,Bundling,18-24,Northeast,$75K-$150K,4.54
+2017,10473,cable tv,Apple TV+,Price,,55+,Midwest,$35K-$75K,8.0
+2017,10779,Broadcast TV,Netflix,Recommendation,,18-24,Northeast,<$35K,7.0
+2017,11041,satellite radio,Disney+,Device Availability,Recommendation,55+,West,<$35K,6.0
+2017,11453,Satellite Radio,Amazon Prime Video,Recommendation,,18-24,South,>$150K,6.0
+2017,10203,satellite radio,Amazon Prime Video,Content Selection,,55+,West,$35K-$75K,9.0
+2017,11851,Newspaper,Spotify,Device Availability,Price,45-54,South,<$35K,
+2017,10646,Cable television,Disney+,Recommendation,Price,25-34,Northeast,$75K-$150K,5.0
+2017,10992,broadcast tv,Apple TV+,Convenience,Convenience,55+,South,>$150K,6.0
+2017,11775,broadcast tv,Peacock,Content Selection,,18-24,Northeast,$75K-$150K,7.0
+2017,11222,satellite radio,Amazon Prime Video,Price,,35-44,Midwest,$35K-$75K,10.54
+2017,11088,satellite radio,Peacock,Bundling,Price,35-44,Midwest,$75K-$150K,7.0
+2017,10180,Newspaper,Max,Bundling,,45-54,Midwest,$35K-$75K,9.0
+2017,10381,Broadcast,Apple TV+,Convenience,Device Availability,55+,South,>$150K,1.72
+2018,10523,satellite radio,Peacock,Convenience,Price,55+,South,$75K-$150K,8.0
+2018,11156,Broadcast,Netflix,Bundling,,25-34,Northeast,<$35K,7.89
+2018,10206,cable tv,Max,Recommendation,,18-24,Northeast,$35K-$75K,7.0
+2018,11491,Broadcast TV,Max,Price,Bundling,45-54,Northeast,>$150K,
+2018,11329,Broadcast TV,Max,Bundling,,18-24,South,$35K-$75K,6.0
+2018,11222,Cable,Apple TV+,Bundling,,25-34,West,>$150K,
+2018,10549,satellite radio,Disney+,Price,Recommendation,35-44,Midwest,>$150K,10.0
+2018,10952,Cable,Spotify,Bundling,Price,45-54,Northeast,$35K-$75K,7.0
+2018,11563,Satellite radio,YouTube,Bundling,,35-44,Midwest,$75K-$150K,10.0
+2018,11261,Cable,Paramount+,Bundling,Device Availability,25-34,Northeast,>$150K,
+2018,10054,Cable,Peacock,Bundling,,45-54,West,<$35K,
+2018,11775,Cable television,Hulu,Convenience,,45-54,Midwest,>$150K,4.0
+2018,10783,Broadcast TV,Hulu,Recommendation,Content Selection,45-54,Northeast,$35K-$75K,7.0
+2018,10234,CABLE TV,Max,Device Availability,Recommendation,35-44,Northeast,$75K-$150K,4.0
+2018,10291,Broadcast TV,Amazon Prime Video,Device Availability,Convenience,55+,West,$35K-$75K,4.0
+2018,11149,Broadcast TV,YouTube,Content Selection,,25-34,Midwest,$35K-$75K,6.0
+2018,10870,Cable TV,Spotify,Bundling,Bundling,45-54,Northeast,>$150K,
+2018,11819,Newspaper,Peacock,Convenience,Bundling,45-54,West,$75K-$150K,3.46
+2018,10266,Broadcast TV,Max,Recommendation,,35-44,Northeast,>$150K,7.05
+2018,10975,Network TV,Hulu,Content Selection,Convenience,35-44,Northeast,<$35K,
+2018,10439,Broadcast TV,YouTube,Device Availability,,35-44,South,<$35K,2.0
+2018,10913,Broadcast,Hulu,Bundling,,18-24,West,<$35K,7.55
+2018,10159,cable tv,Hulu,Content Selection,Recommendation,18-24,Midwest,>$150K,9.28
+2018,10756,Cable TV,YouTube,Recommendation,Bundling,55+,Northeast,>$150K,8.0
+2018,11386,Satellite Radio,Apple TV+,Device Availability,,18-24,West,$75K-$150K,
+2018,11077,Broadcast,YouTube,Content Selection,,35-44,Midwest,>$150K,6.0
+2018,10824,Cable,Netflix,Price,Bundling,45-54,Midwest,$75K-$150K,5.0
+2018,11204,broadcast tv,Apple TV+,Price,,25-34,Northeast,$35K-$75K,6.0
+2018,11144,SiriusXM,Apple TV+,Content Selection,,25-34,Northeast,$75K-$150K,8.0
+2018,11062,broadcast tv,YouTube,Convenience,Content Selection,18-24,West,<$35K,9.0
+2018,11595,Broadcast,Paramount+,Bundling,Recommendation,35-44,West,$35K-$75K,
+2018,10808,cable tv,Netflix,Bundling,Convenience,45-54,South,$75K-$150K,
+2018,11785,Cable,Max,Content Selection,Convenience,25-34,Midwest,$35K-$75K,7.0
+2018,10540,Cable,Peacock,Device Availability,,18-24,Midwest,$35K-$75K,7.14
+2018,11196,Satellite radio,Spotify,Bundling,,18-24,Northeast,$35K-$75K,8.0
+2018,11021,broadcast tv,YouTube,Recommendation,,25-34,Northeast,$35K-$75K,6.16
+2018,11303,Cable,Netflix,Device Availability,,25-34,West,$35K-$75K,6.0
+2018,10867,Cable television,Spotify,Convenience,,45-54,South,$75K-$150K,4.0
+2018,10901,Network TV,Paramount+,Convenience,,55+,Northeast,$35K-$75K,7.0
+2018,11411,Cable television,YouTube,Content Selection,,35-44,Midwest,<$35K,7.99
+2018,11906,broadcast tv,Amazon Prime Video,Bundling,Bundling,55+,Midwest,>$150K,5.0
+2018,11941,Cable TV,Disney+,Recommendation,Device Availability,18-24,Midwest,<$35K,7.0
+2018,11002,Broadcast TV,Max,Content Selection,Price,35-44,Northeast,$35K-$75K,5.0
+2018,11498,satellite radio,Amazon Prime Video,Device Availability,,25-34,Midwest,<$35K,9.13
+2018,11993,Cable television,Peacock,Bundling,,18-24,West,$35K-$75K,7.66
+2018,10853,CABLE TV,Spotify,Recommendation,,45-54,Midwest,<$35K,5.83
+2018,11687,SiriusXM,Amazon Prime Video,Recommendation,Bundling,18-24,Midwest,$35K-$75K,5.97
+2018,10333,satellite radio,Apple TV+,Content Selection,Device Availability,45-54,Midwest,$75K-$150K,6.0
+2018,10295,Cable,Disney+,Convenience,,55+,West,>$150K,7.31
+2018,11035,CABLE TV,Paramount+,Device Availability,,18-24,South,<$35K,8.52
+2018,10260,SiriusXM,Netflix,Content Selection,Recommendation,35-44,South,$35K-$75K,6.0
+2018,10992,cable tv,Peacock,Recommendation,Price,25-34,West,>$150K,9.0
+2018,11456,print media,Disney+,Content Selection,Device Availability,45-54,South,$75K-$150K,4.99
+2018,10937,Cable,Paramount+,Price,,55+,South,$75K-$150K,6.0
+2018,10264,Broadcast TV,Hulu,Convenience,,45-54,Midwest,$75K-$150K,4.0
+2018,11982,CABLE TV,Peacock,Recommendation,Device Availability,25-34,Northeast,>$150K,8.92
+2018,11442,Satellite radio,Max,Device Availability,,18-24,South,>$150K,4.0
+2018,11051,satellite radio,Peacock,Recommendation,Content Selection,55+,Northeast,>$150K,
+2018,11767,Network TV,Peacock,Convenience,,25-34,West,<$35K,8.0
+2018,11083,Network TV,Paramount+,Price,Device Availability,25-34,West,$35K-$75K,6.86
+2018,10241,Cable TV,YouTube,Price,Price,55+,West,$35K-$75K,9.5
+2018,11422,Cable,Netflix,Device Availability,,45-54,Northeast,<$35K,8.0
+2018,10435,Cable TV,Netflix,Recommendation,,25-34,Midwest,$35K-$75K,
+2018,10932,Cable,Hulu,Content Selection,,18-24,South,$35K-$75K,
+2018,10969,broadcast tv,Apple TV+,Bundling,,55+,South,>$150K,8.0
+2018,10066,Cable television,Apple TV+,Price,Recommendation,25-34,Northeast,$75K-$150K,6.0
+2018,11528,Cable,Peacock,Convenience,,45-54,Northeast,$35K-$75K,7.0
+2018,10321,Cable,Apple TV+,Content Selection,,35-44,West,<$35K,8.0
+2018,11933,Network TV,Spotify,Device Availability,,55+,Northeast,$35K-$75K,9.81
+2018,11887,Broadcast,YouTube,Price,Convenience,45-54,Midwest,$35K-$75K,7.2
+2018,11949,CABLE TV,Paramount+,Device Availability,,25-34,Midwest,$75K-$150K,5.0
+2018,10243,broadcast tv,Netflix,Content Selection,,35-44,Midwest,$35K-$75K,4.41
+2018,11232,print media,Amazon Prime Video,Bundling,,55+,Midwest,$35K-$75K,6.61
+2018,11745,Cable,Amazon Prime Video,Content Selection,Bundling,55+,South,$35K-$75K,7.0
+2018,10836,Broadcast,Amazon Prime Video,Content Selection,Bundling,25-34,Midwest,$75K-$150K,3.0
+2018,10225,broadcast tv,Peacock,Recommendation,Recommendation,45-54,West,$35K-$75K,5.0
+2018,10247,Cable television,Peacock,Price,,35-44,South,$35K-$75K,7.0
+2018,11170,Broadcast TV,Apple TV+,Content Selection,,25-34,South,$35K-$75K,
+2018,10593,satellite radio,Paramount+,Recommendation,,45-54,Midwest,>$150K,4.0
+2018,10082,Cable TV,Peacock,Bundling,Recommendation,35-44,Midwest,>$150K,7.0
+2018,11070,Cable television,Peacock,Device Availability,Recommendation,18-24,Midwest,<$35K,6.0
+2018,10313,broadcast tv,Amazon Prime Video,Bundling,,25-34,Northeast,<$35K,4.0
+2018,10760,Newspaper,YouTube,Price,,25-34,West,$35K-$75K,7.0
+2018,10624,Network TV,YouTube,Convenience,,18-24,Northeast,$75K-$150K,5.59
+2018,10766,Cable television,Max,Price,,45-54,Northeast,<$35K,9.0
+2018,10621,Broadcast,Disney+,Convenience,Content Selection,25-34,West,$35K-$75K,7.98
+2018,10602,Broadcast,Disney+,Content Selection,Content Selection,25-34,Midwest,>$150K,3.0
+2018,10995,Cable TV,Peacock,Price,Convenience,18-24,South,>$150K,8.0
+2018,10057,cable tv,Netflix,Device Availability,,18-24,Northeast,$35K-$75K,7.0
+2018,11620,SiriusXM,Paramount+,Convenience,,35-44,Midwest,$75K-$150K,7.0
+2018,10292,Newspaper,Peacock,Bundling,Convenience,35-44,Northeast,<$35K,4.0
+2018,10291,CABLE TV,Hulu,Bundling,Device Availability,25-34,Midwest,>$150K,8.0
+2018,11605,Network TV,Amazon Prime Video,Price,,35-44,Northeast,$75K-$150K,10.0
+2018,11207,Cable television,Peacock,Device Availability,,18-24,Midwest,>$150K,3.0
+2018,10863,Broadcast TV,Peacock,Convenience,,25-34,Northeast,$35K-$75K,6.0
+2018,10099,Newspaper,Disney+,Recommendation,,45-54,South,$35K-$75K,7.0
+2018,11918,Broadcast TV,Hulu,Recommendation,,18-24,South,$75K-$150K,9.31
+2018,11831,Broadcast TV,Disney+,Bundling,,45-54,Northeast,$75K-$150K,5.0
+2018,11820,Satellite Radio,Apple TV+,Recommendation,,45-54,West,$35K-$75K,6.95
+2018,10580,Broadcast,Hulu,Bundling,Convenience,45-54,Northeast,$75K-$150K,
+2018,10441,Network TV,Peacock,Convenience,,25-34,South,<$35K,5.03
+2018,10374,print media,Paramount+,Device Availability,,55+,Midwest,$35K-$75K,8.0
+2018,11677,Satellite Radio,YouTube,Convenience,Device Availability,18-24,Midwest,>$150K,6.0
+2018,11514,cable tv,Disney+,Device Availability,Device Availability,25-34,Northeast,$35K-$75K,6.0
+2018,11001,Cable,Netflix,Bundling,Recommendation,45-54,Midwest,>$150K,5.0
+2018,10004,CABLE TV,Peacock,Price,Bundling,18-24,Midwest,>$150K,8.0
+2018,10250,Network TV,Max,Content Selection,Device Availability,25-34,Northeast,$75K-$150K,6.0
+2018,11121,Cable television,Disney+,Price,Recommendation,25-34,Northeast,<$35K,4.0
+2018,10714,Broadcast,Peacock,Content Selection,Content Selection,45-54,West,$75K-$150K,5.0
+2018,10138,Broadcast TV,Paramount+,Device Availability,Device Availability,45-54,Midwest,<$35K,2.66
+2018,11782,Broadcast,Netflix,Bundling,,55+,West,$75K-$150K,7.0
+2018,10091,Newspaper,Max,Bundling,Convenience,18-24,South,>$150K,6.05
+2018,10855,Network TV,Hulu,Bundling,,55+,Northeast,$35K-$75K,10.0
+2018,10985,CABLE TV,Paramount+,Convenience,Content Selection,55+,South,$35K-$75K,5.98
+2018,11173,Satellite Radio,Hulu,Bundling,Bundling,25-34,West,<$35K,7.0
+2018,10634,CABLE TV,Paramount+,Content Selection,,35-44,Midwest,$35K-$75K,7.0
+2018,11158,Cable TV,Amazon Prime Video,Content Selection,Content Selection,25-34,South,$75K-$150K,6.0
+2018,10926,Cable,Peacock,Recommendation,Convenience,45-54,South,$35K-$75K,
+2018,11843,Broadcast,Apple TV+,Bundling,,55+,South,>$150K,7.0
+2018,10691,print media,Hulu,Convenience,Price,55+,West,<$35K,5.39
+2018,11600,Print Media,Disney+,Content Selection,Price,45-54,South,>$150K,10.0
+2018,10772,SiriusXM,Hulu,Bundling,Bundling,35-44,Midwest,<$35K,5.86
+2018,10973,Newspaper,Disney+,Convenience,,55+,West,>$150K,6.0
+2018,11708,Broadcast,Peacock,Bundling,,18-24,Midwest,$35K-$75K,6.0
+2018,11474,Network TV,Apple TV+,Recommendation,,35-44,West,$35K-$75K,6.0
+2018,11707,Cable TV,Hulu,Price,,18-24,South,<$35K,10.14
+2018,11240,Print,Peacock,Device Availability,,25-34,West,>$150K,1.0
+2018,10271,Broadcast,Netflix,Device Availability,Bundling,35-44,South,<$35K,6.0
+2018,11560,Broadcast,Disney+,Price,Content Selection,55+,Midwest,<$35K,5.25
+2018,10283,print media,Spotify,Price,Recommendation,35-44,Midwest,$35K-$75K,
+2018,11033,Network TV,Amazon Prime Video,Convenience,,55+,Northeast,>$150K,
+2018,10943,Cable television,Apple TV+,Convenience,Price,35-44,South,>$150K,4.61
+2018,11559,Broadcast TV,Spotify,Bundling,,45-54,Northeast,>$150K,10.0
+2018,10921,cable tv,Peacock,Content Selection,,35-44,Northeast,>$150K,7.0
+2018,11366,Cable television,Netflix,Convenience,,25-34,Northeast,$35K-$75K,7.0
+2018,10919,Cable,Paramount+,Device Availability,,18-24,West,>$150K,8.0
+2018,10305,broadcast tv,Peacock,Bundling,,45-54,South,<$35K,10.0
+2018,11774,Cable,Netflix,Device Availability,,45-54,Northeast,>$150K,5.96
+2018,11490,Cable television,Amazon Prime Video,Bundling,Bundling,25-34,South,$75K-$150K,7.18
+2018,10666,Satellite radio,Paramount+,Device Availability,,18-24,South,$35K-$75K,3.0
+2018,10182,Broadcast,Hulu,Content Selection,Convenience,25-34,South,>$150K,8.0
+2018,11638,Broadcast,Amazon Prime Video,Convenience,Price,55+,West,<$35K,6.93
+2018,11279,cable tv,Peacock,Content Selection,Price,25-34,Northeast,<$35K,10.0
+2018,11360,Print,Peacock,Content Selection,Recommendation,35-44,Midwest,$75K-$150K,8.0
+2018,11277,Broadcast,Apple TV+,Convenience,,35-44,Midwest,$35K-$75K,6.0
+2018,10838,CABLE TV,Hulu,Price,,25-34,South,>$150K,5.8
+2018,10793,broadcast tv,Max,Device Availability,,25-34,South,<$35K,8.0
+2018,10476,satellite radio,Apple TV+,Recommendation,,18-24,West,<$35K,8.0
+2018,10809,Print,Disney+,Bundling,Content Selection,35-44,Northeast,<$35K,8.0
+2018,10694,Broadcast TV,Disney+,Recommendation,,45-54,West,>$150K,4.14
+2018,11107,CABLE TV,Amazon Prime Video,Bundling,,55+,West,$75K-$150K,6.0
+2018,10093,Cable TV,Spotify,Content Selection,Device Availability,25-34,Midwest,$35K-$75K,8.0
+2018,11962,Broadcast,Amazon Prime Video,Bundling,Device Availability,35-44,Midwest,$75K-$150K,9.0
+2018,11373,broadcast tv,Apple TV+,Price,,18-24,Midwest,$35K-$75K,8.21
+2018,11822,Cable TV,Spotify,Device Availability,,55+,Northeast,>$150K,8.0
+2018,10907,Cable television,Amazon Prime Video,Convenience,Bundling,45-54,South,>$150K,6.0
+2018,11507,Cable television,Hulu,Recommendation,Content Selection,25-34,South,>$150K,8.0
+2018,10568,SiriusXM,YouTube,Content Selection,Price,45-54,South,>$150K,6.0
+2018,11322,CABLE TV,Disney+,Device Availability,,18-24,Northeast,>$150K,
+2018,10181,Satellite Radio,Disney+,Content Selection,,35-44,South,<$35K,7.38
+2018,11773,satellite radio,Hulu,Content Selection,Bundling,45-54,South,$75K-$150K,
+2018,10339,Broadcast TV,Netflix,Price,Convenience,18-24,West,$35K-$75K,
+2018,11448,Cable,Peacock,Recommendation,Device Availability,35-44,South,>$150K,6.0
+2018,10050,print media,Hulu,Convenience,Bundling,35-44,Northeast,$75K-$150K,4.0
+2018,11171,Satellite radio,Disney+,Recommendation,,55+,South,>$150K,8.0
+2018,11290,Cable TV,Max,Recommendation,,35-44,Northeast,<$35K,9.0
+2018,11630,Satellite radio,Apple TV+,Content Selection,Device Availability,45-54,Northeast,<$35K,2.77
+2018,11580,print media,Peacock,Convenience,Recommendation,45-54,West,$75K-$150K,5.0
+2018,10632,Newspaper,Peacock,Bundling,,55+,West,$35K-$75K,5.0
+2018,11149,Broadcast,Hulu,Content Selection,Content Selection,18-24,Midwest,>$150K,8.0
+2018,11321,cable tv,Apple TV+,Content Selection,Content Selection,55+,West,$35K-$75K,7.11
+2018,10253,Broadcast,Peacock,Device Availability,Recommendation,35-44,Northeast,<$35K,8.04
+2018,11318,Satellite radio,Netflix,Content Selection,Price,25-34,Northeast,<$35K,3.81
+2018,11145,broadcast tv,Paramount+,Recommendation,,45-54,Northeast,$75K-$150K,5.41
+2018,10174,Broadcast,Spotify,Content Selection,Recommendation,45-54,Midwest,$75K-$150K,6.0
+2018,11956,Broadcast,Amazon Prime Video,Recommendation,,25-34,West,$35K-$75K,5.0
+2018,11267,Broadcast TV,Paramount+,Recommendation,Device Availability,45-54,West,$35K-$75K,8.43
+2018,11109,cable tv,YouTube,Convenience,Convenience,25-34,Northeast,<$35K,7.38
+2018,11181,print media,Spotify,Content Selection,,18-24,South,$75K-$150K,
+2018,11551,Newspaper,Netflix,Price,Convenience,18-24,Midwest,$75K-$150K,8.0
+2018,10108,Cable television,Apple TV+,Content Selection,,18-24,Midwest,>$150K,8.0
+2018,11960,Cable television,Paramount+,Bundling,,18-24,Midwest,$35K-$75K,6.0
+2018,11167,Satellite Radio,Amazon Prime Video,Content Selection,,25-34,South,$75K-$150K,6.0
+2018,11068,Print,Peacock,Content Selection,Bundling,55+,Northeast,$35K-$75K,7.0
+2018,10387,Cable TV,Disney+,Convenience,,18-24,West,<$35K,5.75
+2018,11537,broadcast tv,Hulu,Price,Recommendation,35-44,West,$75K-$150K,7.0
+2018,10974,Print,YouTube,Recommendation,Convenience,45-54,West,$35K-$75K,5.0
+2018,11029,Cable television,Spotify,Recommendation,Device Availability,18-24,Northeast,$35K-$75K,8.0
+2018,11836,Cable TV,Max,Recommendation,Recommendation,18-24,South,>$150K,9.0
+2018,10038,Network TV,Hulu,Price,Price,45-54,West,$35K-$75K,4.9
+2018,10246,CABLE TV,Paramount+,Content Selection,,45-54,Northeast,$75K-$150K,4.63
+2018,11348,CABLE TV,Netflix,Bundling,,18-24,Midwest,>$150K,7.44
+2018,11917,Cable TV,Peacock,Convenience,Content Selection,18-24,South,<$35K,7.0
+2018,11089,Broadcast,Max,Content Selection,,18-24,West,$75K-$150K,7.53
+2018,10368,Cable television,Paramount+,Recommendation,,25-34,West,$75K-$150K,9.0
+2018,11970,Satellite radio,Hulu,Device Availability,,55+,South,$75K-$150K,6.0
+2018,10563,broadcast tv,Netflix,Content Selection,,25-34,West,$75K-$150K,10.0
+2018,11611,Cable television,Disney+,Device Availability,Bundling,18-24,Northeast,$35K-$75K,9.92
+2018,10421,Broadcast,YouTube,Recommendation,Content Selection,25-34,Northeast,$75K-$150K,7.0
+2018,10502,SiriusXM,Paramount+,Recommendation,Convenience,55+,West,$75K-$150K,6.5
+2019,10542,Broadcast TV,Amazon Prime Video,Device Availability,Convenience,45-54,South,$35K-$75K,6.0
+2019,11699,Print,Apple TV+,Convenience,,55+,Northeast,$35K-$75K,10.51
+2019,11046,CABLE TV,Netflix,Bundling,Bundling,25-34,South,$75K-$150K,7.75
+2019,10234,print media,Max,Convenience,,18-24,Midwest,$75K-$150K,8.0
+2019,11372,Network TV,Amazon Prime Video,Convenience,Device Availability,35-44,West,<$35K,4.0
+2019,11354,Newspaper,Peacock,Recommendation,Device Availability,35-44,Midwest,<$35K,5.0
+2019,10496,satellite radio,Hulu,Recommendation,Price,55+,Midwest,>$150K,6.0
+2019,10925,Broadcast TV,Hulu,Content Selection,,45-54,South,$75K-$150K,10.05
+2019,11308,Broadcast,Apple TV+,Price,Device Availability,18-24,Midwest,$35K-$75K,4.0
+2019,11428,Broadcast,Spotify,Content Selection,Convenience,55+,Northeast,>$150K,7.0
+2019,11300,print media,Amazon Prime Video,Price,,45-54,Northeast,$75K-$150K,6.0
+2019,11149,Broadcast TV,Max,Price,,55+,Northeast,>$150K,7.0
+2019,11181,Broadcast TV,Apple TV+,Device Availability,Recommendation,18-24,West,$75K-$150K,6.0
+2019,11232,Broadcast TV,Peacock,Convenience,,45-54,West,<$35K,10.0
+2019,10209,Cable,Netflix,Price,Convenience,45-54,South,$35K-$75K,9.0
+2019,10393,Broadcast TV,Netflix,Convenience,,18-24,Northeast,<$35K,8.32
+2019,11437,Network TV,Max,Device Availability,Content Selection,55+,West,<$35K,9.0
+2019,11270,Newspaper,Paramount+,Device Availability,Bundling,25-34,West,>$150K,9.0
+2019,11920,print media,Hulu,Convenience,,18-24,Midwest,$35K-$75K,5.22
+2019,11894,Print,Amazon Prime Video,Price,,45-54,West,$35K-$75K,4.0
+2019,11855,newspaper,Spotify,Convenience,,35-44,West,$35K-$75K,7.0
+2019,11755,Network TV,YouTube,Bundling,Recommendation,25-34,Northeast,$75K-$150K,6.0
+2019,10203,newspaper,Hulu,Content Selection,,18-24,Northeast,$35K-$75K,9.0
+2019,10179,broadcast tv,Max,Price,,18-24,Midwest,>$150K,7.0
+2019,11650,broadcast tv,Netflix,Recommendation,Price,18-24,West,>$150K,7.2
+2019,11714,SiriusXM,Hulu,Device Availability,Content Selection,18-24,South,<$35K,
+2019,10212,cable tv,Amazon Prime Video,Price,,35-44,South,>$150K,6.0
+2019,10183,Cable,Disney+,Content Selection,Convenience,55+,Midwest,<$35K,7.0
+2019,11330,Newspaper,Max,Device Availability,Convenience,18-24,South,$35K-$75K,6.0
+2019,10033,Broadcast TV,Disney+,Convenience,,25-34,Northeast,$75K-$150K,9.0
+2019,11262,Broadcast,Paramount+,Price,Price,55+,Midwest,$35K-$75K,5.72
+2019,11909,broadcast tv,Paramount+,Recommendation,,55+,Midwest,>$150K,7.0
+2019,10842,Print Media,Apple TV+,Bundling,,55+,West,<$35K,6.53
+2019,11016,Broadcast,Disney+,Convenience,,25-34,West,$75K-$150K,8.96
+2019,11535,Newspaper,Hulu,Convenience,,55+,West,$35K-$75K,7.0
+2019,11539,broadcast tv,Max,Content Selection,Bundling,35-44,Northeast,>$150K,10.0
+2019,11277,Print Media,Max,Price,,45-54,South,>$150K,6.0
+2019,11898,Cable television,Max,Price,,18-24,West,<$35K,5.0
+2019,11115,Cable television,Max,Price,Device Availability,18-24,Northeast,$75K-$150K,9.0
+2019,10204,newspaper,Disney+,Price,,25-34,South,>$150K,9.61
+2019,11297,Cable television,Apple TV+,Content Selection,,45-54,West,>$150K,8.0
+2019,10909,Network TV,Apple TV+,Bundling,Content Selection,35-44,South,>$150K,7.0
+2019,11030,CABLE TV,Paramount+,Bundling,Recommendation,18-24,South,>$150K,6.0
+2019,11190,Network TV,Peacock,Recommendation,,55+,Northeast,>$150K,4.8
+2019,10066,print media,YouTube,Bundling,Bundling,55+,Midwest,<$35K,6.86
+2019,11367,newspaper,Paramount+,Price,Convenience,18-24,Midwest,<$35K,5.0
+2019,10593,Satellite Radio,Hulu,Device Availability,,55+,Northeast,$35K-$75K,4.5
+2019,11744,print media,Max,Device Availability,Price,45-54,South,<$35K,
+2019,10861,Cable TV,Spotify,Price,Price,45-54,Northeast,>$150K,4.0
+2019,10433,Cable,Spotify,Convenience,,45-54,Northeast,>$150K,9.4
+2019,10456,Cable,Disney+,Bundling,,55+,South,>$150K,5.0
+2019,11591,broadcast tv,Peacock,Recommendation,,18-24,West,>$150K,6.98
+2019,10931,Cable TV,YouTube,Recommendation,Convenience,18-24,West,<$35K,8.0
+2019,11129,Broadcast TV,Disney+,Convenience,,55+,South,$75K-$150K,6.0
+2019,10780,Broadcast,Disney+,Convenience,,55+,Midwest,>$150K,6.0
+2019,10234,Network TV,Hulu,Device Availability,,45-54,South,$75K-$150K,4.0
+2019,10400,Print Media,YouTube,Bundling,,18-24,Northeast,<$35K,7.43
+2019,11753,Newspaper,Apple TV+,Content Selection,,25-34,Northeast,$35K-$75K,6.0
+2019,10961,Print,Netflix,Bundling,Price,18-24,West,$75K-$150K,4.0
+2019,11946,SiriusXM,Disney+,Device Availability,,25-34,South,$75K-$150K,5.0
+2019,10254,Cable,Peacock,Bundling,,25-34,Northeast,<$35K,5.0
+2019,10718,Print Media,Peacock,Bundling,,18-24,Midwest,$35K-$75K,5.0
+2019,11981,newspaper,Paramount+,Content Selection,,55+,West,$75K-$150K,4.0
+2019,11625,Network TV,Hulu,Bundling,Bundling,35-44,Northeast,<$35K,9.83
+2019,11871,Broadcast TV,Amazon Prime Video,Convenience,,35-44,West,$75K-$150K,10.12
+2019,10950,satellite radio,Peacock,Bundling,Device Availability,18-24,West,$75K-$150K,8.31
+2019,10845,Broadcast,Apple TV+,Price,Bundling,35-44,Northeast,$35K-$75K,4.0
+2019,11859,Print,Apple TV+,Price,,55+,Northeast,>$150K,6.93
+2019,11680,Cable TV,Paramount+,Bundling,Convenience,45-54,West,$75K-$150K,8.0
+2019,11320,Cable,Spotify,Bundling,,18-24,West,<$35K,3.0
+2019,11441,Cable television,Spotify,Content Selection,Price,55+,Midwest,$75K-$150K,
+2019,11606,CABLE TV,Netflix,Content Selection,Bundling,55+,Northeast,<$35K,8.61
+2019,11517,Cable TV,Disney+,Recommendation,Price,35-44,Midwest,$35K-$75K,8.0
+2019,10810,Satellite Radio,Max,Bundling,Device Availability,35-44,South,>$150K,7.0
+2019,10015,Print Media,Amazon Prime Video,Bundling,,35-44,Northeast,<$35K,6.0
+2019,11924,Cable,Spotify,Content Selection,Bundling,25-34,Northeast,$75K-$150K,8.0
+2019,10767,Cable,Paramount+,Device Availability,,18-24,Northeast,>$150K,8.0
+2019,11601,Print,Max,Bundling,Price,45-54,West,>$150K,
+2019,10458,Cable,Peacock,Bundling,Convenience,18-24,Midwest,<$35K,9.0
+2019,11039,CABLE TV,Amazon Prime Video,Price,Bundling,45-54,West,<$35K,5.0
+2019,10548,Print Media,Spotify,Recommendation,Device Availability,55+,Midwest,$35K-$75K,8.76
+2019,11801,Print Media,Max,Price,,55+,Midwest,$75K-$150K,6.3
+2019,11348,cable tv,Max,Device Availability,,55+,Northeast,<$35K,6.0
+2019,10541,Broadcast TV,Paramount+,Price,,35-44,West,$35K-$75K,9.0
+2019,10629,CABLE TV,Spotify,Convenience,,45-54,South,$75K-$150K,6.95
+2019,11717,Satellite radio,YouTube,Device Availability,Price,18-24,South,>$150K,5.36
+2019,11848,Print,Max,Convenience,Convenience,55+,Northeast,$35K-$75K,6.0
+2019,11628,cable tv,YouTube,Convenience,,45-54,Northeast,>$150K,7.39
+2019,11862,broadcast tv,Apple TV+,Recommendation,,35-44,West,$75K-$150K,
+2019,10849,newspaper,Netflix,Price,,35-44,Midwest,$35K-$75K,6.0
+2019,11378,Satellite radio,Peacock,Device Availability,Price,25-34,West,<$35K,
+2019,10494,Network TV,Apple TV+,Convenience,Bundling,35-44,South,$75K-$150K,5.0
+2019,10008,Network TV,Apple TV+,Device Availability,,25-34,West,>$150K,6.0
+2019,11843,Satellite radio,Paramount+,Recommendation,Content Selection,55+,South,>$150K,8.0
+2019,11861,satellite radio,Apple TV+,Convenience,Recommendation,45-54,South,>$150K,5.0
+2019,10031,Cable TV,Peacock,Convenience,,45-54,Northeast,$35K-$75K,5.0
+2019,10053,Cable,Hulu,Content Selection,,55+,West,>$150K,6.0
+2019,10314,cable tv,YouTube,Bundling,,18-24,Northeast,$75K-$150K,8.0
+2019,11618,SiriusXM,Max,Recommendation,,25-34,Northeast,$35K-$75K,9.0
+2019,10766,Network TV,Disney+,Bundling,,35-44,Northeast,$35K-$75K,5.0
+2019,11721,SiriusXM,Max,Convenience,Content Selection,25-34,Northeast,$35K-$75K,5.0
+2019,11672,Broadcast,Hulu,Convenience,Recommendation,25-34,South,$75K-$150K,7.41
+2019,11062,Satellite Radio,Amazon Prime Video,Device Availability,Price,25-34,South,<$35K,6.0
+2019,11679,Cable television,Netflix,Convenience,Bundling,45-54,West,$35K-$75K,6.5
+2019,11518,Cable TV,Paramount+,Recommendation,,18-24,South,$75K-$150K,6.7
+2019,11228,Print,Apple TV+,Content Selection,,35-44,West,<$35K,6.0
+2019,10650,Newspaper,Hulu,Device Availability,,35-44,South,<$35K,9.0
+2019,10686,print media,Amazon Prime Video,Convenience,,45-54,South,>$150K,6.01
+2019,10349,newspaper,Amazon Prime Video,Price,Recommendation,55+,South,$35K-$75K,9.0
+2019,11964,cable tv,Paramount+,Bundling,,25-34,Midwest,$35K-$75K,7.0
+2019,11171,Network TV,YouTube,Convenience,,35-44,Northeast,$35K-$75K,9.63
+2019,10880,Print Media,Amazon Prime Video,Device Availability,Content Selection,45-54,Midwest,<$35K,9.0
+2019,10495,Cable television,Paramount+,Bundling,Content Selection,18-24,Midwest,$75K-$150K,3.02
+2019,11138,Print Media,Apple TV+,Recommendation,Recommendation,45-54,West,$75K-$150K,6.62
+2019,11993,Print Media,Netflix,Convenience,Content Selection,55+,South,$35K-$75K,7.0
+2019,10801,CABLE TV,Netflix,Device Availability,Recommendation,18-24,Midwest,$75K-$150K,6.0
+2019,10394,Satellite radio,Apple TV+,Bundling,Content Selection,55+,West,$35K-$75K,7.0
+2019,11319,Satellite radio,Netflix,Price,,55+,Northeast,>$150K,7.83
+2019,10805,Cable TV,Amazon Prime Video,Device Availability,,25-34,Northeast,$75K-$150K,7.0
+2019,11696,Print Media,Hulu,Price,Device Availability,45-54,Northeast,<$35K,4.0
+2019,10105,Print,YouTube,Recommendation,Bundling,35-44,Midwest,>$150K,6.41
+2019,11641,CABLE TV,Paramount+,Recommendation,Price,25-34,West,$75K-$150K,7.0
+2019,11908,Broadcast,Peacock,Price,,45-54,Midwest,<$35K,
+2019,11183,Newspaper,Apple TV+,Recommendation,,35-44,Midwest,$35K-$75K,7.0
+2019,10878,Cable,Amazon Prime Video,Recommendation,,18-24,South,>$150K,5.0
+2019,10263,Cable television,Max,Recommendation,Convenience,25-34,Northeast,$75K-$150K,5.0
+2019,11923,Print Media,Amazon Prime Video,Bundling,,55+,West,$75K-$150K,8.0
+2019,11303,Satellite Radio,Hulu,Recommendation,,45-54,South,<$35K,6.0
+2019,10799,Cable television,Hulu,Price,,45-54,South,>$150K,9.14
+2019,11491,cable tv,Max,Bundling,Convenience,55+,South,$35K-$75K,10.0
+2019,10355,Print Media,Spotify,Bundling,Recommendation,25-34,Midwest,$35K-$75K,8.0
+2019,10825,Cable television,Hulu,Price,Content Selection,25-34,Northeast,>$150K,9.25
+2019,11851,Broadcast,Hulu,Convenience,,25-34,Midwest,<$35K,8.0
+2019,10651,satellite radio,Apple TV+,Bundling,,35-44,South,<$35K,6.17
+2019,11059,Cable,Max,Bundling,Bundling,55+,West,$75K-$150K,4.0
+2019,10324,newspaper,Paramount+,Content Selection,Content Selection,25-34,Northeast,$35K-$75K,5.0
+2019,10473,Cable TV,Netflix,Content Selection,,45-54,West,>$150K,6.0
+2019,11454,Network TV,Paramount+,Convenience,Bundling,35-44,Northeast,$35K-$75K,9.0
+2019,11640,print media,Peacock,Bundling,Device Availability,35-44,Northeast,>$150K,6.0
+2019,10258,Print Media,Peacock,Content Selection,,25-34,West,$75K-$150K,6.0
+2019,11032,Cable television,Apple TV+,Bundling,Bundling,35-44,Midwest,<$35K,10.2
+2019,10242,cable tv,Paramount+,Recommendation,Device Availability,35-44,Midwest,<$35K,5.0
+2019,11293,Newspaper,YouTube,Device Availability,,25-34,West,<$35K,7.22
+2019,11181,print media,Hulu,Recommendation,,18-24,Northeast,>$150K,6.9
+2019,10802,CABLE TV,Max,Content Selection,,18-24,Midwest,$75K-$150K,8.0
+2019,11726,Broadcast TV,Peacock,Recommendation,,18-24,Northeast,$35K-$75K,6.0
+2019,11560,Print,Disney+,Recommendation,Bundling,25-34,West,$35K-$75K,5.0
+2019,11284,Satellite Radio,Apple TV+,Recommendation,,18-24,West,<$35K,4.2
+2019,11877,print media,Apple TV+,Bundling,,18-24,South,<$35K,7.0
+2019,10532,Cable,Disney+,Convenience,Device Availability,35-44,South,$75K-$150K,9.0
+2019,10325,Cable,Max,Content Selection,Convenience,35-44,West,$75K-$150K,8.0
+2019,11942,Broadcast,Netflix,Bundling,Bundling,55+,South,>$150K,8.0
+2019,10660,print media,Apple TV+,Device Availability,,55+,Midwest,<$35K,5.57
+2019,10417,newspaper,Disney+,Recommendation,Bundling,35-44,Midwest,>$150K,7.0
+2019,10190,Broadcast TV,Apple TV+,Price,Recommendation,35-44,Midwest,<$35K,7.0
+2019,10191,Newspaper,YouTube,Recommendation,,45-54,West,>$150K,8.36
+2019,10052,broadcast tv,Paramount+,Device Availability,Price,25-34,Northeast,>$150K,6.0
+2019,10023,Cable,Max,Bundling,,55+,South,$35K-$75K,7.0
+2019,11287,Print,Max,Content Selection,,45-54,West,$35K-$75K,4.24
+2019,11577,Broadcast,Amazon Prime Video,Content Selection,Device Availability,25-34,South,$75K-$150K,
+2019,11215,Cable TV,Paramount+,Bundling,,25-34,West,>$150K,8.18
+2019,10313,Cable,Peacock,Convenience,,45-54,West,<$35K,4.0
+2019,10056,Print,Amazon Prime Video,Bundling,Content Selection,35-44,Midwest,$75K-$150K,7.0
+2019,11265,Cable,Disney+,Recommendation,Content Selection,35-44,West,<$35K,7.0
+2019,11449,broadcast tv,Max,Recommendation,,45-54,Northeast,$75K-$150K,9.0
+2019,11113,Newspaper,Hulu,Convenience,,18-24,West,<$35K,6.31
+2019,11885,Network TV,Netflix,Recommendation,,45-54,West,<$35K,6.0
+2019,11991,Newspaper,Spotify,Convenience,,35-44,Midwest,<$35K,8.0
+2019,10161,Network TV,Hulu,Content Selection,Device Availability,55+,Midwest,$35K-$75K,4.0
+2019,10783,Broadcast TV,Hulu,Recommendation,,18-24,Midwest,$75K-$150K,7.0
+2019,10051,Print,Spotify,Convenience,Convenience,45-54,Northeast,>$150K,6.0
+2019,11520,Cable television,Amazon Prime Video,Content Selection,Price,25-34,South,>$150K,9.08
+2019,11503,newspaper,Amazon Prime Video,Device Availability,,55+,West,<$35K,8.0
+2019,10267,Satellite Radio,Peacock,Bundling,,18-24,Midwest,$75K-$150K,7.6
+2019,10929,Print Media,Hulu,Recommendation,,25-34,Midwest,$75K-$150K,5.0
+2019,11299,CABLE TV,Paramount+,Content Selection,,45-54,Midwest,$35K-$75K,5.0
+2019,11592,Satellite radio,Max,Convenience,Content Selection,18-24,West,$35K-$75K,6.0
+2019,10733,Cable,Netflix,Device Availability,Price,55+,Midwest,>$150K,9.0
+2019,10382,Network TV,Paramount+,Bundling,Convenience,35-44,Midwest,>$150K,9.0
+2019,10490,Cable television,Max,Recommendation,Bundling,18-24,West,$75K-$150K,10.0
+2019,11336,broadcast tv,Max,Convenience,,45-54,Northeast,$35K-$75K,6.0
+2019,11838,Print,Max,Bundling,,25-34,West,$35K-$75K,6.0
+2019,10454,Cable television,Amazon Prime Video,Content Selection,,55+,Midwest,$35K-$75K,9.0
+2019,10608,satellite radio,Amazon Prime Video,Recommendation,,35-44,Midwest,$75K-$150K,4.0
+2019,10396,satellite radio,Spotify,Bundling,,25-34,West,>$150K,6.86
+2019,11096,Newspaper,Max,Price,,35-44,West,$35K-$75K,5.32
+2019,10502,SiriusXM,Peacock,Recommendation,Price,55+,South,$35K-$75K,5.0
+2019,11487,Broadcast TV,Apple TV+,Bundling,Bundling,45-54,Northeast,$75K-$150K,
+2019,11597,SiriusXM,Spotify,Bundling,,25-34,West,$75K-$150K,7.0
+2019,11652,Cable,Max,Price,,25-34,West,>$150K,5.0
+2019,11609,print media,Paramount+,Bundling,,55+,Midwest,$35K-$75K,
+2019,10774,Newspaper,Spotify,Recommendation,,18-24,West,$75K-$150K,10.0
+2019,10533,newspaper,Spotify,Device Availability,Recommendation,18-24,Midwest,>$150K,
+2019,10563,Network TV,Peacock,Price,Convenience,55+,Northeast,$35K-$75K,4.0
+2019,10169,Cable,Paramount+,Content Selection,Convenience,18-24,West,>$150K,7.0
+2019,11914,Network TV,Max,Bundling,Price,25-34,South,$75K-$150K,
+2019,10294,newspaper,Apple TV+,Device Availability,Device Availability,25-34,Midwest,>$150K,6.0
+2019,10047,CABLE TV,Max,Recommendation,Content Selection,18-24,South,$75K-$150K,4.18
+2019,11307,Network TV,Paramount+,Bundling,,35-44,South,$75K-$150K,5.0
+2019,11186,Newspaper,Disney+,Recommendation,,18-24,Northeast,$75K-$150K,6.54
+2019,11775,CABLE TV,Hulu,Device Availability,Recommendation,45-54,Northeast,$35K-$75K,
+2019,10211,satellite radio,Spotify,Price,Bundling,55+,Northeast,<$35K,5.0
+2019,10227,Cable,Amazon Prime Video,Content Selection,,45-54,South,<$35K,8.0
+2019,10940,Print,Disney+,Bundling,Content Selection,25-34,South,>$150K,7.0
+2019,11220,Print Media,Hulu,Content Selection,,45-54,Northeast,>$150K,8.0
+2019,10251,SiriusXM,Hulu,Device Availability,,25-34,West,<$35K,9.0
+2019,10219,Cable,Apple TV+,Bundling,,35-44,Midwest,$75K-$150K,8.0
+2020,10581,cable tv,Max,Bundling,,18-24,South,<$35K,6.0
+2020,10440,Print,Spotify,Price,,55+,Midwest,<$35K,1.0
+2020,10209,Network TV,Max,Bundling,Price,18-24,Northeast,<$35K,4.0
+2020,10810,Print,YouTube,Recommendation,,25-34,Northeast,>$150K,8.0
+2020,10549,cable tv,Hulu,Content Selection,,35-44,West,>$150K,5.0
+2020,11514,CABLE TV,Peacock,Price,Convenience,45-54,South,$75K-$150K,8.0
+2020,11601,Satellite radio,YouTube,Convenience,,55+,South,$35K-$75K,4.92
+2020,11336,Cable TV,Spotify,Bundling,,18-24,South,$75K-$150K,8.34
+2020,10825,cable tv,Disney+,Recommendation,,25-34,South,$75K-$150K,
+2020,10913,Newspaper,Hulu,Recommendation,Device Availability,25-34,West,<$35K,5.0
+2020,11183,Print,Disney+,Bundling,,55+,Northeast,$35K-$75K,7.4
+2020,10912,broadcast tv,Apple TV+,Recommendation,Price,55+,Midwest,>$150K,6.77
+2020,10686,Newspaper,Hulu,Convenience,Convenience,18-24,West,$75K-$150K,8.0
+2020,10004,SiriusXM,Paramount+,Price,,35-44,Midwest,<$35K,7.66
+2020,11687,Cable television,Netflix,Price,,25-34,Midwest,$75K-$150K,8.0
+2020,10366,Broadcast,Spotify,Content Selection,,25-34,Midwest,<$35K,7.0
+2020,10134,broadcast tv,YouTube,Convenience,Price,35-44,Northeast,>$150K,
+2020,11557,Newspaper,Netflix,Bundling,Bundling,55+,South,$35K-$75K,8.0
+2020,10884,Cable television,Paramount+,Recommendation,,55+,West,$35K-$75K,8.0
+2020,11378,Cable television,Paramount+,Convenience,Device Availability,55+,Midwest,<$35K,3.84
+2020,10623,Cable,Disney+,Content Selection,,18-24,West,$75K-$150K,7.22
+2020,10193,Cable,Max,Convenience,,45-54,Midwest,$35K-$75K,6.0
+2020,11895,Newspaper,Netflix,Content Selection,,18-24,South,<$35K,8.34
+2020,11765,Broadcast TV,YouTube,Recommendation,,35-44,South,>$150K,6.0
+2020,10907,cable tv,Spotify,Convenience,Content Selection,35-44,Midwest,>$150K,7.0
+2020,10701,cable tv,Spotify,Convenience,Convenience,45-54,Northeast,$35K-$75K,10.85
+2020,11306,print media,Apple TV+,Convenience,,55+,Northeast,$35K-$75K,10.0
+2020,11406,print media,Disney+,Device Availability,Price,25-34,Midwest,$35K-$75K,
+2020,11103,Broadcast,Spotify,Content Selection,Price,25-34,South,$35K-$75K,6.0
+2020,11684,Broadcast,Max,Price,,45-54,Midwest,>$150K,10.0
+2020,10374,cable tv,Netflix,Price,Bundling,35-44,South,<$35K,
+2020,10396,Broadcast,Paramount+,Content Selection,,25-34,West,$35K-$75K,6.0
+2020,11594,cable tv,Disney+,Recommendation,Device Availability,55+,South,$35K-$75K,5.0
+2020,10222,Print,Hulu,Bundling,Price,55+,West,$35K-$75K,6.0
+2020,11562,Broadcast TV,Apple TV+,Convenience,,18-24,West,$75K-$150K,6.0
+2020,10474,SiriusXM,Max,Content Selection,,18-24,Midwest,$35K-$75K,9.0
+2020,10436,Broadcast TV,Max,Device Availability,,35-44,Midwest,>$150K,4.85
+2020,10629,Broadcast TV,Hulu,Device Availability,,25-34,West,$35K-$75K,5.0
+2020,11027,newspaper,YouTube,Bundling,Bundling,45-54,Northeast,<$35K,5.0
+2020,10625,newspaper,Hulu,Price,,25-34,Midwest,>$150K,
+2020,10655,SiriusXM,Paramount+,Bundling,,18-24,West,>$150K,4.17
+2020,11569,Satellite Radio,Apple TV+,Price,Recommendation,18-24,West,$75K-$150K,5.0
+2020,11086,Cable TV,Apple TV+,Recommendation,,35-44,South,$35K-$75K,9.0
+2020,10966,SiriusXM,Apple TV+,Content Selection,,18-24,Midwest,$75K-$150K,4.6
+2020,10210,Print,Hulu,Device Availability,Bundling,45-54,South,>$150K,5.0
+2020,11402,broadcast tv,Paramount+,Convenience,,25-34,Midwest,<$35K,9.0
+2020,10614,Satellite radio,Peacock,Bundling,,25-34,Northeast,<$35K,8.0
+2020,11899,satellite radio,Disney+,Device Availability,Convenience,45-54,South,>$150K,10.0
+2020,11248,CABLE TV,Hulu,Convenience,,45-54,Northeast,$35K-$75K,10.0
+2020,10430,Cable television,Amazon Prime Video,Device Availability,,25-34,South,>$150K,
+2020,11169,Cable TV,YouTube,Recommendation,,45-54,South,>$150K,6.0
+2020,11376,Network TV,Max,Device Availability,,35-44,Midwest,>$150K,4.0
+2020,10316,Broadcast,Apple TV+,Device Availability,Bundling,55+,South,<$35K,10.0
+2020,10663,Network TV,Spotify,Convenience,Bundling,25-34,Midwest,$35K-$75K,
+2020,10320,SiriusXM,YouTube,Recommendation,Content Selection,18-24,West,<$35K,7.0
+2020,10393,Print,Apple TV+,Price,,35-44,Midwest,<$35K,6.0
+2020,10811,print media,Paramount+,Convenience,,35-44,Midwest,$35K-$75K,5.0
+2020,11609,print media,Spotify,Device Availability,,18-24,Northeast,$75K-$150K,
+2020,10351,Cable television,Disney+,Device Availability,Bundling,25-34,South,<$35K,5.0
+2020,11745,Cable TV,Hulu,Recommendation,,45-54,West,>$150K,6.48
+2020,10323,Network TV,Max,Recommendation,Convenience,45-54,South,$35K-$75K,6.0
+2020,11249,Cable television,Hulu,Bundling,Bundling,18-24,Northeast,$75K-$150K,6.89
+2020,11356,broadcast tv,Netflix,Bundling,,18-24,South,$35K-$75K,7.0
+2020,10321,broadcast tv,Hulu,Device Availability,,55+,Midwest,$35K-$75K,8.99
+2020,10666,Cable television,Netflix,Bundling,Bundling,18-24,Midwest,$75K-$150K,5.0
+2020,11959,Satellite radio,Hulu,Recommendation,Content Selection,55+,Midwest,>$150K,9.0
+2020,11057,CABLE TV,Hulu,Convenience,Content Selection,25-34,West,$35K-$75K,5.82
+2020,10970,Cable television,YouTube,Price,,18-24,Midwest,>$150K,6.91
+2020,11338,Print Media,Peacock,Recommendation,Price,45-54,Northeast,>$150K,4.0
+2020,11219,satellite radio,Paramount+,Convenience,,18-24,Northeast,$35K-$75K,8.0
+2020,11615,broadcast tv,Netflix,Bundling,Convenience,45-54,South,$75K-$150K,6.29
+2020,10853,Newspaper,Spotify,Bundling,,55+,Midwest,<$35K,7.0
+2020,11596,Print,Amazon Prime Video,Recommendation,Device Availability,55+,Northeast,<$35K,6.36
+2020,11487,satellite radio,Netflix,Content Selection,,35-44,South,>$150K,7.6
+2020,10551,Cable,YouTube,Device Availability,Recommendation,55+,Midwest,$35K-$75K,5.0
+2020,10468,Newspaper,Netflix,Recommendation,,45-54,Midwest,$35K-$75K,8.0
+2020,11910,Network TV,Disney+,Device Availability,,18-24,Northeast,<$35K,5.0
+2020,10538,CABLE TV,Apple TV+,Content Selection,,35-44,West,$75K-$150K,5.36
+2020,11913,Cable,Hulu,Bundling,,25-34,South,<$35K,6.47
+2020,11753,Cable television,Disney+,Price,,18-24,South,>$150K,5.0
+2020,11708,CABLE TV,Amazon Prime Video,Content Selection,,18-24,Northeast,$35K-$75K,6.0
+2020,10621,Print Media,Paramount+,Content Selection,,18-24,West,>$150K,
+2020,10759,Cable,Apple TV+,Device Availability,,18-24,West,<$35K,8.0
+2020,10296,Cable,Disney+,Bundling,,18-24,Northeast,<$35K,4.92
+2020,10627,Print Media,Netflix,Content Selection,,25-34,Northeast,>$150K,
+2020,10683,Cable television,YouTube,Price,,18-24,Northeast,<$35K,4.0
+2020,11488,CABLE TV,Peacock,Recommendation,,25-34,West,$75K-$150K,4.0
+2020,10724,Broadcast,Paramount+,Bundling,,25-34,South,$75K-$150K,6.0
+2020,11698,Print Media,Netflix,Recommendation,,25-34,Northeast,>$150K,6.0
+2020,11526,Newspaper,Disney+,Device Availability,Recommendation,45-54,West,>$150K,7.0
+2020,10645,Network TV,Disney+,Device Availability,,25-34,South,$35K-$75K,5.0
+2020,10921,newspaper,Apple TV+,Recommendation,,45-54,Midwest,$75K-$150K,7.0
+2020,10630,Network TV,Netflix,Content Selection,Bundling,25-34,West,>$150K,8.0
+2020,10871,SiriusXM,YouTube,Device Availability,Device Availability,55+,South,>$150K,4.0
+2020,11153,Cable,Paramount+,Convenience,,55+,Northeast,<$35K,5.33
+2020,10805,Cable TV,Apple TV+,Price,Convenience,25-34,South,$35K-$75K,7.0
+2020,11561,Newspaper,Paramount+,Convenience,,35-44,Midwest,<$35K,7.42
+2020,10854,print media,Peacock,Price,,55+,West,$35K-$75K,4.45
+2020,10011,print media,Hulu,Device Availability,,45-54,Northeast,<$35K,6.0
+2020,11925,Broadcast,Netflix,Bundling,,35-44,West,$35K-$75K,6.0
+2020,10827,broadcast tv,Hulu,Convenience,Content Selection,55+,Midwest,>$150K,6.92
+2020,10113,print media,Apple TV+,Convenience,,18-24,Midwest,>$150K,10.57
+2020,11983,print media,Spotify,Convenience,,18-24,West,$75K-$150K,7.18
+2020,10837,cable tv,Max,Recommendation,,35-44,Northeast,$75K-$150K,6.8
+2020,11322,Satellite radio,YouTube,Price,,18-24,Midwest,>$150K,4.0
+2020,11649,broadcast tv,Peacock,Convenience,Bundling,45-54,West,$75K-$150K,7.92
+2020,10286,Cable TV,Paramount+,Device Availability,Device Availability,35-44,Northeast,<$35K,8.0
+2020,11996,Cable TV,Disney+,Convenience,Bundling,25-34,Northeast,<$35K,7.0
+2020,10935,Satellite radio,YouTube,Device Availability,,45-54,Midwest,<$35K,6.82
+2020,11570,Cable TV,Disney+,Price,,18-24,Northeast,>$150K,
+2020,10561,cable tv,Spotify,Content Selection,,25-34,West,$35K-$75K,6.0
+2020,10039,Satellite Radio,Paramount+,Content Selection,,18-24,South,$35K-$75K,6.49
+2020,11676,Cable TV,Amazon Prime Video,Content Selection,,25-34,South,>$150K,10.0
+2020,11442,satellite radio,Amazon Prime Video,Recommendation,Convenience,25-34,Northeast,$75K-$150K,
+2020,10414,Broadcast TV,YouTube,Recommendation,Device Availability,45-54,Northeast,<$35K,8.0
+2020,10427,newspaper,Hulu,Bundling,Convenience,45-54,Midwest,>$150K,6.0
+2020,11355,print media,YouTube,Content Selection,Convenience,45-54,West,>$150K,8.0
+2020,11467,Newspaper,Paramount+,Recommendation,,25-34,West,>$150K,10.0
+2020,10524,print media,Peacock,Convenience,Device Availability,25-34,South,$35K-$75K,5.66
+2020,10603,broadcast tv,Apple TV+,Content Selection,Recommendation,25-34,Midwest,$75K-$150K,7.0
+2020,11705,print media,Paramount+,Device Availability,Price,18-24,Midwest,>$150K,8.86
+2020,10764,Network TV,Amazon Prime Video,Recommendation,,35-44,South,$75K-$150K,4.94
+2020,10048,cable tv,Apple TV+,Device Availability,Device Availability,25-34,Midwest,>$150K,
+2020,10659,Network TV,Amazon Prime Video,Content Selection,,25-34,Midwest,>$150K,7.0
+2020,10875,Cable,Apple TV+,Device Availability,,25-34,South,$35K-$75K,5.0
+2020,11619,CABLE TV,Hulu,Recommendation,,55+,Midwest,<$35K,5.0
+2020,10783,Print,Paramount+,Recommendation,,35-44,South,$75K-$150K,6.43
+2020,10667,Cable TV,Apple TV+,Convenience,,45-54,South,$75K-$150K,9.0
+2020,11142,Cable,YouTube,Bundling,Device Availability,18-24,South,$75K-$150K,6.0
+2020,11146,Print,Max,Convenience,Convenience,18-24,Northeast,>$150K,8.57
+2020,11513,Satellite radio,YouTube,Recommendation,,18-24,Midwest,>$150K,8.0
+2020,10408,Broadcast,YouTube,Content Selection,Price,18-24,Northeast,$75K-$150K,5.0
+2020,11633,SiriusXM,Apple TV+,Recommendation,Bundling,18-24,Midwest,$75K-$150K,6.0
+2020,10440,Print,Disney+,Recommendation,Price,25-34,South,<$35K,3.0
+2020,11264,Print Media,Hulu,Recommendation,Price,45-54,West,<$35K,6.0
+2020,11030,Broadcast,Spotify,Price,,45-54,South,<$35K,7.09
+2020,10218,Satellite Radio,Netflix,Device Availability,,25-34,West,<$35K,
+2020,10152,print media,Disney+,Bundling,Recommendation,45-54,Northeast,$75K-$150K,4.0
+2020,10497,CABLE TV,Netflix,Content Selection,Recommendation,18-24,Midwest,<$35K,7.0
+2020,10328,print media,Peacock,Content Selection,Price,55+,Midwest,$75K-$150K,4.78
+2020,11480,satellite radio,Amazon Prime Video,Convenience,,45-54,Northeast,$75K-$150K,6.0
+2020,10982,newspaper,Peacock,Content Selection,Price,45-54,Northeast,$35K-$75K,8.0
+2020,11928,satellite radio,Apple TV+,Recommendation,Device Availability,25-34,Midwest,$35K-$75K,9.0
+2020,11477,Cable,Apple TV+,Content Selection,,45-54,Midwest,>$150K,9.0
+2020,11214,satellite radio,Amazon Prime Video,Price,,18-24,Northeast,<$35K,7.0
+2020,10962,Print Media,Paramount+,Recommendation,,25-34,Northeast,<$35K,5.0
+2020,11949,broadcast tv,Peacock,Device Availability,Price,18-24,Midwest,$35K-$75K,9.0
+2020,11988,print media,Hulu,Device Availability,,18-24,West,$35K-$75K,8.0
+2020,11938,satellite radio,Max,Price,,45-54,Northeast,$35K-$75K,7.0
+2020,10094,Broadcast TV,Paramount+,Recommendation,,45-54,South,<$35K,
+2020,11599,Print Media,Max,Device Availability,,35-44,Northeast,$75K-$150K,6.55
+2020,11350,Satellite Radio,Netflix,Bundling,,45-54,West,$35K-$75K,6.16
+2020,10798,Network TV,Spotify,Content Selection,Convenience,55+,South,$75K-$150K,4.0
+2020,11408,Cable television,Apple TV+,Recommendation,,35-44,South,>$150K,5.97
+2020,11965,Cable,Apple TV+,Convenience,,45-54,South,<$35K,5.0
+2020,11861,print media,YouTube,Convenience,,25-34,South,$35K-$75K,8.0
+2020,11446,newspaper,Netflix,Bundling,Price,35-44,South,$35K-$75K,5.0
+2020,10997,broadcast tv,Apple TV+,Bundling,,55+,West,$35K-$75K,4.0
+2020,10511,Cable television,Disney+,Device Availability,,25-34,Northeast,<$35K,5.0
+2020,10573,satellite radio,Amazon Prime Video,Recommendation,Content Selection,55+,Northeast,$35K-$75K,7.25
+2020,11242,Print,Hulu,Convenience,,18-24,West,$75K-$150K,6.87
+2020,11200,satellite radio,Peacock,Convenience,Recommendation,55+,West,<$35K,5.0
+2020,10768,Cable television,Peacock,Bundling,,45-54,Midwest,>$150K,2.0
+2020,10121,Print,Paramount+,Convenience,,18-24,South,<$35K,4.0
+2020,10207,cable tv,Spotify,Device Availability,,25-34,West,<$35K,
+2020,10114,Cable TV,Spotify,Recommendation,Content Selection,45-54,Midwest,>$150K,7.51
+2020,11309,CABLE TV,Paramount+,Content Selection,,35-44,South,<$35K,5.0
+2020,10565,Cable,Hulu,Content Selection,,25-34,Northeast,>$150K,7.0
+2020,11101,Cable,Amazon Prime Video,Convenience,,55+,West,$35K-$75K,4.0
+2020,10756,Print,Hulu,Content Selection,Device Availability,55+,Northeast,>$150K,4.0
+2020,10897,Print Media,Spotify,Price,Price,35-44,West,>$150K,
+2020,11891,cable tv,Paramount+,Recommendation,,25-34,South,<$35K,7.56
+2020,10582,satellite radio,Spotify,Convenience,,25-34,West,<$35K,6.92
+2020,10227,Cable,Peacock,Price,Bundling,18-24,Northeast,$75K-$150K,6.59
+2020,10275,Newspaper,Amazon Prime Video,Content Selection,,45-54,West,$35K-$75K,7.0
+2020,11803,Satellite Radio,Disney+,Device Availability,Bundling,25-34,Northeast,>$150K,1.5
+2020,11535,Print Media,Amazon Prime Video,Convenience,Recommendation,18-24,Midwest,>$150K,
+2020,10151,satellite radio,Peacock,Recommendation,,25-34,South,>$150K,4.0
+2020,10664,print media,Amazon Prime Video,Bundling,,45-54,Northeast,>$150K,5.0
+2020,11587,Satellite radio,Netflix,Convenience,Convenience,45-54,Midwest,$75K-$150K,8.0
+2020,11500,Network TV,Peacock,Device Availability,,55+,South,>$150K,5.0
+2020,10847,newspaper,Spotify,Bundling,,35-44,Midwest,$75K-$150K,9.0
+2020,11688,Broadcast,YouTube,Content Selection,Convenience,25-34,Midwest,>$150K,5.0
+2020,10310,Satellite radio,YouTube,Content Selection,,35-44,South,$75K-$150K,6.0
+2020,11789,Broadcast TV,Max,Device Availability,Bundling,35-44,South,>$150K,5.0
+2020,10308,newspaper,Paramount+,Bundling,Convenience,55+,Northeast,$75K-$150K,8.0
+2020,11207,cable tv,Paramount+,Recommendation,,55+,Midwest,>$150K,8.03
+2020,10612,Network TV,YouTube,Price,,45-54,Midwest,<$35K,7.0
+2020,11175,Cable TV,Max,Price,,35-44,South,<$35K,8.0
+2020,10409,CABLE TV,Netflix,Price,Bundling,35-44,Midwest,>$150K,7.0
+2020,11150,Print Media,Amazon Prime Video,Content Selection,Bundling,35-44,South,$35K-$75K,8.0
+2020,10180,CABLE TV,Netflix,Content Selection,Device Availability,55+,Midwest,>$150K,7.76
+2020,10502,Satellite radio,Amazon Prime Video,Convenience,Content Selection,35-44,West,>$150K,7.75
+2020,10671,Newspaper,Paramount+,Recommendation,Recommendation,55+,West,<$35K,5.0
+2020,11172,newspaper,Apple TV+,Convenience,Bundling,55+,West,>$150K,6.0
+2020,11119,newspaper,Peacock,Content Selection,,25-34,South,$75K-$150K,6.0
+2020,11353,Network TV,Netflix,Device Availability,,25-34,Northeast,>$150K,7.95
+2020,10533,satellite radio,Peacock,Price,,45-54,West,<$35K,5.0
+2020,11140,Cable,Disney+,Content Selection,,55+,South,<$35K,7.0
+2021,11988,Print,Max,Convenience,Recommendation,45-54,West,<$35K,5.0
+2021,11625,Newspaper,Hulu,Convenience,Convenience,55+,South,<$35K,5.82
+2021,11375,Print Media,Netflix,Price,,55+,Midwest,<$35K,5.0
+2021,11215,broadcast tv,Netflix,Bundling,,45-54,West,>$150K,7.32
+2021,11960,newspaper,Spotify,Price,,25-34,West,$75K-$150K,5.77
+2021,11696,Cable,Hulu,Bundling,Recommendation,25-34,Northeast,<$35K,5.0
+2021,10394,CABLE TV,Amazon Prime Video,Recommendation,,25-34,West,$75K-$150K,8.04
+2021,11474,Cable television,Hulu,Content Selection,,25-34,West,<$35K,
+2021,11745,broadcast tv,YouTube,Device Availability,,45-54,Midwest,$75K-$150K,6.0
+2021,10495,newspaper,Max,Bundling,,25-34,South,<$35K,5.62
+2021,11125,Print Media,Paramount+,Device Availability,,18-24,Midwest,$75K-$150K,8.0
+2021,10393,print media,Paramount+,Content Selection,,55+,Midwest,>$150K,7.0
+2021,11093,Broadcast TV,Amazon Prime Video,Content Selection,,18-24,Midwest,<$35K,4.0
+2021,11149,cable tv,Hulu,Convenience,Recommendation,45-54,South,>$150K,8.1
+2021,11765,Cable,Apple TV+,Content Selection,,55+,West,<$35K,7.4
+2021,10305,Broadcast TV,Disney+,Price,Content Selection,18-24,South,$75K-$150K,7.0
+2021,10600,satellite radio,YouTube,Price,Convenience,35-44,Northeast,<$35K,
+2021,10290,Cable,Disney+,Recommendation,,45-54,Northeast,$75K-$150K,7.0
+2021,11758,broadcast tv,Disney+,Price,,35-44,South,<$35K,6.0
+2021,10892,Broadcast,Paramount+,Recommendation,Bundling,35-44,Midwest,>$150K,7.0
+2021,10570,Print Media,Apple TV+,Content Selection,Content Selection,25-34,Northeast,<$35K,10.0
+2021,11783,Cable TV,Max,Convenience,,55+,South,>$150K,8.12
+2021,10380,satellite radio,Amazon Prime Video,Recommendation,,35-44,South,>$150K,
+2021,10469,Print Media,Peacock,Content Selection,,45-54,West,$75K-$150K,7.0
+2021,10838,Newspaper,Apple TV+,Bundling,,25-34,Northeast,$35K-$75K,9.0
+2021,10638,Cable,Amazon Prime Video,Bundling,,35-44,South,$35K-$75K,6.0
+2021,10341,satellite radio,YouTube,Convenience,Price,45-54,South,$35K-$75K,8.0
+2021,11066,Cable television,Spotify,Bundling,,55+,South,>$150K,9.0
+2021,10136,CABLE TV,Spotify,Convenience,,45-54,Northeast,$75K-$150K,6.0
+2021,10474,Network TV,Paramount+,Bundling,,35-44,South,>$150K,8.0
+2021,11785,print media,YouTube,Convenience,Price,55+,South,<$35K,7.39
+2021,10188,Cable TV,Max,Bundling,,55+,West,<$35K,10.0
+2021,11271,Print Media,YouTube,Device Availability,Bundling,25-34,Midwest,<$35K,9.0
+2021,10106,Cable,Netflix,Device Availability,Convenience,25-34,West,<$35K,4.0
+2021,11172,print media,Max,Device Availability,Content Selection,45-54,South,$35K-$75K,5.0
+2021,11340,Satellite Radio,Hulu,Content Selection,,18-24,South,<$35K,9.0
+2021,11603,print media,Hulu,Recommendation,Bundling,55+,West,<$35K,4.0
+2021,11606,Cable,Peacock,Content Selection,,35-44,Northeast,<$35K,7.09
+2021,11953,Broadcast,Paramount+,Device Availability,Convenience,45-54,West,<$35K,7.9
+2021,11775,SiriusXM,YouTube,Device Availability,,25-34,West,>$150K,4.0
+2021,11928,Cable TV,Netflix,Recommendation,Bundling,35-44,Northeast,$75K-$150K,6.0
+2021,11517,Print,Disney+,Price,,55+,Northeast,$35K-$75K,5.0
+2021,10360,satellite radio,Hulu,Bundling,,35-44,South,$75K-$150K,
+2021,10590,cable tv,Disney+,Device Availability,Recommendation,25-34,Midwest,$75K-$150K,6.0
+2021,11122,Print Media,Hulu,Recommendation,Convenience,45-54,Northeast,<$35K,8.0
+2021,10963,newspaper,YouTube,Price,Price,35-44,Midwest,$75K-$150K,6.61
+2021,11929,Cable TV,Amazon Prime Video,Price,Bundling,55+,Northeast,$75K-$150K,9.0
+2021,10866,Print Media,Peacock,Price,,35-44,Northeast,$35K-$75K,
+2021,11832,newspaper,Netflix,Price,,18-24,West,$75K-$150K,6.0
+2021,10343,print media,Hulu,Convenience,Device Availability,55+,Northeast,<$35K,7.0
+2021,10483,CABLE TV,Amazon Prime Video,Recommendation,Bundling,35-44,South,>$150K,6.0
+2021,10035,CABLE TV,Max,Convenience,Bundling,45-54,Midwest,$75K-$150K,7.0
+2021,11654,Cable television,Max,Device Availability,,18-24,Northeast,>$150K,4.0
+2021,11968,newspaper,Hulu,Device Availability,Device Availability,18-24,South,$35K-$75K,5.0
+2021,10400,Satellite radio,Amazon Prime Video,Convenience,,55+,Northeast,$35K-$75K,
+2021,11234,Cable,Paramount+,Content Selection,Device Availability,18-24,Midwest,$75K-$150K,3.0
+2021,11459,broadcast tv,Paramount+,Device Availability,Device Availability,25-34,South,>$150K,5.0
+2021,10157,broadcast tv,Peacock,Price,Recommendation,45-54,South,<$35K,10.0
+2021,10137,newspaper,Max,Content Selection,Convenience,25-34,Midwest,$75K-$150K,8.0
+2021,11582,Cable television,Apple TV+,Convenience,,45-54,South,$75K-$150K,10.0
+2021,10207,Cable television,Amazon Prime Video,Recommendation,,18-24,South,>$150K,3.0
+2021,10551,cable tv,Apple TV+,Bundling,Price,35-44,Midwest,>$150K,
+2021,11673,Satellite Radio,Amazon Prime Video,Convenience,Content Selection,55+,South,>$150K,7.0
+2021,10366,SiriusXM,YouTube,Convenience,Content Selection,25-34,Northeast,$75K-$150K,7.0
+2021,11093,satellite radio,YouTube,Content Selection,,55+,Midwest,<$35K,5.0
+2021,10254,Print Media,Paramount+,Content Selection,,45-54,South,>$150K,8.53
+2021,11595,CABLE TV,Disney+,Content Selection,Price,25-34,West,>$150K,4.0
+2021,10947,Broadcast,Amazon Prime Video,Device Availability,Convenience,18-24,Northeast,$75K-$150K,
+2021,11133,Satellite Radio,Max,Device Availability,,45-54,South,<$35K,6.0
+2021,11558,newspaper,Amazon Prime Video,Price,,35-44,South,<$35K,8.0
+2021,10755,Newspaper,Apple TV+,Price,Bundling,25-34,Midwest,<$35K,5.0
+2021,11481,Satellite Radio,Hulu,Device Availability,,35-44,South,$35K-$75K,7.54
+2021,10312,Cable,Amazon Prime Video,Content Selection,Convenience,45-54,Northeast,>$150K,7.0
+2021,11092,cable tv,Peacock,Content Selection,,25-34,West,>$150K,
+2021,11909,Broadcast,Peacock,Price,Content Selection,25-34,Northeast,$35K-$75K,5.15
+2021,10382,newspaper,Spotify,Bundling,,55+,Midwest,>$150K,8.0
+2021,10503,Broadcast,Paramount+,Recommendation,Recommendation,35-44,Midwest,$75K-$150K,4.0
+2021,11611,cable tv,Peacock,Bundling,,18-24,Northeast,$35K-$75K,4.26
+2021,10017,Print,Spotify,Recommendation,Device Availability,55+,South,<$35K,4.57
+2021,10666,newspaper,YouTube,Bundling,,25-34,Northeast,$75K-$150K,6.55
+2021,11751,CABLE TV,Disney+,Content Selection,Recommendation,25-34,South,$35K-$75K,7.0
+2021,10351,Broadcast TV,Apple TV+,Recommendation,Convenience,35-44,Northeast,<$35K,6.0
+2021,11569,Print,Netflix,Price,Device Availability,55+,Northeast,<$35K,6.0
+2021,10557,Print Media,Netflix,Device Availability,,55+,Northeast,$35K-$75K,5.0
+2021,11051,satellite radio,Max,Convenience,Bundling,25-34,West,$75K-$150K,
+2021,11665,cable tv,Spotify,Bundling,,35-44,West,>$150K,
+2021,10042,Broadcast TV,Netflix,Bundling,Device Availability,35-44,South,>$150K,6.0
+2021,11025,Network TV,Peacock,Bundling,Recommendation,25-34,Midwest,$35K-$75K,8.0
+2021,11033,cable tv,Disney+,Bundling,Price,55+,Northeast,>$150K,8.0
+2021,10116,satellite radio,Netflix,Bundling,,55+,South,$35K-$75K,
+2021,10806,Cable TV,Hulu,Recommendation,Bundling,18-24,Northeast,$75K-$150K,5.82
+2021,10276,Newspaper,Amazon Prime Video,Bundling,Device Availability,25-34,Northeast,>$150K,5.81
+2021,10342,Cable television,YouTube,Device Availability,Content Selection,55+,Midwest,>$150K,7.0
+2021,10099,CABLE TV,Peacock,Content Selection,Convenience,18-24,West,<$35K,7.15
+2021,10960,Newspaper,Disney+,Convenience,,35-44,Midwest,<$35K,8.0
+2021,10319,Broadcast,Max,Content Selection,,18-24,Northeast,>$150K,10.0
+2021,11733,cable tv,Spotify,Bundling,,55+,Northeast,$35K-$75K,7.0
+2021,10270,cable tv,Apple TV+,Device Availability,,45-54,Northeast,$75K-$150K,
+2021,10495,Satellite Radio,Max,Content Selection,Content Selection,25-34,Midwest,$35K-$75K,7.0
+2021,11764,Broadcast,Disney+,Price,Device Availability,55+,West,>$150K,6.0
+2021,11247,Broadcast,Amazon Prime Video,Bundling,Device Availability,25-34,West,$35K-$75K,8.51
+2021,11708,Broadcast TV,Hulu,Price,,55+,West,$75K-$150K,8.74
+2021,10752,Newspaper,Spotify,Device Availability,,18-24,Northeast,$35K-$75K,7.0
+2021,11175,Network TV,Hulu,Bundling,Bundling,55+,Northeast,$35K-$75K,7.0
+2021,10571,SiriusXM,Max,Device Availability,Bundling,18-24,West,<$35K,9.0
+2021,10931,Broadcast TV,Hulu,Convenience,,18-24,Midwest,<$35K,4.97
+2021,10358,Network TV,Apple TV+,Price,,45-54,South,$35K-$75K,7.0
+2021,11454,Cable,Paramount+,Convenience,Recommendation,18-24,Northeast,$75K-$150K,6.0
+2021,10225,Print Media,Disney+,Bundling,,18-24,Midwest,<$35K,7.0
+2021,11461,Broadcast TV,Spotify,Device Availability,Device Availability,25-34,West,<$35K,5.0
+2021,10508,Print,Spotify,Content Selection,Recommendation,55+,Northeast,<$35K,
+2021,10331,print media,Hulu,Content Selection,,35-44,Midwest,$75K-$150K,
+2021,11310,Broadcast,Peacock,Bundling,Device Availability,45-54,West,$35K-$75K,3.06
+2021,11241,Print,Amazon Prime Video,Convenience,,18-24,West,$35K-$75K,3.23
+2021,11545,newspaper,Spotify,Content Selection,Content Selection,25-34,Midwest,<$35K,9.0
+2021,10086,Satellite Radio,Spotify,Convenience,,55+,Northeast,$75K-$150K,7.68
+2021,10772,Cable television,Max,Bundling,,45-54,West,>$150K,9.0
+2021,10278,Newspaper,Hulu,Bundling,Bundling,35-44,West,$35K-$75K,5.0
+2021,10001,CABLE TV,Max,Bundling,,25-34,South,$35K-$75K,9.47
+2021,10588,Newspaper,Peacock,Bundling,,18-24,West,<$35K,9.0
+2021,10943,Broadcast TV,Paramount+,Recommendation,,18-24,West,$35K-$75K,7.0
+2021,11083,Broadcast,Apple TV+,Device Availability,,35-44,South,$35K-$75K,5.0
+2021,11636,cable tv,Netflix,Convenience,,18-24,South,>$150K,5.57
+2021,11003,satellite radio,Spotify,Device Availability,Device Availability,35-44,Northeast,>$150K,9.0
+2021,11387,Satellite radio,Netflix,Bundling,,45-54,Northeast,$35K-$75K,7.0
+2021,11544,Print,Max,Content Selection,,45-54,South,$35K-$75K,4.0
+2021,10808,Print Media,Netflix,Price,,25-34,West,$35K-$75K,9.0
+2021,11127,Newspaper,Hulu,Price,Recommendation,55+,South,<$35K,6.82
+2021,11108,Satellite Radio,Netflix,Price,Price,55+,Midwest,<$35K,6.0
+2021,11487,Broadcast,Spotify,Content Selection,,45-54,West,$35K-$75K,
+2021,10827,broadcast tv,Max,Price,,45-54,West,$75K-$150K,6.0
+2021,11820,Newspaper,Disney+,Bundling,Price,55+,Northeast,>$150K,7.0
+2021,10955,Print,Disney+,Bundling,,55+,Northeast,$75K-$150K,10.98
+2021,11970,print media,Amazon Prime Video,Recommendation,Content Selection,35-44,Midwest,$35K-$75K,7.0
+2021,11325,Network TV,Spotify,Price,,25-34,South,<$35K,7.75
+2021,11931,broadcast tv,Disney+,Recommendation,,55+,Midwest,>$150K,7.31
+2021,11064,CABLE TV,Max,Convenience,Price,25-34,Midwest,<$35K,8.0
+2021,10724,cable tv,Max,Price,Content Selection,35-44,Northeast,>$150K,8.2
+2021,11610,Cable television,Paramount+,Device Availability,,25-34,Northeast,<$35K,8.0
+2021,11240,Satellite radio,Hulu,Device Availability,Bundling,45-54,South,$75K-$150K,5.0
+2021,11182,newspaper,Paramount+,Content Selection,,25-34,South,<$35K,7.0
+2021,11471,Cable,YouTube,Recommendation,,18-24,West,>$150K,6.0
+2021,11715,Cable television,Netflix,Recommendation,,45-54,South,>$150K,3.55
+2021,11534,Newspaper,Spotify,Content Selection,Content Selection,25-34,South,$75K-$150K,6.43
+2021,10829,Print Media,Netflix,Convenience,,45-54,Northeast,$75K-$150K,
+2021,11539,Satellite radio,Hulu,Bundling,Bundling,45-54,West,<$35K,7.0
+2021,10514,Satellite radio,Peacock,Bundling,,35-44,Northeast,$35K-$75K,10.0
+2021,11072,print media,Spotify,Recommendation,,55+,Midwest,$75K-$150K,9.68
+2021,11918,Satellite Radio,Hulu,Convenience,Device Availability,55+,West,<$35K,6.15
+2021,10834,Newspaper,Paramount+,Recommendation,,55+,South,<$35K,5.0
+2021,11030,Broadcast TV,YouTube,Price,,45-54,West,>$150K,6.0
+2021,11757,Broadcast,Disney+,Convenience,,25-34,West,<$35K,7.0
+2021,11023,Satellite Radio,Peacock,Device Availability,Device Availability,25-34,Midwest,<$35K,6.0
+2021,10258,Newspaper,Peacock,Device Availability,,45-54,Northeast,<$35K,3.29
+2021,11648,print media,Apple TV+,Convenience,Content Selection,55+,West,>$150K,6.0
+2021,10074,Cable,Disney+,Device Availability,,55+,Midwest,>$150K,6.14
+2021,10423,newspaper,YouTube,Price,Content Selection,35-44,Northeast,$75K-$150K,8.0
+2021,10150,cable tv,Peacock,Content Selection,,25-34,West,$35K-$75K,9.61
+2021,11228,broadcast tv,Hulu,Content Selection,,55+,Northeast,>$150K,7.0
+2021,11724,newspaper,Apple TV+,Price,,45-54,Midwest,$75K-$150K,7.1
+2021,10611,Satellite Radio,Spotify,Bundling,Price,45-54,West,$35K-$75K,9.0
+2021,10236,Cable TV,Hulu,Convenience,Convenience,18-24,Midwest,$75K-$150K,7.0
+2021,11237,Broadcast TV,Amazon Prime Video,Device Availability,Bundling,25-34,West,>$150K,6.0
+2021,11851,broadcast tv,Netflix,Price,,35-44,South,<$35K,2.0
+2021,10844,cable tv,Disney+,Recommendation,Bundling,18-24,West,<$35K,4.1
+2021,10783,Broadcast,Spotify,Bundling,,35-44,West,$35K-$75K,5.0
+2021,10769,SiriusXM,Peacock,Price,,55+,West,>$150K,5.39
+2021,10613,newspaper,Apple TV+,Device Availability,,35-44,Midwest,>$150K,6.0
+2021,10765,broadcast tv,Disney+,Bundling,Bundling,18-24,Northeast,>$150K,7.21
+2021,10048,Cable,Max,Convenience,,55+,South,<$35K,6.76
+2021,10644,Print,Apple TV+,Convenience,Price,35-44,Midwest,>$150K,8.0
+2021,10997,Cable TV,Max,Convenience,Bundling,55+,West,>$150K,7.0
+2021,10406,Network TV,Amazon Prime Video,Recommendation,Device Availability,45-54,Midwest,>$150K,7.0
+2021,11536,print media,Apple TV+,Convenience,Price,55+,South,$35K-$75K,7.0
+2021,10032,Cable,Amazon Prime Video,Price,Bundling,25-34,Northeast,$75K-$150K,6.0
+2021,10441,Network TV,Max,Recommendation,Device Availability,55+,West,$75K-$150K,
+2021,10891,Cable television,Peacock,Bundling,,45-54,South,$35K-$75K,8.0
+2021,11587,broadcast tv,Paramount+,Content Selection,Bundling,18-24,Midwest,$35K-$75K,6.0
+2021,11307,Newspaper,Peacock,Device Availability,,18-24,West,<$35K,5.71
+2021,10301,Broadcast TV,Paramount+,Device Availability,Recommendation,25-34,South,<$35K,6.45
+2021,10921,Satellite radio,Peacock,Content Selection,,45-54,Midwest,<$35K,5.96
+2021,11771,cable tv,Amazon Prime Video,Bundling,,55+,South,$75K-$150K,6.0
+2021,11209,Network TV,Paramount+,Device Availability,,45-54,South,$35K-$75K,7.0
+2021,11618,cable tv,YouTube,Recommendation,,18-24,South,>$150K,5.0
+2021,11553,Satellite Radio,Disney+,Bundling,Price,25-34,Northeast,$75K-$150K,7.0
+2021,10286,Broadcast TV,Amazon Prime Video,Recommendation,,35-44,South,$35K-$75K,10.67
+2021,11329,Satellite Radio,Disney+,Convenience,Device Availability,18-24,South,$35K-$75K,7.0
+2021,11625,Newspaper,Spotify,Bundling,,55+,West,$75K-$150K,7.0
+2021,10618,Print Media,Spotify,Convenience,Device Availability,55+,West,<$35K,8.0
+2021,10811,Cable TV,Max,Convenience,Recommendation,18-24,Midwest,<$35K,3.0
+2021,10500,print media,YouTube,Price,Content Selection,55+,South,$75K-$150K,6.39
+2021,10291,newspaper,Amazon Prime Video,Price,,25-34,Northeast,>$150K,6.12
+2021,10033,SiriusXM,Hulu,Bundling,,25-34,West,<$35K,4.85
+2021,11844,Newspaper,Peacock,Recommendation,,25-34,Northeast,<$35K,5.0
+2022,11724,newspaper,Paramount+,Convenience,Convenience,55+,Northeast,$75K-$150K,4.0
+2022,10035,Broadcast,Amazon Prime Video,Convenience,,18-24,South,$75K-$150K,7.75
+2022,10312,Cable TV,Hulu,Bundling,Content Selection,18-24,West,$35K-$75K,8.27
+2022,10864,CABLE TV,Netflix,Bundling,Price,35-44,West,<$35K,7.87
+2022,11156,Print Media,Netflix,Recommendation,Bundling,18-24,West,>$150K,7.0
+2022,11431,Print Media,Apple TV+,Bundling,,45-54,Midwest,$35K-$75K,7.16
+2022,11130,Print,Netflix,Bundling,Convenience,55+,Midwest,>$150K,5.1
+2022,10662,Cable TV,Apple TV+,Content Selection,,25-34,West,$35K-$75K,8.0
+2022,11589,broadcast tv,Peacock,Recommendation,Content Selection,18-24,Midwest,<$35K,3.0
+2022,10562,cable tv,Peacock,Recommendation,Convenience,35-44,Northeast,<$35K,6.28
+2022,11657,SiriusXM,Hulu,Convenience,Device Availability,35-44,South,<$35K,8.0
+2022,10892,Satellite Radio,Apple TV+,Content Selection,,18-24,Midwest,$35K-$75K,
+2022,11121,Satellite Radio,YouTube,Convenience,,55+,West,>$150K,7.26
+2022,10368,Cable television,YouTube,Recommendation,,45-54,West,$75K-$150K,5.0
+2022,10278,print media,Amazon Prime Video,Recommendation,Price,45-54,West,$75K-$150K,7.0
+2022,11480,CABLE TV,YouTube,Bundling,Bundling,18-24,West,<$35K,
+2022,10702,Print Media,Disney+,Recommendation,,25-34,Northeast,$35K-$75K,5.0
+2022,11355,Cable TV,Peacock,Price,,18-24,Midwest,<$35K,7.0
+2022,11520,Broadcast TV,Amazon Prime Video,Convenience,,55+,West,$35K-$75K,7.4
+2022,11895,newspaper,YouTube,Convenience,,55+,Northeast,<$35K,6.0
+2022,11083,Print Media,Spotify,Content Selection,Price,45-54,Midwest,$35K-$75K,5.0
+2022,11556,Cable,Netflix,Price,Price,45-54,West,$75K-$150K,5.96
+2022,10896,print media,Peacock,Bundling,Bundling,45-54,Northeast,<$35K,9.0
+2022,11909,Cable,YouTube,Device Availability,Bundling,25-34,West,>$150K,6.0
+2022,10509,Newspaper,Netflix,Convenience,Convenience,25-34,Northeast,$75K-$150K,7.44
+2022,10405,Network TV,Spotify,Device Availability,Recommendation,35-44,South,$75K-$150K,6.0
+2022,11275,Newspaper,YouTube,Device Availability,,45-54,South,$75K-$150K,4.0
+2022,11529,CABLE TV,Peacock,Recommendation,,35-44,West,<$35K,4.0
+2022,11494,Cable television,Netflix,Content Selection,,18-24,West,$35K-$75K,9.05
+2022,10438,satellite radio,Spotify,Bundling,Bundling,55+,South,$75K-$150K,10.0
+2022,10075,Broadcast TV,Peacock,Content Selection,,45-54,West,$35K-$75K,10.0
+2022,10601,Broadcast TV,Hulu,Convenience,Price,55+,South,$75K-$150K,7.0
+2022,11171,Satellite radio,Amazon Prime Video,Device Availability,Content Selection,25-34,West,>$150K,8.1
+2022,10394,CABLE TV,Spotify,Price,Device Availability,18-24,South,$75K-$150K,5.79
+2022,10883,Broadcast,Max,Price,,45-54,Midwest,<$35K,9.0
+2022,10778,Broadcast TV,Paramount+,Device Availability,,18-24,South,$75K-$150K,5.0
+2022,10690,Broadcast TV,Spotify,Bundling,,18-24,West,>$150K,7.0
+2022,10426,Broadcast TV,Amazon Prime Video,Convenience,,45-54,West,$75K-$150K,6.0
+2022,11098,Broadcast,YouTube,Recommendation,,55+,West,$75K-$150K,8.0
+2022,10027,cable tv,YouTube,Convenience,,18-24,Northeast,<$35K,6.0
+2022,11352,Satellite Radio,Paramount+,Convenience,Recommendation,18-24,Midwest,<$35K,7.46
+2022,10366,newspaper,Spotify,Recommendation,Convenience,25-34,West,$35K-$75K,7.0
+2022,10932,Broadcast TV,Peacock,Recommendation,Price,55+,Midwest,$35K-$75K,5.35
+2022,11332,Newspaper,Max,Device Availability,,55+,West,>$150K,11.37
+2022,11795,Print Media,Disney+,Price,,35-44,Midwest,>$150K,8.0
+2022,11362,Cable television,Max,Convenience,,25-34,Northeast,>$150K,5.0
+2022,11661,Network TV,Peacock,Content Selection,,25-34,West,$75K-$150K,7.0
+2022,10617,Satellite radio,Netflix,Price,,45-54,South,$35K-$75K,6.23
+2022,11590,Cable television,Peacock,Recommendation,,45-54,Midwest,>$150K,
+2022,11066,Cable TV,Disney+,Convenience,,18-24,Northeast,$75K-$150K,8.0
+2022,10212,Print Media,Spotify,Bundling,,18-24,Northeast,<$35K,9.0
+2022,10306,Broadcast,Amazon Prime Video,Price,Bundling,35-44,West,<$35K,8.31
+2022,11565,Cable television,Max,Content Selection,,45-54,Northeast,$35K-$75K,
+2022,11607,Broadcast,Paramount+,Convenience,Convenience,55+,West,<$35K,3.0
+2022,10577,print media,Apple TV+,Convenience,,25-34,Midwest,$35K-$75K,8.0
+2022,10360,Print Media,Max,Price,Recommendation,35-44,Midwest,$75K-$150K,8.0
+2022,10205,print media,Hulu,Price,Content Selection,25-34,West,$75K-$150K,7.0
+2022,10184,Satellite Radio,Paramount+,Recommendation,,45-54,South,$35K-$75K,4.0
+2022,10582,Satellite radio,Paramount+,Content Selection,Bundling,55+,West,$35K-$75K,8.43
+2022,10046,Broadcast TV,YouTube,Recommendation,,18-24,Midwest,$75K-$150K,3.32
+2022,11617,Broadcast,Apple TV+,Device Availability,,25-34,Midwest,$35K-$75K,6.17
+2022,11143,Print,Spotify,Price,,45-54,West,>$150K,8.0
+2022,11398,Cable television,Apple TV+,Content Selection,Convenience,35-44,Midwest,$75K-$150K,4.0
+2022,10808,Broadcast TV,Paramount+,Bundling,,45-54,Northeast,<$35K,8.0
+2022,11280,Print Media,Amazon Prime Video,Device Availability,,25-34,West,$75K-$150K,9.0
+2022,11074,Broadcast,YouTube,Price,Convenience,45-54,South,>$150K,5.0
+2022,10287,satellite radio,Peacock,Content Selection,Price,55+,West,$75K-$150K,7.0
+2022,11888,Cable television,Disney+,Bundling,Bundling,18-24,South,<$35K,8.0
+2022,11760,Network TV,Disney+,Bundling,Content Selection,55+,Northeast,$35K-$75K,7.25
+2022,10017,Cable TV,Netflix,Price,,45-54,West,>$150K,7.6
+2022,11180,CABLE TV,Spotify,Device Availability,,45-54,Northeast,<$35K,4.0
+2022,11361,Cable TV,Amazon Prime Video,Bundling,Convenience,25-34,Northeast,<$35K,5.82
+2022,10668,newspaper,Disney+,Content Selection,Recommendation,55+,Midwest,<$35K,7.97
+2022,10275,Newspaper,Disney+,Price,Convenience,35-44,West,>$150K,7.0
+2022,10307,Print,Peacock,Recommendation,,45-54,West,$75K-$150K,7.0
+2022,11221,Cable TV,Hulu,Device Availability,,25-34,Midwest,<$35K,7.0
+2022,10587,CABLE TV,YouTube,Convenience,,45-54,Northeast,<$35K,5.0
+2022,10769,CABLE TV,Disney+,Recommendation,,55+,West,$35K-$75K,9.0
+2022,10263,Cable,Spotify,Recommendation,,55+,Northeast,>$150K,4.0
+2022,10035,Cable TV,Apple TV+,Bundling,Convenience,45-54,Northeast,>$150K,6.3
+2022,11720,Satellite radio,Netflix,Price,Device Availability,35-44,West,$35K-$75K,
+2022,11685,newspaper,Apple TV+,Content Selection,,45-54,Midwest,$75K-$150K,8.0
+2022,11211,Cable television,Paramount+,Convenience,,25-34,West,$75K-$150K,
+2022,10396,Broadcast,Max,Price,,55+,West,$35K-$75K,7.56
+2022,11434,Cable television,Apple TV+,Bundling,,45-54,Northeast,$75K-$150K,6.49
+2022,11734,satellite radio,Apple TV+,Recommendation,,18-24,Midwest,>$150K,5.11
+2022,10751,print media,Disney+,Convenience,,18-24,Northeast,<$35K,8.0
+2022,11981,Broadcast TV,Paramount+,Content Selection,Content Selection,35-44,West,$35K-$75K,8.0
+2022,10716,satellite radio,Netflix,Price,Bundling,55+,South,$35K-$75K,5.73
+2022,10779,Network TV,Spotify,Convenience,Price,18-24,Midwest,<$35K,4.0
+2022,11719,newspaper,Disney+,Recommendation,,18-24,Northeast,$75K-$150K,7.0
+2022,11619,Cable television,Netflix,Bundling,Price,18-24,West,<$35K,7.0
+2022,10135,Satellite Radio,Paramount+,Convenience,,18-24,Midwest,$75K-$150K,6.0
+2022,11659,Network TV,YouTube,Bundling,,45-54,Midwest,$35K-$75K,5.57
+2022,11519,Broadcast TV,Peacock,Device Availability,Bundling,55+,South,>$150K,7.26
+2022,11507,Print,Netflix,Convenience,Content Selection,35-44,West,$35K-$75K,8.28
+2022,11341,print media,Apple TV+,Recommendation,Content Selection,35-44,South,>$150K,5.0
+2022,10002,Cable television,Paramount+,Content Selection,,25-34,Midwest,$75K-$150K,6.0
+2022,11649,Broadcast,Apple TV+,Content Selection,Device Availability,35-44,West,$35K-$75K,
+2022,11906,Print Media,Netflix,Recommendation,Bundling,35-44,Midwest,<$35K,6.0
+2022,10439,Cable,Netflix,Bundling,Convenience,35-44,Northeast,<$35K,4.0
+2022,11465,Satellite radio,Hulu,Price,,45-54,West,<$35K,7.0
+2022,11365,cable tv,Paramount+,Device Availability,Device Availability,25-34,South,<$35K,5.0
+2022,11165,Print Media,Hulu,Device Availability,Price,18-24,South,$35K-$75K,8.0
+2022,10707,newspaper,Apple TV+,Price,Recommendation,18-24,Northeast,$75K-$150K,7.76
+2022,10262,newspaper,Max,Recommendation,,55+,Midwest,<$35K,7.6
+2022,11595,Print,Paramount+,Device Availability,Content Selection,45-54,Northeast,$75K-$150K,6.18
+2022,11422,Cable TV,Netflix,Price,,35-44,South,$75K-$150K,4.48
+2022,11194,Satellite Radio,Netflix,Convenience,Price,25-34,West,<$35K,4.01
+2022,11016,Broadcast TV,Amazon Prime Video,Device Availability,Bundling,55+,South,$75K-$150K,7.0
+2022,11686,newspaper,Apple TV+,Content Selection,Recommendation,18-24,Northeast,<$35K,5.06
+2022,10034,CABLE TV,Peacock,Bundling,Bundling,45-54,West,>$150K,8.0
+2022,11589,Newspaper,Spotify,Convenience,,25-34,South,$35K-$75K,5.0
+2022,10199,Broadcast,Netflix,Price,Recommendation,45-54,South,$75K-$150K,6.16
+2022,10468,Satellite Radio,Hulu,Recommendation,Recommendation,35-44,Midwest,$35K-$75K,8.0
+2022,11984,Cable TV,Disney+,Device Availability,,25-34,South,$35K-$75K,6.0
+2022,10929,Cable TV,YouTube,Price,,45-54,Northeast,$75K-$150K,7.0
+2022,10242,broadcast tv,Amazon Prime Video,Price,Price,18-24,West,>$150K,9.0
+2022,10290,Satellite Radio,Max,Device Availability,Recommendation,35-44,West,$75K-$150K,9.0
+2022,10564,SiriusXM,Max,Content Selection,Content Selection,25-34,West,$35K-$75K,4.0
+2022,10390,cable tv,Apple TV+,Bundling,Convenience,45-54,West,<$35K,6.48
+2022,10868,print media,Amazon Prime Video,Device Availability,,18-24,South,$35K-$75K,6.0
+2022,11915,CABLE TV,Disney+,Price,Bundling,18-24,West,<$35K,6.0
+2022,10735,Broadcast,Spotify,Convenience,Bundling,18-24,Midwest,>$150K,5.0
+2022,11125,Print,Peacock,Bundling,,18-24,Midwest,$35K-$75K,4.0
+2022,11105,Cable television,YouTube,Content Selection,,55+,West,$35K-$75K,7.21
+2022,10750,Print Media,Netflix,Device Availability,Bundling,25-34,South,>$150K,7.0
+2022,10793,Broadcast,Disney+,Device Availability,,18-24,Midwest,<$35K,7.0
+2022,10628,Cable,Disney+,Device Availability,,18-24,Northeast,>$150K,10.0
+2022,11561,print media,Netflix,Content Selection,Content Selection,18-24,Midwest,$35K-$75K,6.07
+2022,11892,Newspaper,Apple TV+,Content Selection,,18-24,South,$75K-$150K,6.69
+2022,10266,cable tv,Netflix,Recommendation,Content Selection,18-24,Northeast,$75K-$150K,6.0
+2022,10434,Newspaper,Paramount+,Recommendation,Bundling,18-24,South,$35K-$75K,7.0
+2022,11733,Cable TV,Paramount+,Convenience,Bundling,18-24,South,$35K-$75K,4.0
+2022,10055,CABLE TV,Max,Price,,45-54,South,$35K-$75K,3.85
+2022,10531,Broadcast TV,Apple TV+,Recommendation,,35-44,West,>$150K,5.0
+2022,11928,Newspaper,Amazon Prime Video,Device Availability,Content Selection,18-24,West,$75K-$150K,6.0
+2022,10153,Cable TV,Paramount+,Recommendation,Content Selection,35-44,South,$35K-$75K,8.0
+2022,11818,Network TV,Disney+,Recommendation,Content Selection,45-54,South,>$150K,7.46
+2022,11594,Cable television,Disney+,Device Availability,Device Availability,55+,Midwest,$75K-$150K,6.19
+2022,10319,Broadcast TV,Spotify,Device Availability,,55+,Northeast,>$150K,8.0
+2022,10052,CABLE TV,YouTube,Device Availability,Content Selection,25-34,Midwest,$35K-$75K,8.0
+2022,10288,Print Media,Paramount+,Content Selection,,18-24,Midwest,$35K-$75K,7.0
+2022,10986,print media,Hulu,Price,,35-44,West,>$150K,
+2022,11905,Print Media,Apple TV+,Recommendation,,45-54,Midwest,>$150K,6.0
+2022,10110,Print Media,Apple TV+,Content Selection,Content Selection,45-54,Midwest,>$150K,8.53
+2022,10865,Network TV,Hulu,Recommendation,Convenience,25-34,Northeast,$35K-$75K,6.0
+2022,10252,satellite radio,Spotify,Price,,25-34,West,$35K-$75K,8.0
+2022,10741,SiriusXM,Max,Recommendation,Content Selection,18-24,West,$75K-$150K,8.0
+2022,11257,Cable television,Hulu,Convenience,Device Availability,35-44,South,$35K-$75K,8.11
+2022,10331,Broadcast TV,Max,Convenience,,25-34,Northeast,>$150K,5.64
+2022,10981,Print,Netflix,Bundling,,18-24,West,$75K-$150K,6.28
+2022,10472,cable tv,Spotify,Recommendation,Bundling,35-44,Midwest,$35K-$75K,8.0
+2022,11141,CABLE TV,Paramount+,Convenience,Device Availability,45-54,Northeast,<$35K,10.0
+2022,11013,Cable TV,Spotify,Recommendation,,25-34,South,>$150K,6.0
+2022,10569,Broadcast,Paramount+,Price,Price,18-24,Midwest,$35K-$75K,7.0
+2022,10123,cable tv,Apple TV+,Device Availability,,18-24,Northeast,<$35K,9.0
+2022,10340,Cable,Apple TV+,Recommendation,,25-34,Northeast,>$150K,
+2022,11226,Broadcast TV,Amazon Prime Video,Recommendation,,18-24,West,$35K-$75K,8.0
+2022,11268,Broadcast,Spotify,Recommendation,Device Availability,18-24,South,>$150K,6.0
+2022,10125,newspaper,Apple TV+,Device Availability,,25-34,South,$35K-$75K,8.42
+2022,10907,Satellite radio,Netflix,Convenience,Recommendation,25-34,Midwest,$35K-$75K,9.0
+2022,11472,cable tv,Netflix,Recommendation,Price,55+,West,<$35K,5.0
+2022,11974,print media,Amazon Prime Video,Recommendation,Price,45-54,Northeast,$35K-$75K,7.0
+2022,10174,newspaper,Amazon Prime Video,Bundling,,25-34,Northeast,>$150K,5.0
+2022,10872,cable tv,Peacock,Recommendation,Recommendation,35-44,South,$35K-$75K,4.0
+2022,11765,Cable,Disney+,Content Selection,,55+,Northeast,<$35K,7.0
+2022,11209,newspaper,Disney+,Device Availability,,25-34,South,$75K-$150K,5.0
+2022,10045,newspaper,Apple TV+,Content Selection,Price,45-54,South,>$150K,7.69
+2022,10844,Cable television,Paramount+,Convenience,Content Selection,18-24,West,$75K-$150K,6.0
+2022,10467,Broadcast TV,Spotify,Convenience,Device Availability,18-24,South,>$150K,8.01
+2022,10259,Network TV,Apple TV+,Recommendation,Device Availability,35-44,West,<$35K,9.16
+2022,11761,Cable,Hulu,Convenience,Device Availability,35-44,Northeast,<$35K,3.0
+2022,10576,Cable TV,YouTube,Device Availability,Content Selection,55+,Midwest,>$150K,5.0
+2022,11087,Cable television,Netflix,Content Selection,Content Selection,45-54,South,<$35K,10.06
+2022,11331,Satellite radio,Max,Price,,55+,South,>$150K,8.0
+2022,11935,Network TV,Peacock,Price,,55+,West,$35K-$75K,8.5
+2022,11845,print media,Disney+,Recommendation,,18-24,West,$75K-$150K,8.0
+2022,10219,Network TV,Spotify,Recommendation,Device Availability,25-34,Midwest,$35K-$75K,7.0
+2022,10701,CABLE TV,YouTube,Device Availability,Content Selection,18-24,South,<$35K,7.0
+2022,10654,Broadcast TV,Apple TV+,Recommendation,,35-44,Midwest,>$150K,
+2022,10534,Cable,Peacock,Bundling,,35-44,Midwest,>$150K,5.4
+2022,11951,Network TV,Max,Price,Content Selection,45-54,Midwest,>$150K,6.63
+2022,11769,broadcast tv,Apple TV+,Device Availability,Content Selection,18-24,West,$75K-$150K,6.0
+2022,10324,Newspaper,Hulu,Price,,55+,Midwest,$35K-$75K,5.2
+2023,11491,SiriusXM,Peacock,Content Selection,Content Selection,55+,Midwest,<$35K,6.06
+2023,10501,Cable television,Disney+,Device Availability,,18-24,South,$35K-$75K,6.25
+2023,11153,cable tv,Amazon Prime Video,Device Availability,,55+,West,>$150K,8.0
+2023,11367,CABLE TV,Apple TV+,Device Availability,,25-34,Midwest,>$150K,7.0
+2023,11547,Cable television,Paramount+,Convenience,Convenience,25-34,Northeast,$75K-$150K,2.0
+2023,10408,CABLE TV,Apple TV+,Price,Bundling,55+,Midwest,>$150K,6.0
+2023,10394,print media,Amazon Prime Video,Content Selection,Content Selection,55+,South,<$35K,7.52
+2023,10783,Broadcast TV,Amazon Prime Video,Content Selection,,25-34,Northeast,$35K-$75K,7.0
+2023,11811,Cable television,Paramount+,Convenience,,18-24,West,>$150K,9.0
+2023,10905,satellite radio,Amazon Prime Video,Device Availability,Convenience,35-44,South,<$35K,10.0
+2023,10562,satellite radio,Paramount+,Content Selection,Content Selection,35-44,South,<$35K,8.64
+2023,11677,CABLE TV,Netflix,Price,,25-34,South,$35K-$75K,
+2023,11698,Newspaper,Max,Device Availability,,45-54,Northeast,>$150K,10.0
+2023,11745,broadcast tv,Peacock,Price,,55+,South,$75K-$150K,8.0
+2023,10999,print media,Paramount+,Device Availability,Bundling,18-24,South,$35K-$75K,7.33
+2023,11262,Print Media,Peacock,Recommendation,,35-44,Midwest,$35K-$75K,9.0
+2023,10613,Print,Disney+,Price,Price,18-24,Northeast,>$150K,6.12
+2023,10480,SiriusXM,YouTube,Price,,18-24,West,<$35K,8.0
+2023,10160,newspaper,Disney+,Convenience,Bundling,55+,Midwest,$75K-$150K,5.0
+2023,11747,Print,Paramount+,Price,Content Selection,45-54,West,$75K-$150K,6.8
+2023,10643,print media,Disney+,Price,Recommendation,35-44,Midwest,>$150K,9.1
+2023,11257,Cable TV,Spotify,Content Selection,Convenience,35-44,Midwest,>$150K,9.0
+2023,10593,broadcast tv,Netflix,Convenience,,25-34,Northeast,$75K-$150K,4.0
+2023,11876,broadcast tv,Hulu,Bundling,,35-44,South,>$150K,4.0
+2023,11074,Satellite radio,Disney+,Bundling,,45-54,South,$75K-$150K,7.0
+2023,11271,Broadcast,Disney+,Convenience,,18-24,West,<$35K,8.0
+2023,11740,cable tv,YouTube,Device Availability,,25-34,Midwest,<$35K,
+2023,11146,Newspaper,Amazon Prime Video,Price,Convenience,35-44,West,$35K-$75K,4.95
+2023,11721,broadcast tv,Disney+,Price,Price,35-44,Midwest,<$35K,8.0
+2023,11167,Cable,Hulu,Content Selection,,18-24,Northeast,$75K-$150K,4.0
+2023,11563,Cable TV,Disney+,Content Selection,Content Selection,18-24,Midwest,$75K-$150K,5.0
+2023,10686,cable tv,Spotify,Content Selection,,55+,West,>$150K,
+2023,11252,Print,Spotify,Convenience,Bundling,18-24,West,$75K-$150K,7.0
+2023,10805,Print,Netflix,Recommendation,Bundling,45-54,West,>$150K,7.0
+2023,10714,Network TV,Max,Recommendation,,18-24,West,$35K-$75K,8.0
+2023,11889,Cable,Peacock,Content Selection,Content Selection,25-34,Northeast,$75K-$150K,6.6
+2023,10576,Cable TV,Max,Device Availability,,55+,Northeast,<$35K,6.0
+2023,10847,Cable television,YouTube,Bundling,,55+,Midwest,<$35K,6.0
+2023,11346,Cable,Peacock,Recommendation,Device Availability,25-34,Northeast,<$35K,
+2023,10890,print media,Spotify,Convenience,Recommendation,25-34,Northeast,<$35K,6.56
+2023,10507,print media,Spotify,Device Availability,Convenience,55+,South,>$150K,7.0
+2023,10611,Satellite Radio,Netflix,Recommendation,Device Availability,45-54,South,>$150K,6.97
+2023,11991,Satellite radio,Spotify,Bundling,,25-34,South,>$150K,3.0
+2023,10676,Broadcast TV,Spotify,Recommendation,Recommendation,18-24,South,>$150K,2.0
+2023,11543,CABLE TV,Disney+,Content Selection,,55+,South,<$35K,5.0
+2023,10536,print media,Apple TV+,Content Selection,,55+,Northeast,>$150K,5.0
+2023,11791,Network TV,Paramount+,Recommendation,Price,45-54,Midwest,$35K-$75K,
+2023,11845,newspaper,Spotify,Price,,35-44,South,<$35K,5.0
+2023,11929,Broadcast TV,Apple TV+,Bundling,Bundling,25-34,Midwest,$75K-$150K,5.41
+2023,11891,Satellite radio,Peacock,Recommendation,Recommendation,55+,West,$35K-$75K,5.51
+2023,10598,broadcast tv,YouTube,Bundling,,25-34,Midwest,$75K-$150K,5.71
+2023,11526,Broadcast TV,Paramount+,Device Availability,Content Selection,55+,Northeast,>$150K,7.0
+2023,10453,satellite radio,Hulu,Recommendation,,45-54,West,<$35K,9.0
+2023,10629,satellite radio,Paramount+,Convenience,,55+,Midwest,>$150K,6.0
+2023,11452,broadcast tv,Hulu,Recommendation,,35-44,West,$75K-$150K,10.0
+2023,10527,Broadcast TV,Peacock,Convenience,,55+,Northeast,$75K-$150K,7.0
+2023,11608,Network TV,Netflix,Convenience,,18-24,Northeast,$35K-$75K,7.0
+2023,10149,Cable television,Max,Bundling,,18-24,Northeast,$35K-$75K,6.36
+2023,11621,CABLE TV,Spotify,Bundling,,18-24,Midwest,>$150K,10.0
+2023,11836,SiriusXM,Max,Device Availability,,55+,Midwest,>$150K,8.0
+2023,10625,Print,Netflix,Price,Device Availability,35-44,West,>$150K,7.0
+2023,11253,Print Media,Amazon Prime Video,Price,,35-44,West,$75K-$150K,8.0
+2023,10248,Print Media,Peacock,Recommendation,,55+,West,<$35K,8.0
+2023,10810,Cable TV,Netflix,Price,,25-34,West,$75K-$150K,8.0
+2023,11166,broadcast tv,Disney+,Bundling,,18-24,West,>$150K,6.0
+2023,11900,Network TV,Apple TV+,Content Selection,Price,45-54,South,$35K-$75K,10.0
+2023,11235,broadcast tv,Peacock,Content Selection,Content Selection,18-24,Northeast,$75K-$150K,9.0
+2023,11206,satellite radio,Paramount+,Price,Convenience,45-54,West,$75K-$150K,4.0
+2023,10500,satellite radio,Disney+,Price,,25-34,South,$75K-$150K,
+2023,11542,print media,Max,Convenience,,25-34,Northeast,$35K-$75K,5.73
+2023,11244,Cable,Disney+,Price,,18-24,West,$35K-$75K,3.0
+2023,10496,SiriusXM,Paramount+,Content Selection,Convenience,55+,South,$75K-$150K,4.0
+2023,11707,cable tv,Disney+,Device Availability,,25-34,Midwest,<$35K,6.0
+2023,11445,broadcast tv,YouTube,Price,Price,35-44,Northeast,<$35K,5.0
+2023,11934,Cable,Apple TV+,Device Availability,Content Selection,35-44,West,$75K-$150K,9.0
+2023,11756,broadcast tv,YouTube,Convenience,,55+,West,$35K-$75K,6.58
+2023,10529,CABLE TV,Spotify,Price,Price,55+,South,>$150K,10.0
+2023,10564,Satellite radio,Spotify,Bundling,,45-54,Northeast,>$150K,3.0
+2023,11184,Broadcast,Paramount+,Bundling,,18-24,Midwest,>$150K,7.0
+2023,10923,Broadcast TV,Paramount+,Device Availability,Convenience,25-34,Midwest,$35K-$75K,3.56
+2023,10583,Satellite Radio,Apple TV+,Recommendation,,25-34,Midwest,$75K-$150K,7.0
+2023,10463,Newspaper,Peacock,Content Selection,,45-54,Northeast,$75K-$150K,7.0
+2023,11177,Cable television,Peacock,Convenience,,35-44,Northeast,<$35K,10.06
+2023,11804,broadcast tv,Paramount+,Content Selection,,55+,South,$75K-$150K,8.0
+2023,10552,broadcast tv,Disney+,Device Availability,Convenience,55+,Midwest,>$150K,9.0
+2023,11796,satellite radio,Paramount+,Convenience,,55+,Midwest,$35K-$75K,9.59
+2023,10839,Cable television,YouTube,Recommendation,,55+,Northeast,$35K-$75K,6.0
+2023,10540,SiriusXM,Hulu,Recommendation,Convenience,55+,Midwest,$75K-$150K,10.0
+2023,10035,Cable television,Disney+,Bundling,,55+,Northeast,<$35K,5.32
+2023,11076,CABLE TV,Spotify,Convenience,,55+,Northeast,<$35K,5.0
+2023,11554,cable tv,YouTube,Price,,18-24,South,<$35K,6.0
+2023,11384,Broadcast,Spotify,Recommendation,,55+,South,$35K-$75K,8.0
+2023,11713,newspaper,Netflix,Device Availability,,18-24,Midwest,$35K-$75K,5.0
+2023,11432,Print,Hulu,Bundling,Bundling,18-24,Northeast,$35K-$75K,9.0
+2023,11149,broadcast tv,Apple TV+,Price,Recommendation,18-24,Northeast,$75K-$150K,6.0
+2023,10350,Print,Netflix,Convenience,Content Selection,35-44,South,>$150K,7.0
+2023,10299,Newspaper,Amazon Prime Video,Recommendation,,25-34,West,<$35K,7.0
+2023,10459,Newspaper,YouTube,Content Selection,Content Selection,55+,Northeast,<$35K,5.0
+2023,10097,Newspaper,Hulu,Convenience,,35-44,West,$35K-$75K,5.0
+2023,10672,Network TV,Amazon Prime Video,Bundling,,25-34,Midwest,$75K-$150K,7.02
+2023,11025,newspaper,Netflix,Device Availability,Bundling,25-34,West,>$150K,5.94
+2023,10860,CABLE TV,Peacock,Device Availability,Price,35-44,South,$75K-$150K,7.13
+2023,10262,Newspaper,Hulu,Price,,55+,West,$75K-$150K,7.47
+2023,11239,broadcast tv,Peacock,Convenience,Convenience,18-24,Northeast,$35K-$75K,6.0
+2023,11480,Cable,Paramount+,Recommendation,Content Selection,55+,Northeast,$75K-$150K,5.0
+2023,10976,Broadcast,YouTube,Convenience,,18-24,West,<$35K,5.0
+2023,11481,Satellite Radio,YouTube,Content Selection,Bundling,35-44,West,$75K-$150K,8.0
+2023,11915,Broadcast,Apple TV+,Bundling,,45-54,South,>$150K,8.0
+2023,10447,Broadcast TV,Hulu,Recommendation,,35-44,Northeast,$35K-$75K,7.79
+2023,11178,Broadcast TV,Spotify,Recommendation,Recommendation,45-54,Midwest,$35K-$75K,7.0
+2023,11370,cable tv,Hulu,Content Selection,,55+,Northeast,<$35K,6.0
+2023,11674,Network TV,Netflix,Content Selection,,45-54,South,$75K-$150K,
+2023,11091,Cable,Amazon Prime Video,Price,,35-44,West,>$150K,7.88
+2023,11315,Cable TV,Netflix,Device Availability,,55+,Midwest,<$35K,6.0
+2023,11578,Print,Netflix,Bundling,,55+,Midwest,<$35K,6.0
+2023,11807,cable tv,Spotify,Recommendation,Device Availability,55+,West,$35K-$75K,7.0
+2023,11069,Cable,Apple TV+,Price,,35-44,South,$35K-$75K,1.67
+2023,11193,print media,Disney+,Recommendation,Bundling,55+,Northeast,<$35K,7.0
+2023,11757,Cable television,Netflix,Content Selection,,45-54,South,<$35K,8.45
+2023,11912,CABLE TV,Apple TV+,Content Selection,Recommendation,25-34,Northeast,$75K-$150K,8.29
+2023,10204,broadcast tv,Netflix,Price,Content Selection,25-34,Midwest,<$35K,
+2023,10510,Network TV,Hulu,Content Selection,,18-24,West,$35K-$75K,7.0
+2023,10322,CABLE TV,Paramount+,Price,,45-54,South,$35K-$75K,8.0
+2023,10212,cable tv,Peacock,Price,,18-24,South,<$35K,6.6
+2023,11981,Cable,Amazon Prime Video,Convenience,Content Selection,25-34,Midwest,$35K-$75K,7.0
+2023,11831,Cable,Amazon Prime Video,Bundling,Price,25-34,Northeast,$75K-$150K,6.0
+2023,11556,CABLE TV,Netflix,Content Selection,,45-54,Midwest,$75K-$150K,10.0
+2023,11169,Broadcast TV,Paramount+,Bundling,,55+,Northeast,$35K-$75K,7.0
+2023,10912,Network TV,Netflix,Content Selection,Bundling,18-24,Midwest,<$35K,8.0
+2023,10264,Print Media,YouTube,Bundling,,35-44,West,>$150K,8.0
+2023,10125,Cable television,Netflix,Price,,35-44,Midwest,>$150K,3.0
+2023,11415,CABLE TV,Hulu,Bundling,Price,45-54,Midwest,$35K-$75K,
+2023,10354,Satellite radio,Peacock,Bundling,,25-34,South,$75K-$150K,7.58
+2023,10235,Cable television,Max,Recommendation,,18-24,South,<$35K,7.56
+2023,11762,Cable TV,Disney+,Price,,25-34,West,$35K-$75K,10.0
+2023,10980,Broadcast,Amazon Prime Video,Price,Price,55+,West,$35K-$75K,8.0
+2023,11559,Satellite Radio,Netflix,Bundling,,55+,Northeast,<$35K,4.0
+2023,10088,CABLE TV,Hulu,Recommendation,,25-34,South,$35K-$75K,6.0
+2023,10669,SiriusXM,YouTube,Price,Bundling,35-44,Midwest,<$35K,6.0
+2023,10617,Network TV,Max,Recommendation,Price,18-24,Midwest,$35K-$75K,7.0
+2023,11841,Print,Hulu,Bundling,,35-44,Northeast,$75K-$150K,8.0
+2023,11744,CABLE TV,Max,Content Selection,,25-34,Midwest,<$35K,7.9
+2023,11062,Network TV,Apple TV+,Recommendation,,55+,Midwest,$75K-$150K,7.0
+2023,10712,Newspaper,Paramount+,Content Selection,,18-24,Northeast,$35K-$75K,
+2023,10394,CABLE TV,Hulu,Device Availability,,25-34,South,>$150K,9.0
+2023,10587,print media,Peacock,Content Selection,Convenience,55+,Northeast,>$150K,6.68
+2023,11290,print media,Peacock,Convenience,Content Selection,35-44,West,<$35K,
+2023,11453,CABLE TV,Hulu,Bundling,,55+,Midwest,<$35K,4.0
+2023,11606,Print Media,Apple TV+,Bundling,Device Availability,45-54,Northeast,<$35K,
+2023,10845,Satellite radio,Netflix,Convenience,Price,18-24,Northeast,$35K-$75K,4.77
+2023,10758,print media,Amazon Prime Video,Content Selection,,45-54,Northeast,$75K-$150K,5.97
+2023,10689,newspaper,Apple TV+,Price,,45-54,West,$75K-$150K,7.0
+2023,10967,Print Media,Peacock,Device Availability,Convenience,25-34,South,>$150K,10.06
+2023,11639,SiriusXM,Netflix,Price,,35-44,South,<$35K,5.0
+2023,11199,Print Media,Paramount+,Content Selection,Convenience,55+,West,<$35K,9.0
+2023,10270,cable tv,Hulu,Device Availability,,45-54,South,>$150K,7.0
+2023,11759,Print Media,Peacock,Content Selection,,35-44,Northeast,>$150K,7.0
+2023,11592,broadcast tv,YouTube,Convenience,,18-24,South,<$35K,
+2023,10257,Print,Spotify,Convenience,,45-54,Midwest,$35K-$75K,5.0
+2023,10076,Cable,Max,Price,Recommendation,45-54,South,<$35K,8.0
+2023,10020,satellite radio,Disney+,Convenience,Content Selection,18-24,West,$75K-$150K,8.0
+2023,10087,Cable TV,Hulu,Device Availability,,45-54,South,<$35K,
+2023,10618,Satellite radio,Max,Content Selection,Bundling,35-44,South,<$35K,6.41
+2023,10569,newspaper,Netflix,Recommendation,Price,35-44,Northeast,<$35K,8.0
+2023,11160,broadcast tv,Hulu,Device Availability,Price,18-24,West,<$35K,7.0
+2023,10886,Broadcast TV,Amazon Prime Video,Recommendation,Device Availability,55+,West,<$35K,
+2023,11737,Satellite Radio,YouTube,Recommendation,,55+,Northeast,<$35K,6.7
+2023,10623,print media,Max,Recommendation,,25-34,Northeast,>$150K,7.0
+2023,10781,Broadcast TV,Peacock,Content Selection,,35-44,Northeast,$75K-$150K,4.0
+2023,11902,Newspaper,Spotify,Convenience,,18-24,Northeast,<$35K,7.0
+2023,10131,Print,Paramount+,Content Selection,,45-54,Northeast,>$150K,9.0
+2023,10303,print media,Paramount+,Price,,18-24,West,<$35K,5.0
+2023,11251,print media,Amazon Prime Video,Device Availability,,55+,West,$75K-$150K,6.0
+2023,10457,Network TV,Apple TV+,Content Selection,Recommendation,55+,Northeast,<$35K,
+2023,10111,newspaper,Apple TV+,Convenience,,55+,Northeast,<$35K,8.15
+2023,11685,print media,Disney+,Content Selection,,25-34,South,<$35K,6.0
+2023,10056,newspaper,Apple TV+,Recommendation,Device Availability,45-54,Northeast,>$150K,7.0
+2023,10289,Network TV,YouTube,Device Availability,Bundling,35-44,South,<$35K,6.0
+2023,11837,Newspaper,Hulu,Price,,18-24,South,$35K-$75K,9.0
+2023,11509,newspaper,Max,Content Selection,Content Selection,18-24,South,$35K-$75K,5.95
+2023,10728,Cable TV,Peacock,Bundling,,18-24,Northeast,$75K-$150K,10.24
+2023,10218,Cable TV,Peacock,Recommendation,,55+,West,$75K-$150K,4.0
+2023,10279,satellite radio,Amazon Prime Video,Convenience,,18-24,Northeast,$75K-$150K,
+2023,11594,cable tv,Paramount+,Recommendation,Content Selection,45-54,West,<$35K,6.0
+2023,10417,Print,Disney+,Bundling,,45-54,West,$75K-$150K,8.03
+2023,11502,SiriusXM,Spotify,Price,Convenience,25-34,West,<$35K,7.06
+2023,11769,Broadcast,Max,Convenience,Device Availability,35-44,Midwest,>$150K,4.0
+2023,10945,Cable TV,Paramount+,Price,Content Selection,18-24,West,<$35K,5.0
+2023,10682,print media,Paramount+,Device Availability,,25-34,Northeast,>$150K,9.0
+2023,11758,Broadcast,Paramount+,Convenience,,35-44,Midwest,>$150K,5.96
+2023,11770,Cable television,Spotify,Recommendation,,45-54,South,$75K-$150K,5.0
+2023,10729,Broadcast,Netflix,Recommendation,,45-54,South,$35K-$75K,6.13
+2023,11082,Network TV,Paramount+,Recommendation,,35-44,South,$35K-$75K,7.0
+2023,11447,Network TV,YouTube,Price,Device Availability,18-24,Midwest,>$150K,
+2023,11218,broadcast tv,Amazon Prime Video,Convenience,Price,55+,South,>$150K,6.0
+2023,10802,cable tv,YouTube,Recommendation,Convenience,18-24,Midwest,$35K-$75K,5.58
+2023,10389,Network TV,Paramount+,Device Availability,Convenience,25-34,West,<$35K,4.0
+2023,10677,CABLE TV,Max,Content Selection,,45-54,South,>$150K,6.8
+2023,11192,print media,Disney+,Recommendation,Price,45-54,Midwest,>$150K,5.85
+2023,10690,Network TV,Disney+,Price,,25-34,Midwest,<$35K,6.0
+2023,11286,Cable,Hulu,Recommendation,,18-24,South,$35K-$75K,10.0
+2023,11387,newspaper,Spotify,Price,Convenience,25-34,West,$75K-$150K,6.08
+2023,11719,Cable television,Netflix,Content Selection,,18-24,West,$35K-$75K,7.0
+2024,11379,print media,Disney+,Convenience,,45-54,South,>$150K,
+2024,10125,Satellite radio,Hulu,Content Selection,,35-44,Midwest,<$35K,9.0
+2024,11089,broadcast tv,YouTube,Recommendation,Bundling,55+,South,<$35K,7.79
+2024,11949,broadcast tv,YouTube,Convenience,Price,18-24,West,$35K-$75K,8.0
+2024,10294,Satellite radio,Paramount+,Convenience,,18-24,South,$35K-$75K,6.0
+2024,11543,Cable television,Disney+,Recommendation,,35-44,West,$75K-$150K,7.0
+2024,10630,SiriusXM,Max,Recommendation,Content Selection,18-24,West,<$35K,
+2024,10714,Satellite radio,Spotify,Convenience,Content Selection,35-44,Northeast,$35K-$75K,7.77
+2024,11322,Broadcast,Apple TV+,Convenience,Price,35-44,South,$35K-$75K,9.0
+2024,11423,Cable television,Paramount+,Bundling,,25-34,Midwest,>$150K,8.32
+2024,11771,satellite radio,Disney+,Content Selection,,55+,South,$75K-$150K,5.0
+2024,10045,Cable,Netflix,Convenience,,45-54,West,<$35K,5.0
+2024,10476,print media,Amazon Prime Video,Content Selection,,55+,West,$75K-$150K,9.82
+2024,11340,broadcast tv,Peacock,Convenience,Bundling,35-44,Midwest,$35K-$75K,9.0
+2024,11990,Print Media,Peacock,Device Availability,,25-34,West,$35K-$75K,8.93
+2024,11686,Satellite radio,Apple TV+,Convenience,,35-44,Midwest,<$35K,7.0
+2024,10771,Satellite radio,Disney+,Convenience,Price,55+,South,$75K-$150K,6.46
+2024,11182,Print Media,Paramount+,Content Selection,,25-34,Midwest,$35K-$75K,4.17
+2024,10458,print media,Amazon Prime Video,Convenience,Bundling,55+,South,<$35K,7.0
+2024,11746,Newspaper,Netflix,Content Selection,Price,35-44,Midwest,<$35K,4.0
+2024,10231,Cable TV,Paramount+,Convenience,,18-24,South,<$35K,9.69
+2024,11767,newspaper,YouTube,Content Selection,Convenience,45-54,Northeast,<$35K,7.74
+2024,11655,Print,Peacock,Price,,25-34,West,>$150K,5.94
+2024,10902,SiriusXM,Netflix,Recommendation,,25-34,West,$75K-$150K,5.0
+2024,10327,Print,Netflix,Bundling,Recommendation,25-34,South,$75K-$150K,5.07
+2024,11153,Cable TV,Amazon Prime Video,Content Selection,,18-24,Northeast,$75K-$150K,7.7
+2024,10570,Broadcast,Amazon Prime Video,Device Availability,Convenience,35-44,Midwest,<$35K,8.0
+2024,11602,newspaper,Apple TV+,Recommendation,,18-24,West,$35K-$75K,6.0
+2024,10908,Cable TV,Max,Recommendation,,45-54,Midwest,$75K-$150K,
+2024,10887,Cable television,YouTube,Bundling,,25-34,Midwest,$35K-$75K,
+2024,10494,CABLE TV,Amazon Prime Video,Recommendation,Convenience,18-24,West,$35K-$75K,7.0
+2024,11875,Network TV,YouTube,Convenience,Price,25-34,Midwest,$75K-$150K,8.0
+2024,11137,Cable,Peacock,Bundling,,35-44,West,$35K-$75K,7.42
+2024,10010,Cable TV,YouTube,Convenience,Convenience,35-44,West,$75K-$150K,9.0
+2024,11105,cable tv,YouTube,Bundling,Price,55+,South,>$150K,5.0
+2024,10455,Newspaper,Hulu,Convenience,Bundling,55+,Midwest,$75K-$150K,6.51
+2024,11961,Print,Spotify,Recommendation,,35-44,West,$75K-$150K,10.0
+2024,11152,Newspaper,Spotify,Price,Convenience,18-24,Midwest,<$35K,4.67
+2024,10066,Broadcast,YouTube,Price,Bundling,35-44,Midwest,<$35K,6.0
+2024,11518,Cable,Apple TV+,Recommendation,,45-54,Northeast,$75K-$150K,4.33
+2024,10814,cable tv,Peacock,Bundling,,25-34,Northeast,>$150K,5.0
+2024,11548,Broadcast TV,Spotify,Content Selection,Content Selection,45-54,West,>$150K,7.0
+2024,11903,newspaper,Netflix,Bundling,,55+,West,$75K-$150K,7.0
+2024,10665,Cable television,Amazon Prime Video,Bundling,Convenience,25-34,West,>$150K,
+2024,10532,Print Media,Netflix,Device Availability,,55+,South,$35K-$75K,
+2024,10124,SiriusXM,Hulu,Bundling,,45-54,Northeast,>$150K,4.36
+2024,10320,Cable TV,Peacock,Content Selection,,18-24,West,$35K-$75K,9.0
+2024,11804,Print,YouTube,Bundling,,45-54,Northeast,$35K-$75K,6.0
+2024,10716,print media,Amazon Prime Video,Recommendation,Device Availability,18-24,West,$75K-$150K,5.95
+2024,11261,CABLE TV,Spotify,Device Availability,,25-34,Northeast,$35K-$75K,6.0
+2024,11492,newspaper,Netflix,Price,Bundling,55+,West,>$150K,9.0
+2024,11254,Newspaper,Amazon Prime Video,Price,Bundling,55+,South,$75K-$150K,7.0
+2024,11674,Print Media,Amazon Prime Video,Price,,18-24,West,<$35K,5.0
+2024,11126,broadcast tv,Amazon Prime Video,Device Availability,Device Availability,55+,Northeast,<$35K,8.0
+2024,10222,newspaper,Disney+,Device Availability,,35-44,Northeast,$35K-$75K,9.69
+2024,11431,Satellite radio,Peacock,Device Availability,Recommendation,18-24,South,<$35K,6.0
+2024,11236,Broadcast TV,Paramount+,Content Selection,Bundling,25-34,West,$35K-$75K,5.0
+2024,10448,Broadcast TV,Netflix,Recommendation,Bundling,55+,Midwest,$35K-$75K,4.0
+2024,11511,Cable TV,Peacock,Bundling,Bundling,18-24,West,<$35K,7.76
+2024,11238,Cable,Netflix,Content Selection,,45-54,Northeast,$35K-$75K,9.0
+2024,10460,satellite radio,Max,Convenience,Bundling,45-54,South,$75K-$150K,6.0
+2024,10260,Cable,Netflix,Device Availability,,25-34,Midwest,$35K-$75K,9.0
+2024,10946,Broadcast TV,YouTube,Price,,25-34,South,>$150K,6.64
+2024,11435,Broadcast TV,Amazon Prime Video,Bundling,Recommendation,18-24,South,$75K-$150K,7.0
+2024,10323,Print Media,Netflix,Convenience,Device Availability,45-54,Midwest,<$35K,6.0
+2024,11552,Cable TV,Amazon Prime Video,Recommendation,,35-44,South,<$35K,4.0
+2024,11010,Network TV,Amazon Prime Video,Bundling,Device Availability,45-54,West,$35K-$75K,11.38
+2024,10369,Network TV,YouTube,Bundling,,45-54,Midwest,<$35K,7.0
+2024,11107,SiriusXM,Disney+,Content Selection,,35-44,South,>$150K,8.64
+2024,11763,Network TV,Hulu,Recommendation,,55+,West,$35K-$75K,10.0
+2024,10178,Satellite radio,YouTube,Device Availability,,55+,South,$35K-$75K,6.0
+2024,11832,SiriusXM,Paramount+,Recommendation,,35-44,West,<$35K,8.86
+2024,11172,Broadcast TV,Spotify,Convenience,,25-34,Northeast,$75K-$150K,7.0
+2024,10241,Cable,Peacock,Price,Price,35-44,Midwest,<$35K,9.0
+2024,11683,Network TV,Disney+,Bundling,,18-24,Midwest,$35K-$75K,9.0
+2024,10793,Cable TV,Netflix,Content Selection,,55+,West,$75K-$150K,4.0
+2024,10712,Broadcast,Netflix,Bundling,,45-54,Midwest,>$150K,6.0
+2024,11335,Cable TV,Apple TV+,Bundling,,25-34,Northeast,$35K-$75K,10.0
+2024,10097,Cable television,Peacock,Recommendation,,18-24,Midwest,>$150K,10.0
+2024,10611,Broadcast TV,Apple TV+,Recommendation,,18-24,Northeast,>$150K,9.8
+2024,11996,Newspaper,YouTube,Recommendation,Bundling,45-54,Midwest,>$150K,9.0
+2024,11581,Print,Max,Content Selection,,35-44,West,$75K-$150K,9.31
+2024,11673,Cable TV,Amazon Prime Video,Recommendation,,35-44,West,<$35K,9.0
+2024,10879,cable tv,Netflix,Content Selection,Bundling,25-34,Northeast,$35K-$75K,7.0
+2024,10121,newspaper,YouTube,Device Availability,Content Selection,55+,West,$35K-$75K,6.93
+2024,10256,cable tv,Max,Recommendation,Bundling,18-24,Midwest,>$150K,7.0
+2024,11700,Newspaper,Disney+,Content Selection,Price,18-24,West,>$150K,5.0
+2024,10881,satellite radio,Hulu,Recommendation,,25-34,Midwest,<$35K,10.0
+2024,11471,Print,YouTube,Price,,35-44,Northeast,$75K-$150K,5.0
+2024,10859,Network TV,Max,Convenience,,55+,West,$75K-$150K,9.0
+2024,10926,Print,Paramount+,Recommendation,Convenience,18-24,South,<$35K,6.0
+2024,10809,print media,YouTube,Device Availability,,25-34,Northeast,<$35K,5.0
+2024,11322,Broadcast,Netflix,Content Selection,,55+,West,$75K-$150K,
+2024,10678,Broadcast TV,Disney+,Recommendation,Bundling,35-44,Northeast,>$150K,5.0
+2024,11687,Satellite radio,Amazon Prime Video,Convenience,,25-34,South,<$35K,9.04
+2024,10351,CABLE TV,Netflix,Recommendation,,55+,West,<$35K,5.79
+2024,10929,Satellite Radio,YouTube,Device Availability,,55+,Midwest,$35K-$75K,7.86
+2024,10340,Broadcast TV,Hulu,Convenience,,55+,Midwest,<$35K,7.0
+2024,11132,Cable TV,Hulu,Bundling,,18-24,Midwest,>$150K,7.61
+2024,11319,Cable television,Netflix,Recommendation,,35-44,Midwest,$75K-$150K,4.0
+2024,10622,Print,Spotify,Device Availability,,25-34,South,<$35K,6.19
+2024,10728,satellite radio,Amazon Prime Video,Bundling,Recommendation,45-54,West,$35K-$75K,7.03
+2024,10420,Network TV,Netflix,Convenience,Price,25-34,West,<$35K,7.0
+2024,11204,SiriusXM,Netflix,Content Selection,,55+,West,<$35K,5.0
+2024,11001,Broadcast TV,Peacock,Recommendation,Price,35-44,Northeast,$35K-$75K,6.0
+2024,10542,Cable TV,YouTube,Bundling,,18-24,South,<$35K,3.0
+2024,11276,Cable,Netflix,Content Selection,Price,55+,Midwest,$75K-$150K,7.0
+2024,11533,satellite radio,Amazon Prime Video,Price,,25-34,West,<$35K,
+2024,11283,Newspaper,Netflix,Content Selection,,45-54,Midwest,>$150K,9.23
+2024,11200,Satellite radio,Netflix,Convenience,Bundling,55+,Midwest,$75K-$150K,5.74
+2024,10765,CABLE TV,Netflix,Device Availability,,55+,West,$75K-$150K,5.0
+2024,10047,cable tv,Peacock,Recommendation,Content Selection,55+,Midwest,$35K-$75K,5.0
+2024,10927,Cable television,Peacock,Price,Recommendation,18-24,West,$35K-$75K,6.11
+2024,11480,print media,Peacock,Recommendation,Content Selection,35-44,Northeast,$75K-$150K,8.56
+2024,10001,Broadcast,Netflix,Price,Device Availability,18-24,West,>$150K,
+2024,11035,Broadcast TV,Apple TV+,Content Selection,Convenience,18-24,South,$35K-$75K,5.0
+2024,11759,Satellite Radio,Peacock,Convenience,,35-44,South,<$35K,6.0
+2024,11118,satellite radio,Paramount+,Price,,18-24,West,>$150K,5.0
+2024,10890,Newspaper,YouTube,Content Selection,Recommendation,18-24,South,$35K-$75K,9.0
+2024,10617,SiriusXM,Spotify,Price,Recommendation,18-24,South,$35K-$75K,5.0
+2024,11671,Print,Spotify,Convenience,Price,18-24,South,$35K-$75K,8.48
+2024,10005,print media,YouTube,Device Availability,,25-34,South,>$150K,7.07
+2024,10857,print media,Apple TV+,Content Selection,,45-54,West,>$150K,5.01
+2024,11532,Broadcast,YouTube,Device Availability,Device Availability,55+,Midwest,$35K-$75K,
+2024,11014,Cable,Netflix,Bundling,Device Availability,18-24,Northeast,>$150K,6.0
+2024,10744,Cable,Max,Recommendation,,55+,South,<$35K,6.0
+2024,11543,Print,Apple TV+,Convenience,,25-34,West,<$35K,8.0
+2024,10845,Satellite radio,Spotify,Content Selection,Price,45-54,Midwest,$35K-$75K,5.81
+2024,11733,Newspaper,Disney+,Content Selection,,45-54,West,$35K-$75K,7.0
+2024,11783,Newspaper,Peacock,Convenience,,18-24,West,<$35K,7.0
+2024,10044,Cable TV,Apple TV+,Bundling,Bundling,55+,Midwest,$35K-$75K,6.0
+2024,10347,Print Media,Netflix,Content Selection,,35-44,Northeast,>$150K,6.0
+2024,10091,Network TV,Paramount+,Recommendation,Bundling,18-24,West,$35K-$75K,7.31
+2024,11117,broadcast tv,Peacock,Convenience,,18-24,Midwest,>$150K,7.0
+2024,10020,Satellite radio,Hulu,Bundling,,55+,West,$75K-$150K,
+2024,11362,SiriusXM,Netflix,Bundling,,35-44,Midwest,<$35K,5.0
+2024,11464,print media,Disney+,Recommendation,,45-54,Midwest,$35K-$75K,8.87
+2024,11889,Broadcast,Hulu,Content Selection,,55+,Northeast,<$35K,8.94
+2024,10211,print media,Max,Price,Price,25-34,West,>$150K,6.51
+2024,11157,CABLE TV,Spotify,Device Availability,,45-54,Midwest,$35K-$75K,1.0
+2024,11965,Cable television,Paramount+,Device Availability,,45-54,Northeast,$35K-$75K,8.0
+2024,11725,Satellite Radio,Apple TV+,Device Availability,,35-44,Northeast,>$150K,6.0
+2024,11729,Cable,Max,Bundling,,45-54,Midwest,>$150K,7.0
+2024,11218,Cable TV,Apple TV+,Bundling,Recommendation,55+,Midwest,>$150K,4.0
+2024,10095,Cable TV,YouTube,Recommendation,Recommendation,18-24,Northeast,<$35K,6.0
+2024,10339,Cable television,Apple TV+,Convenience,,45-54,West,$75K-$150K,6.0
+2024,10381,Network TV,Apple TV+,Convenience,,35-44,West,$75K-$150K,10.0
+2024,11580,Cable TV,Peacock,Bundling,Bundling,45-54,South,$75K-$150K,10.0
+2024,10159,broadcast tv,Max,Convenience,Content Selection,35-44,Midwest,$75K-$150K,9.0
+2024,11851,Cable,Amazon Prime Video,Bundling,Bundling,45-54,Northeast,$35K-$75K,8.0
+2024,10760,Print,Paramount+,Price,,45-54,South,<$35K,7.92
+2024,11590,Cable television,Netflix,Content Selection,Device Availability,35-44,Northeast,$35K-$75K,
+2024,11690,satellite radio,Hulu,Content Selection,Bundling,18-24,West,<$35K,8.0
+2024,11934,newspaper,Paramount+,Content Selection,,35-44,South,$75K-$150K,5.0
+2024,10612,Satellite Radio,Max,Convenience,,45-54,South,$75K-$150K,6.84
+2024,11806,Broadcast TV,YouTube,Convenience,,25-34,Midwest,<$35K,5.0
+2024,11666,Satellite Radio,Disney+,Device Availability,,18-24,South,$75K-$150K,6.47
+2024,10487,Cable TV,Apple TV+,Bundling,,25-34,Midwest,$75K-$150K,9.0
+2024,11269,broadcast tv,Disney+,Price,Bundling,45-54,West,>$150K,6.0
+2024,10530,Print Media,Hulu,Bundling,,35-44,South,$35K-$75K,
+2024,11110,Broadcast,YouTube,Convenience,,55+,West,$75K-$150K,8.0
+2024,11871,Cable television,Netflix,Device Availability,,55+,West,$75K-$150K,8.0
+2024,10070,Broadcast,Hulu,Recommendation,Price,45-54,West,$35K-$75K,7.0
+2024,11197,Cable TV,Spotify,Price,,55+,South,$75K-$150K,6.0
+2024,10461,Print Media,YouTube,Convenience,Bundling,55+,Northeast,>$150K,7.99
+2024,10355,Satellite Radio,Paramount+,Bundling,,55+,Northeast,$35K-$75K,6.22
+2024,11840,Satellite Radio,Netflix,Device Availability,,45-54,Midwest,$75K-$150K,9.0
+2024,10321,satellite radio,Paramount+,Recommendation,,35-44,Northeast,>$150K,5.0
+2024,10713,CABLE TV,Hulu,Bundling,,18-24,West,$35K-$75K,6.0
+2024,11960,satellite radio,Apple TV+,Bundling,,45-54,South,>$150K,6.95
+2024,10394,CABLE TV,Paramount+,Recommendation,Price,25-34,Northeast,>$150K,6.0
+2024,10506,CABLE TV,Netflix,Device Availability,,18-24,Northeast,$35K-$75K,7.0
+2024,10422,Network TV,Hulu,Bundling,,18-24,West,<$35K,8.0
+2024,10354,Cable TV,Netflix,Recommendation,,25-34,West,$35K-$75K,5.9
+2024,10013,Satellite radio,Amazon Prime Video,Convenience,,55+,West,$75K-$150K,
+2024,10343,Print,Peacock,Recommendation,Bundling,55+,West,$35K-$75K,5.56
+2024,10501,Network TV,Netflix,Recommendation,Device Availability,18-24,South,$35K-$75K,8.0
+2024,10732,Newspaper,Netflix,Convenience,Price,55+,West,$35K-$75K,8.0
+2024,10137,Cable TV,Max,Convenience,,55+,South,<$35K,8.0
+2024,10083,Cable TV,Disney+,Content Selection,,35-44,Northeast,$35K-$75K,7.0
+2024,10315,Cable television,Spotify,Bundling,Price,55+,West,>$150K,5.15
+2024,11658,satellite radio,Max,Convenience,Convenience,35-44,West,>$150K,5.29
+2024,10766,print media,Peacock,Device Availability,,35-44,Northeast,<$35K,3.0
+2024,11855,newspaper,Amazon Prime Video,Price,Recommendation,35-44,West,$35K-$75K,9.0
+2024,11649,Cable television,Amazon Prime Video,Price,,55+,South,<$35K,9.0
+2024,10704,Print Media,Disney+,Content Selection,Convenience,18-24,West,$75K-$150K,
+2024,11747,broadcast tv,Spotify,Content Selection,,45-54,Northeast,>$150K,8.0
+2024,11993,Newspaper,Disney+,Device Availability,Device Availability,55+,Midwest,$75K-$150K,6.0
+2024,10232,Broadcast TV,Peacock,Price,Convenience,18-24,South,$35K-$75K,9.0
+2024,11266,satellite radio,Hulu,Content Selection,,35-44,Midwest,>$150K,8.0
+2024,11811,Print Media,Spotify,Content Selection,,45-54,Midwest,<$35K,7.0
+2024,11493,broadcast tv,Amazon Prime Video,Content Selection,,18-24,South,>$150K,6.0
+2024,10463,Print,YouTube,Device Availability,,45-54,South,<$35K,6.0
+2024,10691,SiriusXM,Peacock,Recommendation,Price,18-24,South,$75K-$150K,6.0
+2024,10580,Cable TV,Disney+,Content Selection,Device Availability,25-34,Midwest,<$35K,10.0
+2024,10672,SiriusXM,Paramount+,Convenience,,18-24,Northeast,>$150K,9.0
+2024,11630,broadcast tv,Max,Recommendation,Convenience,18-24,South,$35K-$75K,
+2024,11470,Network TV,Apple TV+,Recommendation,,25-34,West,<$35K,10.0
+2024,11398,Broadcast,Peacock,Content Selection,Bundling,35-44,West,$75K-$150K,5.0
+2024,11838,broadcast tv,Hulu,Convenience,,18-24,South,$75K-$150K,
+2024,10068,cable tv,Apple TV+,Price,,25-34,Midwest,$75K-$150K,8.0
