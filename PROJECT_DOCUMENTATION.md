@@ -1,8 +1,7 @@
 # CS689 Term Project – Project Documentation
 ### Traditional vs. Digital Media Consumption Shift
-**Author:** Medha Odduturu  
+**Author:** Medha Prodduturi  
 **Date:** April 2026  
-**Course:** CS689 – Cloud Data Warehousing
 
 ---
 
