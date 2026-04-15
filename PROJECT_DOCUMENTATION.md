@@ -37,10 +37,10 @@
 
 | Dimension | SCD Type | Key Attributes | Reason for SCD Type |
 |---|---|---|---|
-| `DIM_PLATFORM` | **SCD2** | platform_key, platform_name, parent_company, business_model, media_sector, effective_date, end_date, is_current | Parent company and branding changes must preserve history (e.g., HBO Max → Max, Disney acquiring Hulu) |
+| `DIM_PLATFORM` | **SCD3** | platform_key, platform_name, current_parent_company, previous_parent_company, current_business_model, previous_business_model, parent_company_change_date, content_focus, launch_year, is_digital | Parent/rebrand changes are rare — only need current vs. previous state in same row (e.g., HBO Max → Max) |
 | `DIM_MEDIA_TYPE` | SCD1 | media_type_key, media_type, category (Traditional/Digital), sub_category | Category lookups rarely restructure; overwrite is acceptable |
 | `DIM_GEOGRAPHY` | SCD1 | geo_key, region, country, continent | Regional boundaries rarely change; overwrite acceptable |
-| `DIM_SUBSCRIPTION_PLAN` | **SCD3** | plan_key, platform_name, current_price, previous_price, current_tier, previous_tier, price_change_date | Need to track both current and immediately prior price/tier in the same row |
+| `DIM_SUBSCRIPTION_PLAN` | **SCD2** | plan_key, platform_name, price, price_tier, effective_date, end_date, is_current | Prices change frequently (Netflix alone: $7.99→$9.99→$13.99→$15.49→$17.99) — need full price history to analyze revenue trends and churn |
 | `DIM_SWITCH_REASON` | SCD1 | reason_key, primary_reason, reason_category, is_cost_related, is_content_related | Category lookup; values do not change meaningfully |
 
 ### 1.3 Time Dimension
@@ -107,8 +107,8 @@
 | DIM_SWITCH_REASON build | Not started |
 | DIM_PLATFORM initial load | Done (columns only, no SCD logic) |
 | DIM_SUBSCRIPTION_PLAN build | Not started |
-| **SCD2 upsert logic – DIM_PLATFORM** | Not started |
-| **SCD3 update logic – DIM_SUBSCRIPTION_PLAN** | Not started |
+| **SCD3 update logic – DIM_PLATFORM** | Done |
+| **SCD2 upsert logic – DIM_SUBSCRIPTION_PLAN** | Done |
 | FACT_MEDIA_PERFORMANCE load | Not started |
 | FACT_ENGAGEMENT load | Not started |
 | FACT_SUBSCRIPTION_PRICING load | Not started |
@@ -120,24 +120,28 @@
 
 Must show delta load maintenance for SCD0, SCD1, and at least one of SCD2 or SCD3.
 
-**SCD2 Demo — DIM_PLATFORM (HBO Max → Max rebrand)**
+**SCD2 Demo — DIM_SUBSCRIPTION_PLAN (Netflix price increase)**
+
+Prices change frequently — full history needed for revenue and churn analysis. Each price change creates a new row.
 
 | Step | Action |
 |---|---|
-| 1 | Show initial row: `platform_name = HBO Max`, `is_current = True`, `effective_date = 2020-05-27`, `end_date = NULL` |
-| 2 | Simulate incoming delta: `platform_name` changed to `Max` |
-| 3 | Expire old row: `end_date = 2023-05-23`, `is_current = False` |
-| 4 | Insert new row: `platform_name = Max`, new surrogate key, `effective_date = 2023-05-23`, `end_date = NULL`, `is_current = True` |
-| 5 | Show both rows in DIM_PLATFORM — historical record preserved |
+| 1 | Show current row: `platform = Netflix`, `price = 15.49`, `price_tier = Mid`, `is_current = True`, `end_date = NULL` |
+| 2 | Simulate incoming delta: Netflix raises price to $17.99 (Jan 2024) |
+| 3 | Expire old row: `end_date = 2023-12-31`, `is_current = False` |
+| 4 | Insert new row: `price = 17.99`, `price_tier = Premium`, new `plan_key`, `effective_date = 2024-01-01`, `end_date = NULL`, `is_current = True` |
+| 5 | Show both rows — full price history preserved for revenue/churn analysis |
 
-**SCD3 Demo — DIM_SUBSCRIPTION_PLAN (Netflix price increase)**
+**SCD3 Demo — DIM_PLATFORM (HBO Max → Max rebrand)**
+
+Parent company and rebrand changes are rare — only need current vs. previous in same row.
 
 | Step | Action |
 |---|---|
-| 1 | Show row: `current_price = 15.49`, `previous_price = NULL`, `current_tier = Mid` |
-| 2 | Simulate price increase to $17.99 |
-| 3 | Shift current → previous columns in place |
-| 4 | Show updated row: `current_price = 17.99`, `previous_price = 15.49`, `current_tier = Premium`, `previous_tier = Mid`, `price_change_date = 2024-01-01` |
+| 1 | Show initial row: `current_parent_company = Warner Bros. Discovery`, `previous_parent_company = NULL`, `current_business_model = Subscription` |
+| 2 | Simulate rebrand delta: business model changes to `Subscription + Ads` (May 2023) |
+| 3 | Shift current → previous in place; write new current values |
+| 4 | Show updated row: `current_business_model = Subscription + Ads`, `previous_business_model = Subscription`, `parent_company_change_date = 2023-05-23` |
 
 ---
 
