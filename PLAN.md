@@ -1,97 +1,117 @@
-# Media Analytics ETL — Full Implementation Plan
+# Media Analytics ETL — Project Plan
 
-All implementation goes in `media_analytics_etl.ipynb`. `final.ipynb` is hands-off.
-
----
-
-## Already Completed ✅
-
-- **Part 1:** All 8 data sources profiled
-- **Part 2:** `streaming_service.csv` transformations (T1–T6: dedup, date parse, price tier, MoM change, cumulative increase, name normalization)
-- **Part 3:** `platform_summary.csv` transformations (T7–T9: select cols, derived cols, cross-source alignment)
-- **Part 4:** `DIM_SUBSCRIPTION_PLAN` (SCD2) built + delta demo; `DIM_PLATFORM` (SCD3) built + delta demo
-- **Part 5:** PostgreSQL connection (`cs689` db, `media` schema)
-- **Part 6:** `FACT_SUBSCRIPTION_PRICING` built + loaded (777 rows)
-- **`UPDATE4.sql`:** BQ4 SQL query written (LAG + RANK window functions)
+End-to-end plan followed to build the Media Analytics data warehouse in
+`media-analytics.ipynb`. The pipeline ingests eight raw sources, cleans and
+conforms them, loads a constellation schema into PostgreSQL (`media` schema),
+and answers five business questions through analytical SQL in
+`analytical-queries.sql`.
 
 ---
 
-## Stage 1 — Remaining Dimensions
-Build and load 4 missing dims. Must include **SCD0 + SCD1 delta demos** (guideline requirement).
+## Part 1 — Data Sources Profile
 
-| Dim | Source | SCD Type | Key note |
+Eight CSVs were profiled for row count, null distribution, column types,
+uniqueness, and date coverage before any transformation.
+
+| # | File | Rows | Feeds |
 |---|---|---|---|
-| `DIM_DATE` | Generated programmatically (2010–2026) | SCD0 | Delta demo: insert-only, no updates ever |
-| `DIM_MEDIA_TYPE` | Derived from `traditional_media_df` + `user_engagement_df` | SCD0 | Cols: media_type, category, is_digital |
-| `DIM_GEOGRAPHY` | Derived from `platform_subscriber_monthly` + `traditional_media` | SCD1 | Delta demo: overwrite on region name correction |
-| `DIM_SWITCH_REASON` | `switch_factor_survey.csv` | SCD0 | Cols: primary/secondary reason, is_price_related, is_content_related |
+| 1 | `streaming_service.csv` | 777 | FACT_SUBSCRIPTION_PRICING, DIM_SUBSCRIPTION_PLAN |
+| 2 | `platform_summary.csv` | 12 | DIM_PLATFORM |
+| 3 | `platform_financials_comprehensive.csv` | 10 | FACT_MEDIA_PERFORMANCE |
+| 4 | `industry_metrics.csv` | 9 | FACT_MEDIA_PERFORMANCE |
+| 5 | `traditional_media_viewership_monthly.csv` | 1,624 | FACT_MEDIA_PERFORMANCE |
+| 6 | `platform_subscriber_monthly.csv` | 640 | FACT_MEDIA_PERFORMANCE |
+| 7 | `user_engagement_monthly.csv` | 4,120 | FACT_ENGAGEMENT |
+| 8 | `switch_factor_survey.csv` | 2,025 | FACT_ENGAGEMENT, DIM_SWITCH_REASON |
 
-Load all 4 to PostgreSQL (`media` schema).
-
----
-
-## Stage 2 — Transform + Load FACT_MEDIA_PERFORMANCE
-**Sources:** `traditional_media_viewership_monthly.csv` + `platform_subscriber_monthly.csv` + `platform_financials_comprehensive.csv`
-
-Key transforms needed:
-- Fix 4 mixed date formats (`March 2010`, `2016/11`, `Jan-2010`, `June 2010`)
-- Normalize `media_type` casing (`cable tv` / `CABLE TV` → `Cable TV`)
-- Strip `"M"` suffix from `metric_value` strings (e.g. `13.8M`)
-- Remove 25 duplicate rows
-- Join subscriber data for `subscribers_millions`, `revenue_usd_millions`
-- Resolve FKs: `platform_key`, `media_type_key`, `geography_key`, `date_key`
-- Load → `media.fact_media_performance`
+Known-issue catalog (mixed date formats, inconsistent casing, embedded units,
+duplicate rows, mixed numeric/string columns) was documented per source so
+each issue could be tied to a specific downstream transform.
 
 ---
 
-## Stage 3 — Transform + Load FACT_ENGAGEMENT
-**Sources:** `user_engagement_monthly.csv` + `switch_factor_survey.csv`
+## Part 2 — Transformations
 
-Key transforms needed:
-- Fix 2 mixed date formats (`01/2015` vs `2015-01`)
-- Normalize `retention_rate_pct` (decimal `0.9165` vs string `"92.7%"`)
-- Remove 40 duplicate rows; keep one canonical row per platform × month × region
-- Normalize `switched_from` (18 variants → canonical set)
-- Resolve FKs: `platform_key`, `date_key`, `switch_reason_key`, `geography_key`
-- Load → `media.fact_engagement`
+Raw frames are cleaned and enriched before any warehouse load. Transformation
+families applied across sources:
 
----
-
-## Stage 4 — BQ4 Analytical Query (run in notebook)
-Already written in `UPDATE4.sql`. Run against PostgreSQL, display results in notebook.
-- **Tables:** `FACT_SUBSCRIPTION_PRICING` + `DIM_SUBSCRIPTION_PLAN`
-- **Complexity:** CTE + LAG window function + RANK window function
-
----
-
-## Stage 5 — BQ1 Analytical Query (2nd required complex query)
-Traditional vs. digital viewership/subscriber trend 2015–2024.
-- **Tables:** `FACT_MEDIA_PERFORMANCE` + `DIM_MEDIA_TYPE` + `DIM_DATE`
-- **Complexity:** CTE + conditional aggregation (pivot) + YoY window function
+- **Deduplication** — exact-duplicate removal on traditional media and user
+  engagement frames.
+- **Date normalization** — collapse mixed formats (`Jan-2010`, `2010/01`,
+  `March 2010`, `2015-01`, `01/2015`, `Jul-2011`) to a single `datetime`.
+- **Casing and value normalization** — `cable tv` / `CABLE TV` → `Cable TV`;
+  `switched_from` variants (`Cable`, `cable tv`, `Cable TV`) → canonical set;
+  `retention_rate_pct` mixed decimal/percent strings → uniform percent.
+- **Unit stripping** — remove `"M"` suffix from `metric_value`, cast to float.
+- **Derived columns** — `price_tier`, `is_digital`, `media_sector`,
+  `price_change_mom`, `cumulative_price_increase`, `yoy_growth_pct`,
+  `cumulative_subscribers`.
+- **Cross-source platform alignment** — reconcile platform names across
+  streaming, financial, and subscriber feeds before FK resolution.
 
 ---
 
-## Stage 6 — CSV Exports for Visualization
-Export clean result sets for each BQ to CSV. Visualizations done in Tableau/Power BI separately.
+## Part 3 — Dimension Build and Load
 
-Guideline requirements:
-- At least 3 visualizations
-- One with drill-down/roll-up → use `DIM_DATE` hierarchy (decade → year → quarter → month)
-- One with filtering
-- One with calculated fields
-- All dimensions used across visualizations
+Six dimensions built with full SCD-type coverage and per-dimension delta
+demonstrations to prove the SCD behavior works end to end.
+
+| Dimension | SCD | Source | Delta demo |
+|---|---|---|---|
+| `DIM_DATE` | SCD0 | Generated (2010–2026, monthly grain) | Attempted update to immutable `month_name` is rejected |
+| `DIM_MEDIA_TYPE` | SCD1 | `traditional_media` + `user_engagement` | `sub_category` correction overwrites in place |
+| `DIM_GEOGRAPHY` | SCD1 | Region/market fields across four sources | Region name correction overwrites in place |
+| `DIM_SWITCH_REASON` | SCD1 | `switch_factor_survey` | Reason-category correction overwrites in place |
+| `DIM_SUBSCRIPTION_PLAN` | SCD2 | `streaming_service` | Netflix price change ($15.49 → $17.99, Jan 2024): old row expired, new surrogate key inserted |
+| `DIM_PLATFORM` | SCD3 | `platform_summary` | Parent-company rebrand: current + previous kept in same row |
 
 ---
 
-## Guidelines Checklist
+## Part 4 — Fact Build
 
-| Requirement | Status |
-|---|---|
-| SCD0 delta demo | Stage 1 |
-| SCD1 delta demo | Stage 1 |
-| SCD2 delta demo (DIM_SUBSCRIPTION_PLAN) | ✅ Done |
-| SCD3 delta demo (DIM_PLATFORM) | ✅ Done |
-| 2 analytical SQL queries with complexity | Stages 4–5 |
-| CSV exports for visualizations | Stage 6 |
-| Physical data flow diagram | ✅ Done (`diagrams/`) |
-| Constellation schema diagram | ✅ Done (`diagrams/`) |
+Three fact tables, each at a specific grain:
+
+| Fact | Grain | Sources | FKs |
+|---|---|---|---|
+| `FACT_SUBSCRIPTION_PRICING` | Platform × month | `streaming_service` | platform, date, plan |
+| `FACT_MEDIA_PERFORMANCE` | Platform × month (streaming + traditional halves unioned) | `platform_subscriber_monthly`, `platform_financials_comprehensive`, `traditional_media_viewership_monthly`, `industry_metrics` | platform, date, media_type, geography |
+| `FACT_ENGAGEMENT` | Platform × month × region | `user_engagement_monthly`, `switch_factor_survey` | platform, date, geography, switch_reason |
+
+`switch_reason_key` on `FACT_ENGAGEMENT` is assigned from the modal
+`primary_switch_reason` for users who switched **to** that platform in that
+month and region.
+
+---
+
+## Part 5 — PostgreSQL Load (`media` schema)
+
+All six dimensions and three facts are written to the `media` schema using
+`psycopg2` with parameterized `INSERT ... ON CONFLICT` loads. Dimension loads
+precede fact loads so FK resolution succeeds.
+
+---
+
+## Part 6 — Analytical Queries (`analytical-queries.sql`)
+
+Five business questions, each expressed as a complex analytical SQL query
+using CTEs and window functions.
+
+| # | Business question | Techniques |
+|---|---|---|
+| BQ1 | Traditional vs. digital viewership/subscriber trend, 2015–2024 | Multi-fact join, conditional aggregation |
+| BQ2 | When did the shift from traditional to digital accelerate most? | CTE pipeline, pivot via `CASE`, 3-year moving-average window |
+| BQ3 | User engagement comparison by media type and region | CTE aggregation, `LAG` window for year-over-year retention delta |
+| BQ4 | Streaming price changes over time and relation to subscriber growth | `LAG` for prior price, percent-change math, `RANK` window |
+| BQ5 | Factors most influencing users to switch to digital | Aggregation with `COUNT(*) OVER ()` percent-of-total window |
+
+Results are rendered inline in the notebook and exported as CSVs to drive the
+Tableau/Power BI visualizations.
+
+---
+
+## Deliverables
+
+- `media-analytics.ipynb` — end-to-end pipeline (profile, transform, model, load).
+- `analytical-queries.sql` — five analytical queries against the `media` schema.
+- `Diagrams/` — physical data flow and constellation schema diagrams.
+- CSV exports — result sets feeding the visualization layer.
